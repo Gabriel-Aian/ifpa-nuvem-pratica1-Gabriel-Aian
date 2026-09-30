@@ -46,7 +46,7 @@ def chamar_gemini(contents, system=SYSTEM_PROMPT):
     chave = os.environ.get("GEMINI_API_KEY")
     if not chave:
         raise ErroLLM("GEMINI_API_KEY não configurada")
-    modelo = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite")
+    modelo = os.environ.get("GEMINI_MODEL", "gemini-3.1-flash-lite")
     corpo = {
         "systemInstruction": {"parts": [{"text": system.replace("{max_passos}", str(MAX_PASSOS))}]},
         "contents": contents,

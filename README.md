@@ -51,7 +51,7 @@ curl -X POST http://localhost:5000/predict -H "Content-Type: application/json" \
 Para testar o agente real localmente:
 
 ```bash
-docker run --rm -p 5000:5000 -e GEMINI_API_KEY=SUA_CHAVE -e GEMINI_MODEL=gemini-2.5-flash-lite ifpa-nuvem
+docker run --rm -p 5000:5000 -e GEMINI_API_KEY=SUA_CHAVE -e GEMINI_MODEL=gemini-3.1-flash-lite ifpa-nuvem
 curl -X POST http://localhost:5000/agente -H "Content-Type: application/json" \
      -d '{"prompt":"Qual a carga horária de Computação em Nuvem e em que período é ofertada?"}'
 ```
@@ -66,7 +66,7 @@ curl -X POST http://localhost:5000/agente -H "Content-Type: application/json" \
 3. Em **Environment Variables** adicione:
    - `MODO=mock`
    - `GEMINI_API_KEY=...` (só para o `/agente`; **nunca** commitar a chave)
-   - `GEMINI_MODEL=gemini-2.5-flash-lite`
+   - `GEMINI_MODEL=gemini-3.1-flash-lite`
 4. Em **Advanced → Health Check Path:** `/health`.
 5. **Create Web Service.** Ao terminar o build, a URL `https://<nome>.onrender.com` já responde em HTTPS.
 
