@@ -1,0 +1,1208 @@
+[
+ {
+  "id": 0,
+  "titulo": "Apresentação",
+  "secao": "corpo",
+  "texto": "O presente Projeto Pedagógico trata da criação do curso de Bacharelado em\nCiência da Computação (BCC) a ser oferecido pelo Instituto Federal do Pará – campus\nAnanindeua. A construção desse documento tomou por referência os seguintes\ndispositivos legais: Constituição Federal 1988; Lei de Diretrizes e Bases da Educação\nnº 9394/96; as Diretrizes Curriculares Nacionais do Curso de Graduação na área da\nComputação - Resolução CNE/CES n° 05/2016, o documento “Referenciais de\nFormação para os Cursos de Graduação em Computação, 2017”, o Parecer CNE/CES\nnº 136/2012, os Pareceres CNE/CES nº 776/1997, CNE/CES nº 67/2003 e CNE/CES\nnº 08/2007 e o Parecer CNE/CES nº 108/2003, entre outros.\nSua proposta surge para atender a comunidade de Ananindeua e adjacências,\ncom a valorização e a qualificação de profissionais em Ciência da Computação\nmediante as demandas dos arranjos produtivos locais.\nEsse Projeto fundamenta-se em uma formação holística, conceitual, teórica e\nexperimental nas diferentes áreas fins da Computação, de modo a qualificar o (a)\nestudante para atuar em qualquer área e ramo de conhecimento em que recursos\ncomputacionais sejam empregados.\nNeste contexto, o Bacharelado em Ciência da Computação (BCC), inscreve-se\nno âmbito das ações de natureza acadêmica e sócio profissional e nos princípios da\nintegração teoria/prática, bem como na articulação entre ensino, pesquisa, extensão,"
+ },
+ {
+  "id": 1,
+  "titulo": "Apresentação (cont.)",
+  "secao": "corpo",
+  "texto": "da Computação (BCC), inscreve-se\nno âmbito das ações de natureza acadêmica e sócio profissional e nos princípios da\nintegração teoria/prática, bem como na articulação entre ensino, pesquisa, extensão,\ninovação e interdisciplinaridade.\nSendo assim, o curso propõe uma aprendizagem de abrangência significativa\nnos campos social, científico e tecnológico, considerando, igualmente, a própria\nrealidade vivenciada pelo (a) estudante, de modo que os (as) egressos (as) dessa\ncategoria de curso desenvolvam competências, habilidades e conhecimentos\nnecessários ao mundo do trabalho.\nDe modo que propomos que o (a) Bacharel (a) em Ciência da Computação seja\num (a) profissional ético (a), criativo (a) e flexível, tenha espírito crítico, iniciativa,\ncapacidade de julgamento e tomada de decisão, seja apto (a) a coordenar e atuar em\nequipes multidisciplinares, tenha habilidade em comunicação oral e escrita e saiba\n\nvalorizar a formação continuada, proporcionando às organizações condições de\ncompetitividade no mundo do trabalho."
+ },
+ {
+  "id": 2,
+  "titulo": "Seção 1 - Justificativa",
+  "secao": "corpo",
+  "texto": "A Ciência da Computação agrupa um grande número de áreas de estudo, dos\nmais abstratos aos mais aplicados. Seus estudos e inovações podem ser empregados\nem inúmeras extensões do conhecimento humano, o que é evidenciado pela\ncrescente demanda por profissionais da área. Dessa forma, o (a) Bacharel (a) em\nCiência da Computação (BCC) é uma exigência fundamental no mundo do trabalho\nna resolução de problemas da sociedade baseados em informação e comunicação.\nNo âmbito dos setores produtivos, temos conforme da Confederação Nacional\ndas Indústrias (CNI, 2018), que o Estado do Pará possui Produto Interno Bruto (PIB)\nindustrial de R$ 43,8 bilhões, equivalente a 3,7% da indústria nacional, sendo os\nprincipais setores no Estado a Extração mineral, 46,9%; os Serviços industriais de\nutilidade pública, 23,4%; a Construção, 14,8%; a Metalurgia, 4,3% e os Alimentos,\n4,3%.\nJuntos, esses setores representam 93,7% da indústria no Pará com suporte de\ntecnologias, informação e comunicação. No município de Ananindeua, no qual o\ncampus Ananindeua está contido existe o Distrito Industrial (DI) que conta com\naproximadamente 60 empresas em uma área de mais de 4.745.463,17 m²/474\nhectares, em amplo crescimento econômico, com o 3º maior PIB do\nPará (2017/IBGE).\nCom modais de transporte terrestre, marítimo e aéreo disponíveis, o DI de"
+ },
+ {
+  "id": 3,
+  "titulo": "Seção 1 - Justificativa (cont.)",
+  "secao": "corpo",
+  "texto": "s em uma área de mais de 4.745.463,17 m²/474\nhectares, em amplo crescimento econômico, com o 3º maior PIB do\nPará (2017/IBGE).\nCom modais de transporte terrestre, marítimo e aéreo disponíveis, o DI de\nAnanindeua é estrategicamente importante para o desenvolvimento econômico e\nsocial da região. Suas principais indústrias são: mobiliárias, alimentos e bebidas,\nfarmacêuticas, couro, plástico, minerais não metálicos, papel, metalurgia, mecânica,\ntransporte, borracha, química, de transporte e perfumaria.\nEsse perfil econômico e industrial somado as tendências recentes de mercado\nmostram uma demanda muito significativa para a área de inovação e\nconsequentemente a formação de profissionais que venham suprir antigas e/ou novas\ndemandas computacionais.\nNesse sentido, a proposta do curso de Bacharelado em Ciência da Computação,\n\njustifica-se pela demanda apresentada, uma vez que o Campus Ananindeua assume\no compromisso com a proposta formativa dos munícipes da região de Integração\nMetropolitana junto com a capital Belém e os demais Municípios: Marituba,\nBenevides, Santa Bárbara e Santa Izabel, conforme a Figura 1, a partir dos Arranjos\nProdutivos Locais (APL’s) buscando atender a velocidade das transformações que\nnascem das novas tecnologias, dos modelos de negócios e sistemas de gestão\ncomputacional nesses territórios, gerando, sobretudo, novas oportunidades de"
+ },
+ {
+  "id": 4,
+  "titulo": "Seção 1 - Justificativa (cont.)",
+  "secao": "corpo",
+  "texto": "ando atender a velocidade das transformações que\nnascem das novas tecnologias, dos modelos de negócios e sistemas de gestão\ncomputacional nesses territórios, gerando, sobretudo, novas oportunidades de\ndesenvolvimento econômico e social na região\nFigura 1: Localização da Cidade de Ananindeua.\nEm virtude da computação, naturalmente, fazer parte das mais variadas\natividades humanas, o desenvolvimento da ciência computacional é dinâmico e\nsubsidiado por profundas relações bidirecionais com o contexto e ambiente em que\nse insere. O caráter multi e interdisciplinar que caracteriza muitas de suas aplicações\nfazem com que a área de Computação herde e/ou tenha comprometimentos\nhumanos, éticos e sociais não apenas próprios, mas também com campos de\nconhecimento com as quais interage.\nSustentado nessa compreensão, a relevância social do curso está justamente\nna formação de profissionais qualificados, amplamente engajados nos aspectos\neconômicos com o aumento da eficiência nos setores produtivos dos municípios, mas\ntambém socialmente consciente e crítico quanto ao seu papel na sociedade da qual\nfaz parte.\nEm uma proposta inicial, o Bacharelado em Ciência da Computação, iniciará em\n\n2022 com a entrada da primeira turma em 2022.1. Com isso, manteremos a\nsistemática de ingresso nos anos posteriores de modo que em 2023 a entrada da\nturma ocorrerá em 2023.1 e/ou 2023.2 e assim sucessivamente."
+ },
+ {
+  "id": 5,
+  "titulo": "Seção 2 - Regime Letivo",
+  "secao": "corpo",
+  "texto": "O BCC será presencial, com regime letivo semestral constituído por 8 (oito)\nsemestres letivos e estágio curricular obrigatório. O tempo mínimo de integralização\ndo curso será em 8 (oito) semestres letivos e o máximo será de 12 (doze) semestres.\nOs turnos de oferta do referido curso poderão ser: matutino e/ou vespertino e/ou\nnoturno. A decisão do turno de oferta se dará de acordo com o Plano de\nDesenvolvimento Institucional vigente e levando em consideração a infraestrutura\nfísica e de pessoal do campus Ananindeua.\nCom entrada de uma turma por ano com, no máximo, 35 (trinta e cinco) vagas\npor turma, totalizando um número máximo de 35 vagas anuais. A matriz curricular está\nestruturada com seus componentes curriculares definido em 3.201 horas relógio."
+ },
+ {
+  "id": 6,
+  "titulo": "Seção 3 - Requisitos E Formas De Acesso",
+  "secao": "corpo",
+  "texto": "O ingresso no curso de Bacharelado em Ciência da Computação do campus\nAnanindeua, conforme a Portaria Normativa MEC 02/2010, a Lei nº 12.711/2012 será\nregido por edital específico, sendo o Processo Seletivo Unificado (PSU) a forma de\nacesso ao curso.\nO Processo Seletivo do curso BCC, regido por edital, ocorrerá por meio do\nSistema de Seleção Unificada (SISU) com o aproveitamento das notas do Exame\nNacional de Ensino Médio (ENEM), respeitando a reserva de vagas aos estudantes\nde escola pública e demais ações afirmativas, conforme prevê a Lei nº 12.711/2012.\nFinalizado esse Processo Seletivo e constatada, pela Coordenação do Curso, a\nocorrência de vagas ociosas, estas poderão ser reofertadas em Processo Seletivo\nEspecial destinadas: a transferência interna entre os campi do IFPA e/ou transferência\nexterna entre instituições de nível superior e/ou portadores de diploma de ensino\nsuperior e transferência ex-offício.\nPoderá ainda ser realizado Processo Seletivo classificatório para candidatos\n\narrolados em Termo de Convênio, Intercâmbio ou Acordo Cultural assinado com o\nIFPA, quando for o caso, sendo que os critérios de seleção, regidos em edital\nespecífico, estarão estabelecidos no instrumento da parceria."
+ },
+ {
+  "id": 7,
+  "titulo": "Seção 4 - Objetivos Do Curso",
+  "secao": "corpo",
+  "texto": "4.1. Objetivo Geral\nFormar profissionais para atuar de forma inovadora e transformadora nas\ndiferentes áreas de conhecimento da Computação, capazes de se adaptar às\nconstantes mudanças tecnológicas e sociais.\n4.2. Objetivo Específico\na) Promover uma formação humana e cidadã, regida por princípios éticos que\natentem às inovações tecnológicas, avaliando seu impacto no desenvolvimento\ne na construção da sociedade;\nb) Compreender o impacto da computação e suas tecnologias na sociedade no que\nconcerne ao atendimento e à antecipação estratégica das necessidades sociais;\nc) Desenvolver visão crítica e criativa na identificação e resolução de problemas\ncontribuindo para o desenvolvimento da sua área;\nd) Atuar de forma empreendedora, abrangente e cooperativa no atendimento às\ndemandas sociais locais, nacionais e internacionais;\ne) Utilizar racionalmente os recursos disponíveis de forma transdisciplinar;\nf) Compreender a necessidade da contínua atualização e aprimoramento das suas\ncompetências e habilidades;\ng) Reconhecer a importância do pensamento computacional na vida cotidiana,\ncomo também sua aplicação em outros domínios e ser capaz de aplicá-los em\ncircunstâncias apropriadas;\nh) Atuar em um mundo de trabalho globalizado;\ni) Atuar como agentes integradores, promovendo a acessibilidade digital;\nj) Habilitar os egressos à realização de forma eficiente, eficaz e ética os projetos"
+ },
+ {
+  "id": 8,
+  "titulo": "Seção 4 - Objetivos Do Curso (cont.)",
+  "secao": "corpo",
+  "texto": "Atuar em um mundo de trabalho globalizado;\ni) Atuar como agentes integradores, promovendo a acessibilidade digital;\nj) Habilitar os egressos à realização de forma eficiente, eficaz e ética os projetos\nde pesquisa voltados para a produção do conhecimento;\n\nk) Articular no currículo Ensino, Pesquisa e Extensão, estimulando a formação\npermanente e a continuidade do processo de aperfeiçoamento acadêmico\natravés da participação em programas de Pós-Graduação;"
+ },
+ {
+  "id": 9,
+  "titulo": "Seção 5 - Perfil Profissional Do Egresso",
+  "secao": "corpo",
+  "texto": "Ao propor formar profissionais para atuar de forma inovadora e transformadora\nnas diferentes áreas de conhecimento da Computação, capazes de se adaptar às\nconstantes mudanças tecnológicas e sociais, buscamos estruturar o curso para que o\n(a) egresso (a) do curso de Bacharelado em Ciência da Computação esteja qualificado\na assumir um papel de agente transformador (a) na sociedade, sendo capaz de\nprovocar mudanças através da incorporação de novas tecnologias da informação na\nsolução dos problemas.\nLevando em consideração a flexibilidade necessária para atender domínios\ndiversificados de aplicação as vocações institucionais, espera-se que os (as) egressos\n(as) do curso de Bacharelado em Ciência da Computação:\n✔possuam sólida formação em Ciência da Computação e Matemática que os\ncapacitem a construir aplicativos de propósito geral, ferramentas e infraestrutura\nde software de sistemas de computação e de sistemas embarcados, gerar\nconhecimento científico e inovação e que os incentivem a estender suas\ncompetências à medida que a área se desenvolve;\n✔adquiram visão global e interdisciplinar de sistemas e entendam que esta visão\ntranscende os detalhes de implementação dos vários componentes e os\nconhecimentos dos domínios de aplicação;\n✔ conheçam a estrutura dos sistemas de computação e os processos envolvidos\nna sua construção e análise;"
+ },
+ {
+  "id": 10,
+  "titulo": "Seção 5 - Perfil Profissional Do Egresso (cont.)",
+  "secao": "corpo",
+  "texto": "detalhes de implementação dos vários componentes e os\nconhecimentos dos domínios de aplicação;\n✔ conheçam a estrutura dos sistemas de computação e os processos envolvidos\nna sua construção e análise;\n✔dominem os fundamentos teóricos da área de Computação e como eles\ninfluenciam a prática profissional;\n✔sejam capazes de agir de forma reflexiva na construção de sistemas de\ncomputação, compreendendo o seu impacto direto ou indireto sobre as pessoas\ne a sociedade;\n\n✔sejam capazes de criar soluções, individualmente ou em equipe, para\nproblemas complexos caracterizados por relações entre domínios de\nconhecimento e de aplicação;\n✔reconheçam o caráter fundamental da inovação e da criatividade e\ncompreendam as perspectivas de negócios e oportunidades relevantes\naplicação;\n✔especifiquem, projetem, implementem, validem e promovam a evolução de\nsistemas computacionais, empregando teorias, técnicas e ferramentas\nadequadas;\n✔gerenciem projetos de sistemas computacionais aplicando métodos, boas\npráticas e ferramentas adequadas;\n✔especifiquem, projetem, implementem, mantenham e gerenciem infraestruturas\nde hardware e software, empregando teorias, técnicas e ferramentas\nadequadas;\n✔gerenciem os riscos envolvidos na concepção e uso de sistemas\ncomputacionais;\n✔explorem os fundamentos da computação para estudos e avanços da área."
+ },
+ {
+  "id": 11,
+  "titulo": "Seção 5 - Perfil Profissional Do Egresso (cont.)",
+  "secao": "corpo",
+  "texto": "regando teorias, técnicas e ferramentas\nadequadas;\n✔gerenciem os riscos envolvidos na concepção e uso de sistemas\ncomputacionais;\n✔explorem os fundamentos da computação para estudos e avanços da área.\nPara atender esse perfil dinâmico e socialmente referenciado, o (a) egresso (a)\nterá a possibilidade de desenvolver e/ou aperfeiçoar as seguintes competências e\nhabilidades ao longo do percurso formativo:\n✔crítico na identificação e criativo na resolução de problemas computacionais,\ncontribuindo para o desenvolvimento de sua área e da sociedade;\n✔racional na utilização dos recursos computacionais disponíveis, de acordo com\no contexto, com foco na eficiência e eficácia;\n✔cooperativo e empreendedor no atendimento às demandas tecnológicas\ncontemporâneas;\n✔ético e reflexivo em relação ao impacto da computação e suas tecnologias na\nsociedade e no ambiente;\n✔atento à importância da investigação científica, integrando diversas áreas de\nconhecimento para promover a inovação;\n\n✔comprometido com a contínua atualização e aprimoramento de suas\ncompetências e habilidades."
+ },
+ {
+  "id": 12,
+  "titulo": "Seção 6 - Estrutura Curricular",
+  "secao": "estrutura",
+  "texto": "6.1. Representação gráfica do itinerário formativo\nAo propor formar profissionais com conhecimento multi e interdisciplinar para\natuar em diferentes áreas do saber em uma sociedade em constante transformação\nbuscamos construir um itinerário formativo tanto no campo da ciência e da\ncomputação quanto das humanidades com o propósito de proporcionar uma sólida\nbase de conhecimentos e competências cognitivas, procedimentais e atitudinais.\nPara isto, propomos que as disciplinas obrigatórias tenham um percentual maior\nem relação aos demais componentes de modo que as demais atividades\ncomplementem o processo formativo contribuindo, sobretudo, com a integração\ninterdisciplinar do ensino-pesquisa-extensão conforme Figura 2.\nFigura 2: Disposição percentual das Componentes Curriculares\n89%\n3% 4%\n2% 2%\nItinerário Formativo\nDisciplinas Obrigatórias\nDisciplinas Optativas\nEstágio Supervisionado\nTrabalho de Conclusão de Curso\nAtividades Complementares\n\n6.2. Estrutura Curricular\nA organização curricular do Curso de Bacharelado em Ciência da Computação\ndo IFPA - campus Ananindeua faz as devidas observâncias das determinações\ndispostas na Lei nº 9.394/96, da Resolução CNE/CES nº 02/2007, o documento\nReferenciais de Formação para os Cursos de Graduação em Computação, 2017 da\nSociedade Brasileira de Computação (SBC), a Resolução CNE/CES n° 05/2016 que"
+ },
+ {
+  "id": 13,
+  "titulo": "Seção 6 - Estrutura Curricular (cont.)",
+  "secao": "estrutura",
+  "texto": "6, da Resolução CNE/CES nº 02/2007, o documento\nReferenciais de Formação para os Cursos de Graduação em Computação, 2017 da\nSociedade Brasileira de Computação (SBC), a Resolução CNE/CES n° 05/2016 que\ntrata das Diretrizes Curriculares Nacionais para os cursos de graduação na área da\nComputação.\nO currículo do Curso de Bacharelado em Ciência da Computação está\norganizado em oito períodos letivos semestrais, com uma carga horária total de 3.201\nh/r, distribuída em 2.913 h em Disciplinas Obrigatórias, 100 h em Disciplinas Optativas,\n120 h em Estágio Curricular Supervisionado, 60 h em Atividades Complementares ,\nalém de 68 h de Trabalho de Conclusão de Curso a ser desenvolvido no sétimo e\noitavo período letivo. Todas as componentes curriculares do Curso de Bacharelado\nem Ciência da Computação serão avaliadas por meio de nota\nA estrutura curricular é constituída por 59 disciplinas que tematicamente se\narticulam à sete eixos de formação compreendendo tanto matérias de cunho\ntecnológico, quanto humanística e suplementar a fim de desenvolver competências\nprofissionais que atendam as demandas dos cidadãos, do mundo do trabalho e da\nsociedade, a saber:\nEixo I - Fundamentos da Computação: Compreende o núcleo de matériasque\nenvolvem a parte científica e as técnicas fundamentais à formação sólida dos\negressos dos diversos cursos de computação."
+ },
+ {
+  "id": 14,
+  "titulo": "Seção 6 - Estrutura Curricular (cont.)",
+  "secao": "estrutura",
+  "texto": "a saber:\nEixo I - Fundamentos da Computação: Compreende o núcleo de matériasque\nenvolvem a parte científica e as técnicas fundamentais à formação sólida dos\negressos dos diversos cursos de computação.\nEixo II - Tecnologia da Computação: Compreende o núcleo de matérias que\nrepresentam um conjunto de conhecimento agregado e consolidado que capacitam o\naluno para a elaboração de solução de problemas nos diversos domínios de\naplicação.\nEixo III – Matemática: Propicia a capacidade de abstração, de modelagem e de\nraciocínio lógico constituindo a base para várias matérias da área de Computação.\nEixo IV - Ciências Básicas: Fornece conhecimento de ciências básicas como física\ne desenvolvem no aluno a habilidade para aplicação do método científico.\n\nEixo V – Eletrônica: Fornece conhecimentos básicos para o projeto de circuitos\neletrônicos usados em computadores.\nEixo VI - Contexto Social e Profissional: Fornece o conhecimento sócio- cultural e\norganizacional, propiciando uma visão humanística das questões sociais e\nprofissionais, em consonância com os princípios da ética em computação.\nEixo VII - Formação Suplementar: Proporciona a tratativa de temáticas atuais e\ncontextualizadas, buscando a reflexão sobre problemas de diversas áreas de\nconhecimento, através de soluções e projetos desenvolvidos a partir da perspectiva\nda computação."
+ },
+ {
+  "id": 15,
+  "titulo": "Seção 6 - Estrutura Curricular (cont.)",
+  "secao": "estrutura",
+  "texto": "ativa de temáticas atuais e\ncontextualizadas, buscando a reflexão sobre problemas de diversas áreas de\nconhecimento, através de soluções e projetos desenvolvidos a partir da perspectiva\nda computação.\nA partir dessa proposta buscamos garantir uma Estrutura Curricular flexível e\ninterdisciplinar, articulada aos saberes necessários que vislumbrem uma formação\nholística, pautada no conhecimento e no desenvolvimento de si como pessoa e como\ncidadão do mundo, com valores que respeitem os direitos humanos e atitudes de\nresponsabilidade social e ambiental.\nNesse sentido, as Disciplinas Obrigatórias estão organizadas de modo a atender\na coesão entre os diversos campos do conhecimento da Ciência e da Computação,\ncomo também da área das Humanidades.\nCorroborando com essa proporção formativa flexível e interdisciplinar estão às\nDisciplinas Optativas, as quais são obrigatórias, com início a partir do 7° semestre em\nrazão de o (a) discente já ter domínio de grande parte dos conteúdos e adquirido pré\u0002requisitos necessários para complementar sua formação com as respectivas\ndisciplinas, assegurando desta forma o enriquecimento curricular.\nPara cursar as Disciplinas Optativas, o (a) estudante deverá a partir do 7º\nsemestre fazer a opção de uma disciplina por período, até completar as 100 h\nprevistas para essas componentes, as quais foram classificadas em Optativa I e"
+ },
+ {
+  "id": 16,
+  "titulo": "Seção 6 - Estrutura Curricular (cont.)",
+  "secao": "estrutura",
+  "texto": "tivas, o (a) estudante deverá a partir do 7º\nsemestre fazer a opção de uma disciplina por período, até completar as 100 h\nprevistas para essas componentes, as quais foram classificadas em Optativa I e\nOptativa II. Ressalta-se, ainda, que os estudantes poderão realizar disciplinas\neletivas1, para fins de enriquecimento curricular, limitando ao máximo de 240 horas,\nadicionadas à carga horária total do curso.\nAs atividades de Extensão com carga horária de 360 h, no curso de Bacharelado\nem Ciência da Computação, ocorrerão ao longo do percurso formativo com o\n1 As disciplinas eletivas são aquelas não integrante da matriz curricular do curso em que o (a) estudante\nestá matriculado (a), podendo ser cumprida mediante sua livre escolha desde que tenha correlação\ncom o curso. Poderá ser cursada em outro campus do IFPA ou em outras Instituições de Ensino\nSuperior devendo posteriormente ser solicitado à Coordenação de Curso a inclusão das componentes\ncursadas no histórico escolar até o limite máximo de 240 h.\n\npropósito de promover articulação entre as diversas disciplinas de modo a assegurar\naos (as) estudantes a consolidação de experiências educativas/profissionais que\ncolaborem com o desenvolvimento da comunidade local e/ou regional do qual o\ndiscente faz parte.\nAo longo do percurso formativo, a relação teoria e prática será dinâmica de modo"
+ },
+ {
+  "id": 17,
+  "titulo": "Seção 6 - Estrutura Curricular (cont.)",
+  "secao": "estrutura",
+  "texto": "tivas/profissionais que\ncolaborem com o desenvolvimento da comunidade local e/ou regional do qual o\ndiscente faz parte.\nAo longo do percurso formativo, a relação teoria e prática será dinâmica de modo\na contribuir com a aprendizagem dos estudantes no processo de incorporação de\nnovos saberes e o uso de tecnologias, bem como a operacionalização entre\nconhecimento e realidade. Para isto, a interdisciplinaridade propiciará a integração\nentre as diversas componentes curriculares do curso, possibilitando mudanças no\nprocesso pedagógico e um novo modo de aprender, no qual educandos e educadores\nse constituem em sujeitos do ato de aprender.\nQuanto às temáticas Educação em Direitos Humanos, Educação para as\nRelações Etnicorraciais, Ensino de História e Cultura Afro-Brasileira, Africana e\nIndígena e Educação Ambiental, estão inseridas nas seguintes componentes\ncurriculares: Projeto Integrador; Desenvolvimento Regional e Transformações\nSocioculturais (3° semestre); TI Verde (8° semestre); Ciência, Tecnologia e Sociedade\n(8° semestre). Além das componentes, esses temas também serão trabalhados\ntransversalmente no currículo do BCC, ampliados em debates, rodas de conversa e\nseminários.\nAs ementas dos componentes curriculares, obedecendo à ordem sequencial\napresentada na composição da Estrutura Curricular, por período letivo estão no\nApêndice 1 desse PPC."
+ },
+ {
+  "id": 18,
+  "titulo": "Seção 6 - Estrutura Curricular (cont.)",
+  "secao": "estrutura",
+  "texto": "as de conversa e\nseminários.\nAs ementas dos componentes curriculares, obedecendo à ordem sequencial\napresentada na composição da Estrutura Curricular, por período letivo estão no\nApêndice 1 desse PPC.\nNa Tabela 2, são apresentadas as componentes da Matriz Curricular, dividida\npor eixos temáticos:\nTabela 2 – Estrutura Curricular"
+ },
+ {
+  "id": 19,
+  "titulo": "Matriz curricular - 1º Período",
+  "secao": "matriz",
+  "texto": "Eixo Temático Disciplina\nCarga Horária\nCH\nTEO\nCH\nPRÁ\nCH\nEXT\nCH\nTotal\nN/C\nConhecendo a Ciência\nda Computação e seus\nDesafios\nMetodologia Científica 30 10 10 50 N\nMétodos Matemáticos Elementares 36 20 10 66 N\nIntrodução à Computação 46 10 10 66 N\nFísica Fundamental I 66 0 0 66 N\nLógica Digital 50 0 0 50 N\nAlgorítmo e Codificação de Sistemas 41 41 0 82 N\n\nProjeto Integrador I - Desafios da\nComputação\n4 4 5 13 N\nCarga Horária Total 273 85 35 393 -",
+  "periodo": 1
+ },
+ {
+  "id": 20,
+  "titulo": "Matriz curricular - 2º Período",
+  "secao": "matriz",
+  "texto": "Eixo Temático Disciplina\nCarga Horária\nCH\nTEO\nCH\nPRÁ\nCH\nEXT\nCH\nTotal\nN/C\nCompreendendo o\nFuncionamento de\nComputadores e\nSistemas\nÁlgebra com Programação Linear 30 10 10 50 N\nCálculo Diferencial eComputacional I 40 16 10 66 N\nSistemas Operacionais 30 10 10 50 N\nLaboratório de Programação Orientada a Objetos 33 50 0 83 N\nArquitetura e Organização de Computadores 30 10 10 50 N\nInglês Instrumental 40 10 10 60 N\nProjeto Integrador II – Programação de Sistemas 4 4 5 13 N\nCarga Horária Total 207 110 55 372 -",
+  "periodo": 2
+ },
+ {
+  "id": 21,
+  "titulo": "Matriz curricular - 3º Período",
+  "secao": "matriz",
+  "texto": "Eixo Temático Disciplina\nCarga Horária\nCH\nTEO\nCH\nPRÁ\nCH\nEXT\nCH\nTotal\nN/C\nDecifrando a\nComputação e o\nProfissional da Área\nCálculo Diferencial e Computacional II 40 16 10 66 N\nRedação Científica 13 10 10 33 N\nDesenvolvimento Regional e Transformações\nSocioculturais\n20 0 30 50 N\nLaboratório de Programação Desktop 26 30 10 66 N\nBanco de Dados I 40 26 0 66 N\nEstrutura de Dados I 30 20 0 50 N\nIntrodução a Eletrônica Básica 35 15 0 50 N\nProjeto Integrador III – Desenvolvimento de Programa 4 4 5 13 N\nCarga Horária Total 208 121 65 394 -",
+  "periodo": 3
+ },
+ {
+  "id": 22,
+  "titulo": "Matriz curricular - 4º Período",
+  "secao": "matriz",
+  "texto": "Eixo Temático Disciplina\nCarga Horária\nCH\nTEO\nCH\nPRÁ\nCH\nEXT\nCH\nTotal\nN/C\nCompreendendo\nPadronizações,\nTécnicas e Tecnologias\nBanco de Dados II 30 26 10 66 N\nLaboratório de Programação - Web 26 30 10 66 N\nInterface Homem-Computador 23 0 10 33 N\nEstrutura de Dados II 30 20 0 50 N\nEngenharia de Software I 33 0 0 33 N\nRede de Computadores I 30 10 10 50 N\n\nIntrodução ao Desenvolvimento de Jogos Digitais 10 10 10 30 N\nParadigmas da Programação 30 10 10 50 N\nProjeto Integrador IV - Desenvolvimento de Sistema Web 4 4 5 13 N\nCarga Horária Total 216 110 65 391 -",
+  "periodo": 4
+ },
+ {
+  "id": 23,
+  "titulo": "Matriz curricular - 5º Período",
+  "secao": "matriz",
+  "texto": "Eixo Temático Disciplina\nCarga Horária\nCH\nTEO\nCH\nPRÁ\nCH\nEXT\nCH\nTotal\nN/C\nEntendendo a\nDimensão da\nComputação Úbiqua\nIntrodução aos Processos Estocásticos 30 10 10 50 N\nLaboratório de Programação para Dispositivos Móveis 33 30 20 83 N\nLaboratório de Programação para Sistemas Embarcados 26 40 0 66 N\nRede de Computadores II 40 16 10 66 N\nSistemas Distribuídos 30 10 10 50 N\nEngenharia de Software II 50 0 0 50 N\nProjeto Integrador V - Desenvolvimento de Sistema Ubíquo 4 4 5 13 N\nCarga Horária Total 213 110 55 378 -",
+  "periodo": 5
+ },
+ {
+  "id": 24,
+  "titulo": "Matriz curricular - 6º Período",
+  "secao": "matriz",
+  "texto": "Eixo Temático Disciplina\nCarga Horária\nCH\nTEO\nCH\nPRA\nCH\nEXT\nCH\nTotal\nN/C\nReconhecendo\nSistemas\nInteligentes como o\nFuturo/Presente da\nComputação\nInteligência Artificial I 36 10 20 66 N\nLaboratório de Programação Científica 33 30 20 83 N\nLaboratório de Desenvolvimento de Jogos 26 20 20 66 N\nCiência de Dados 30 10 10 50 N\nLinguagens Formais, Autômatose Compiladores 66 0 0 66 N\nProgramação Paralela 25 25 0 50 N\nProjeto Integrador VI - Ddesenvolvimento de Sistema\nInteligente\n4 4 5 13 N\nCarga Horária Total 220 99 75 394",
+  "periodo": 6
+ },
+ {
+  "id": 25,
+  "titulo": "Matriz curricular - 7º Período",
+  "secao": "matriz",
+  "texto": "Eixo Temático Disciplina\nCarga Horária\nCH\nTEO\nCH\nPRÁ\nCH\nEXT\nCH\nTotal\nN/C\nTecnologias Atuais\ne Suas Aplicações\nVirtualização e Servidores de Aplicações 33 33 0 66 N\nTécnicas de Desenvolvimento Ágil 50 0 0 50 N\nEmpreendedorismo 30 10 10 50 N\nInteligência Artificial II 33 33 0 66 N\nComputação em Nuvem e Arquitetura Orientada a Serviços 40 10 0 50 N\nOptativa I 50 0 0 50 N\n\nTCC I 34 0 0 34 N\nCarga Horária Total 270 86 10 366",
+  "periodo": 7
+ },
+ {
+  "id": 26,
+  "titulo": "Matriz curricular - 8º Período",
+  "secao": "matriz",
+  "texto": "Eixo Temático Disciplina\nCarga Horária\nCH\nTEO\nCH\nPRÁ\nCH\nEXT\nCH\nTotal\nN/C\nTecnologiada\nInformação\nConsciente\nInternet das Coisas 30 20 0 50 N\nAplicações de Aprendizado de Máquina e Mineração de Dados 30 36 0 66 N\nSegurança da Informação 50 0 0 50 N\nTI Verde 50 0 0 50 N\nCiência, Tecnologia e Sociedade 33 0 0 33 N\nOptativa II 50 0 0 50 N\nTCC II 34 0 0 34 N\nAtividades Complementares - - - 60 C\nEstágio Supervisionado - 80 40 120 N\nCarga Horária Total 277 136 40 513 -\nCarga Horária Total do Curso 1884 857 400 3201 -\nDisciplinas Optativas do Bacharel em Ciência da Computação\nRol de Disciplinas Optativas\nComponentes Curriculares CH TEO CH PRÁT CH EAD CH\nTOTAL N/C\nOptativas I (7º semestre)\nLíngua Brasileira de Sinais – LIBRAS 50 - - 50 N\nCálculo Diferenial e Computacional III 50 - - 50 N\nFísica Fundamental II 50 - - 50 N\nÁlgebra Linear 50 - - 50 N\nTópicos Avançados em Computação I 50 - - 50 N\nOptativas II (8º semestre)\nIntrodução à Computação Evolucionária 50 - - 50 N\nSistema de Informações Geográficas 50 - - 50 N\nTópicos Avançados em Computação II 50 - - 50 N\nLegenda:\nCH TEOR = Carga Horária Teórica\nCH PRAT = Carga Horária Prática (descontada a carga horária de extensão)\nCH EXT = Carga Horária de Extensão\nCH EAD = Carga Horária de Educação a distancia\nCH Total = Carga Horária Total (hora relógio)",
+  "periodo": 8
+ },
+ {
+  "id": 27,
+  "titulo": "Matriz curricular - 8º Período (cont.)",
+  "secao": "matriz",
+  "texto": "CH PRAT = Carga Horária Prática (descontada a carga horária de extensão)\nCH EXT = Carga Horária de Extensão\nCH EAD = Carga Horária de Educação a distancia\nCH Total = Carga Horária Total (hora relógio)\nN/C = Nota/Conceito (definição do tipo de avaliação em cada disciplina, se por nota ou conceito)\n\n QUADRO RESUMO\nClassificação dos Componentes Curriculares CH Total\nDisciplinas Obrigatórias 2.913\nDisciplinas Optativas 100\nEstágio Curricular Supervisionado 120\nTrabalho de Conclusão de Curso 68\nAtividades Complementares 60\nCH TOTAL DO CURSO 3.201",
+  "periodo": 8
+ },
+ {
+  "id": 28,
+  "titulo": "Seção 7 - Metodologias",
+  "secao": "corpo",
+  "texto": "Na dinâmica do processo formativo a (s) metodologia (s) serve (m) como o\n“caminho para se atingir o objetivo” Manfredi (1993, p. 1). Dessa forma, para\ngarantirmos a formação de profissionais interdisciplinares, autônomos, com a\ncapacidade de identificar, resolver problemas e desafios do mundo contemporâneo\npropomos as seguintes estratégias metodológicas:\na) No início de cada semestre letivo haverá uma semana de planejamento, no\nqual será avaliado o trabalho pedagógico (semestre finalizado ou iniciado,\nquando for o caso), discutido e planejado o semestre seguinte. Nesse processo\nserão enfatizadas as disciplinas e a respectiva carga horária, as dificuldades\ndos estudantes e dos docentes e o respectivo desempenho acadêmico, a\nfrequência, a recuperação paralela, alunos com deficiência, as atividades de\nensino-pesquisa e extensão, etc.\nb) As metodologias adotadas no ensino aprendizagem ficam a critério de cada\ndocente, mas propomos, de modo geral, no percurso formativo a utilização das\nMetodologias Ativas, uma vez que por meio dessas estratégias é possível\ngarantir o protagonismo e o pensamento crítico-reflexivo do estudante.\nc) Com isso deverão ser utilizadas estratégias e recursos que viabilizem\naprendizagens significativas pautadas na relação teoria e prática por meio de\numa abordagem voltada especialmente à problematização, ao estudo de caso,"
+ },
+ {
+  "id": 29,
+  "titulo": "Seção 7 - Metodologias (cont.)",
+  "secao": "corpo",
+  "texto": "utilizadas estratégias e recursos que viabilizem\naprendizagens significativas pautadas na relação teoria e prática por meio de\numa abordagem voltada especialmente à problematização, ao estudo de caso,\nà pesquisa como princípio educativo, à análise crítica de textos, aos debates,\n\nà exposição dialogada, às técnicas e dinâmicas de grupo que considerem a\nrealidade/especificidade do aluno e de seu conhecimento de mundo, entre\noutros.\nd) Aprendizagem baseada em Projeto/Problemas, Gamificação, Sala de Aula\nInvertida, Aprendizagem entre Pares, Temas Geradores, Grupos Operativos,\nSequência Didática, História de Vida são algumas, dentre tantas outras\nestratégias, que impulsionam experiências significativas, motivando a busca\npor soluções ante aos desafios sociais e da própria profissão que poderão ser\nadotadas pelos docentes.\ne) Além dessas metodologias, propomos ainda: Análise crítica de textos; Debates;\nPráticas laboratoriais; Oficinas; Visitas técnicas; Interpretação e discussão de\ntextos técnicos; Apresentação de vídeos; Apresentação de seminários;\nTrabalhos de pesquisa; Atividades individuais e em grupo; Relatórios de\natividades desenvolvidas; Atividades extraclasses; Exposição dialogada;\nTécnicas vivenciais de dinâmica de grupo, entre outros.\nf) O uso de artefatos tecnológicos também será imprescindível nesse processo,"
+ },
+ {
+  "id": 30,
+  "titulo": "Seção 7 - Metodologias (cont.)",
+  "secao": "corpo",
+  "texto": "dades desenvolvidas; Atividades extraclasses; Exposição dialogada;\nTécnicas vivenciais de dinâmica de grupo, entre outros.\nf) O uso de artefatos tecnológicos também será imprescindível nesse processo,\nespecialmente, as plataformas institucionais AVA, SIGAA, além de outras\nmídias digitais acessíveis que contribuam com o processo de aprendizagem\ntanto das disciplinas presenciais quanto a distância.\nNesse contexto, a interdisciplinaridade assume função importante no processo\nensino aprendizagem, permitindo que o conhecimento seja compreendido sob\ndiversos aspectos científicos de modo que a componente curricular Projeto Integrador\nassume esse caráter no percurso formativo do curso BCC uma vez que a proposta\ndessa disciplina é articular os conhecimentos científicos nos diversos campos do\nsaber."
+ },
+ {
+  "id": 31,
+  "titulo": "Seção 8 - Prática Profissional",
+  "secao": "corpo",
+  "texto": "A Prática Profissional no curso BCC do Campus Ananindeua será desenvolvida\nao longo do percurso formativo visando o aprendizado de competências próprias da\natividade profissional e a contextualização curricular.\nNesse sentido, as atividades de Prática Profissional no curso BCC comporão a\n\ncarga horária das componentes curriculares, sendo estas definidas na Matriz\nCurricular (carga horária prática). Além disso, a Prática Profissional ocorrerá, no\nmínimo, entre duas componentes curriculares, por período letivo, sob planejamento,\norientação, supervisão e avaliação dos professores envolvidos, de modo que os (as)\nestudantes estabeleçam um paralelo entre a teoria e a prática.\nAs principais atividades de Prática Profissional no curso BCC envolverão\nsimulações e observações nos ambientes de laboratórios, visitas técnicas, estudos de\ncaso, atividades acadêmicas-científicas-culturais, pesquisa acadêmica-científica e/ou\ntecnológica individual ou em equipe e projetos de pesquisas."
+ },
+ {
+  "id": 32,
+  "titulo": "Seção 9 - Estágio Curricular Supervisionado",
+  "secao": "corpo",
+  "texto": "De acordo com a Resolução 398/2017 – CONSUP/IFPA, o estágio se constitui\nem um ato educativo que visa a preparação para o trabalho produtivo, podendo ser\nobrigatório ou não obrigatório nos cursos ofertados pelo IFPA.\nPara o curso de Bacharelado em Ciência da Computação do IFPA - Campus\nAnanindeua o estágio é de natureza obrigatória, podendo ser realizado a partir do 4º\nsemestre, tendo a carga horária estabelecida em 120 h, podendo, no entanto, ser\ndesenvolvido de trê formas:\n9.1 Por experiência prática, laboral e social no ambiente profissional\nCom o propósito de viabilizar o aprendizado de competências próprias da\natividade profissional e a contextualização curricular, o (a) estudante poderá realizar\nestágio em entidades de direito público e privado, assim como com profissionais\nliberais de nível superior, devidamente registrados em seus respectivos conselhos,\nalém de propriedades rurais, cooperativas e associações.\nPoderá ainda o estágio ser realizado no próprio IFPA, caso o setor responsável\npelo estágio no campus, não consiga captar estágio no mundo do trabalho.\n9.2 Por aproveitamento de experiência profissional, conforme art. 45 da Resolução\n398/2017 – CONSUP/IFPA;\nNesse caso, o estudante poderá requerer aproveitamento de sua experiência\n\nprofissional para fins de cumprimento de estágio, até o prazo máximo para\nintegralização do curso previsto nesse PPC."
+ },
+ {
+  "id": 33,
+  "titulo": "Seção 9 - Estágio Curricular Supervisionado (cont.)",
+  "secao": "corpo",
+  "texto": "P/IFPA;\nNesse caso, o estudante poderá requerer aproveitamento de sua experiência\n\nprofissional para fins de cumprimento de estágio, até o prazo máximo para\nintegralização do curso previsto nesse PPC.\nO aproveitamento de experiência profissional deve ser requerido na\nCoordenação de Estágio do Campus acompanhado dos seguintes documentos,\nconforme incisos I, II, III e § 3º do art. 45 da Resolução 398/2017 – CONSUP/IFPA.\nI - Declaração da empresa (período, carga horária e atividades desenvolvidas)\nefotocópia do correspondente registro na Carteira Profissional, ou Termo de Posse se\nservidor público, que exerceu ou esteja exercendo atividades profissionais\ncompatíveis com o perfil profissional do seu curso, desde que o tempo de serviço seja\nsuficiente para atender a carga horária mínima de estágio do respectivo curso; com\nduração igual ou superior ao período de estágio previsto no PPC;\nII - Em caso de exercício de atividades empreendedoras, como pessoa física,\napresentar comprovante de Recolhimento do ISS, ou ainda do Imposto de Renda, se\nfor o caso, firmado pelos respectivos dirigentes, que exerceu ou esteja exercendo\natividades profissionais em áreas correlatas de seu curso, como prestador de\nserviços, sendo suas atividades aprovadas pelo professor orientador, desde que o\ntempo de trabalho seja suficiente para atender a carga horária mínima de estágio; com"
+ },
+ {
+  "id": 34,
+  "titulo": "Seção 9 - Estágio Curricular Supervisionado (cont.)",
+  "secao": "corpo",
+  "texto": "s de seu curso, como prestador de\nserviços, sendo suas atividades aprovadas pelo professor orientador, desde que o\ntempo de trabalho seja suficiente para atender a carga horária mínima de estágio; com\nduração igual ou superior ao período de estágio previsto no PPC;\nIII - Cópia do Contrato Social da empresa, devidamente registrada em Junta\nComercial, com atividade em área correlata a sua habilitação desde que o tempo de\nserviço seja suficiente para atender a carga horária mínima de estágio do respectivo\ncurso;\n§ 3º - Poderão ser aproveitadas as atividades relacionadas à participação em\nprojetos ligados ao mundo do trabalho, desde que relacionadas a sua área de\nhabilitação cursada, com carga horária compatível com o solicitado no PPC, avaliada\ne aprovada pelo colegiado do curso.\n9.3 Por aproveitamento das atividades de extensão, de monitorias e de iniciação\ncientífica.\nO (a) estudante poderá requer, junto à Coordenação do Curso, que as\natividades de extensão, de monitorias e de iniciação científica na educação superior\npossam ser equiparadas ao estágio curricular supervisionado, de acordo com a etapa\n\ndo estágio a ser desenvolvido, respeitando os critérios de supervisão e carga horária\nconforme §3º do art. 2º da Lei 11.788/2008."
+ },
+ {
+  "id": 35,
+  "titulo": "Seção 10 - Trabalho De Conclusão De Curso (Tcc)",
+  "secao": "corpo",
+  "texto": "Para obtenção do título de Bacharel (a) em Ciência da Computação, o Trabalho\nde Conclusão de Curso (TCC) representa atividade obrigatória. Nesse sentido, de\nacordo com o “Regulamento Geral para Elaboração, Redação e Avaliação de\nTrabalho de Conclusão de Curso” do IFPA, o TCC consiste na investigação e\nprodução científica na área específica de conhecimento, remetendo a um\naprofundamento dos conhecimentos teórico-práticos obtidos no decorrer do curso.\n(IFPA, 2016).\nA construção do TCC no curso BCC ofertado pelo Campus Ananindeua,\nconforme orienta o “Regulamento Geral para Elaboração, Redação e Avaliação de\nTrabalho de Conclusão de Curso” do IFPA terá início com a disciplina Metodologia da\nPesquisa Científica (1º período), reforçada com a disciplina Redação Científica (3º\nperíodo), porém na disciplina TCC I (7º semestre) será elaborado o pré-projeto, sendo\no tema de livre escolha do estudante, mas preferencialmente temas relacionados ao\ncampo específico curricular.\nNo oitavo semestre o estudante deverá se matricular na unidade curricular de\nTCC II para procedimentos de defesa. Não havendo a defesa do TCC até o final do\nsemestre letivo, o aluno será considerado reprovado, podendo requerer renovação de\nmatrícula no semestre letivo seguinte\nMais detalhes e critérios quanto a normatização, orientação, entrega,"
+ },
+ {
+  "id": 36,
+  "titulo": "Seção 10 - Trabalho De Conclusão De Curso (Tcc) (cont.)",
+  "secao": "corpo",
+  "texto": "final do\nsemestre letivo, o aluno será considerado reprovado, podendo requerer renovação de\nmatrícula no semestre letivo seguinte\nMais detalhes e critérios quanto a normatização, orientação, entrega,\ncomposição da banca, defesa, avaliação e versão final estão disponíveis e devem ser\nconsultados no Manual de Normatização dos Trabalhos Acadêmicos do IFPA que\nestiver em vigor, previsto no momento na Instrução Normativa nº 02/2015 – PROEN\ne no Regulamento Geral para Elaboração, Redação e Avaliação de Trabalho de\nConclusão de Curso do IFPA."
+ },
+ {
+  "id": 37,
+  "titulo": "Seção 11 - Atividades Complementares",
+  "secao": "corpo",
+  "texto": "As Atividades Complementares têm por fim complementar a formação do (a)\nestudante e ampliar seu conhecimento teórico-prático, conforme o Regulamento\n\nDidático do IFPA. No curso de Bacharelado em Ciência da Computação as Atividades\nComplementares possuem carga horária de 60 h, sendo de total responsabilidade do\n(a) estudante o cumprimento dessa carga horária ao longo do seu percurso formativo.\nO (a) estudante poderá comprovar o cumprimento da carga horária das\nAtividades Complementares oferecidos pela Instituição e/ou por outras Instituições\ncom ênfase no ensino da área de conhecimento do curso e áreas afins, mediante\ncópia da declaração, atestado, certificado e/ou diploma, o qual deverá ser entregue\nao Coordenador de Curso para validação e registro no sistema de gerenciamento\nacadêmico.\nSomente serão convalidadas as horas das Atividades Complementares realizadas\na partir da data de ingresso do (a) estudante no curso. O não cumprimento da carga\nhorária das Atividades Complementares impede a outorga de grau e o requerimento\ndo Diploma e Histórico Escolar de conclusão do curso.\nNa tabela 3 estão as Atividades Complementares que os (as) estudantes\npoderão comprovar participação, desde que relacionadas com a área de formação.\nTabela 3- Especificações de carga horária de atividades complementares\nParticipação em congressos, seminários, conferências, jornadas, fóruns,"
+ },
+ {
+  "id": 38,
+  "titulo": "Seção 11 - Atividades Complementares (cont.)",
+  "secao": "corpo",
+  "texto": "ticipação, desde que relacionadas com a área de formação.\nTabela 3- Especificações de carga horária de atividades complementares\nParticipação em congressos, seminários, conferências, jornadas, fóruns,\npalestras e similares.\nCarga horária da participação em cada\nevento\nParticipação em produções artísticas, apresentação oral de trabalhos,\nexposição de mostras e condução e cursos, minicursos, palestras e\noficinas.\nCarga horária da participação em cada\nevento\nAtividades assistenciais e comunitárias (voluntariado). Carga horária da participação em cada\nevento\nPublicação de artigo científico/acadêmico em periódico científico\nespecializado.\n60 h para cada publicação\nPublicação de artigo científico/acadêmico em eventos científicos 50 h para cada publicação\nPublicação de resumo científico/acadêmico anais de eventos científicos. 20 h para cada publicação\nAutoria ou co-autoria de capítulo de livro 60 h para cada co-autoria\nParticipação em cursos, minicursos, oficinas ou atividades culturais. Carga horária da participação em cada\nevento\nOrganização e participação em eventos acadêmicos e/ou científicos, tais\ncomo semana cultural, ciclo de palestras, etc.\nCarga horária da participação em cada\nevento\nMembro de fóruns ou conselhos municipais ou estaduais. Carga horária da participação em cada\nevento\nExercício de cargos de representação estudantil. 60 horas por mandato completo"
+ },
+ {
+  "id": 39,
+  "titulo": "Seção 11 - Atividades Complementares (cont.)",
+  "secao": "corpo",
+  "texto": "ipação em cada\nevento\nMembro de fóruns ou conselhos municipais ou estaduais. Carga horária da participação em cada\nevento\nExercício de cargos de representação estudantil. 60 horas por mandato completo\nParticipação em projetos e programas de iniciação científica, iniciação à\ndocência e projetos de extensão.\nCarga horária cumprida no\nprojeto/progarma\nAtividade de Monitoria. Carga horária cumprida na atividade\nEstágio extracurricular. Carga horária cumprida na atividade"
+ },
+ {
+  "id": 40,
+  "titulo": "Seção 12 - Apoio Ao Discente",
+  "secao": "corpo",
+  "texto": "Ao assumir o compromisso com a permanência e o êxito dos (as) estudantes, o\nCampus Ananindeua dispõe de um conjunto de ações de cunho pedagógico e\npsicossocial com a finalidade de auxiliar no processo de ensino e aprendizagem, bem\ncomo, no desenvolvimento pessoal e profissional do (a) estudante.\na) Acompanhamento Pedagógico\nO Setor Pedagógico trabalha preventivamente e corretivamente com o\nacompanhamento do processo ensino-aprendizagem mediante aplicação periódica de\ndiagnósticos que subsidiam a orientação e o assessoramento das principais\ndificuldades dos (as) estudantes, além de orientação de estudos, sugestão de\nmateriais e encaminhamentos aos demais serviços oferecidos pela Instituição.\nAlém desse trabalho, o Setor Pedagógico promove diferentes projetos no sentido\nde ampliar a formação dos sujeitos. Dentre as atividades estão o Projeto Acolher que\ntem por fim tornar o ambiente do campus Ananindeua acolhedor e propício à\nconstrução do sentimento de pertencimento e identidade especialmente em relação\naos (as) estudantes ingressantes e o Projeto de Combate à Intimidação Sistemática\n(Bullying) cujo objetivo é implementar estratégias que envolvam a comunidade contra\npráticas de intimidação sistemática no ambiente escolar do campus Ananindeua.\nb) Atendimento Intraescolar\nMeio pelo qual o (a) estudante tem a possibilidade de receber atendimento"
+ },
+ {
+  "id": 41,
+  "titulo": "Seção 12 - Apoio Ao Discente (cont.)",
+  "secao": "corpo",
+  "texto": "a comunidade contra\npráticas de intimidação sistemática no ambiente escolar do campus Ananindeua.\nb) Atendimento Intraescolar\nMeio pelo qual o (a) estudante tem a possibilidade de receber atendimento\ndocente individualizado (reforço, esclarecimento de dúvidas, aulas complementares,\netc.). O atendimento intraescolar faz parte da carga horária docente e ocorre em turno\ndiferente do qual o (a) discente está matriculado (a).\nc) Atendimento Domiciliar\nPrestação de serviço didático-pedagógico pelo (a) docente ao (a) estudante em\nambiente não acadêmico por motivo de incapacidade física relativa, incompatível com\n\na frequência às atividades acadêmicas nas dependências do Campus ao qual está\nvinculado.\nOs critérios, público alvo e trâmites estão descritos no Regulamento Didático\nPedagógico do IFPA.\nd) Recuperação Paralela\nA recuperação paralela tem por fim auxiliar estudantes que apresentam baixo\ndesempenho acadêmico no decorrer do processo educativo. De acordo com o\nRegulamento Didático Pedagógico do IFPA o (a) docente deve realizar atividade (s)\norientada (s) à (s) dificuldades (s) do (a) estudante ou grupo de estudantes, segundo\na peculiaridade de cada disciplina.\ne) Nivelamento\nComo parte do processo de apoio discente, o Campus Ananindeua promove\ndiversas atividades, capacitação e/ou cursos de nivelamento com os conteúdos"
+ },
+ {
+  "id": 42,
+  "titulo": "Seção 12 - Apoio Ao Discente (cont.)",
+  "secao": "corpo",
+  "texto": "do\na peculiaridade de cada disciplina.\ne) Nivelamento\nComo parte do processo de apoio discente, o Campus Ananindeua promove\ndiversas atividades, capacitação e/ou cursos de nivelamento com os conteúdos\nespecíficos do Ensino Médio e de conhecimentos gerais necessários à formação\nsuperior que não estejam suficientemente compreendidos/dominados pelos (as)\nestudantes ingressantes na graduação. Os cursos são presenciais e/ou on-line nas\náreas de Língua Portuguesa, Matemática, Física, Química, Biologia, Oficina de\nRedação, Informática Instrumental, entre outros.\nf) Política de Assistência Estudantil\nConfigura-se por meio da concessão de auxílio financeiro aos (as) estudantes\nque se encontram em situação de vulnerabilidade socioeconômica, obedecendo às\ndiretrizes da Política Nacional de Assistência Estudantil - PNAES, elegendo como\nprioridade aquelas necessidades consideradas básicas previstas pelo Decreto\n7.234/2010.\nAs ações de Assistência Estudantil são elencadas no Plano Anual de Assistência\nEstudantil, por meio de linhas de atendimento, as quais envolvem setores estratégicos\nligados à pesquisa, ensino e extensão como forma de fortalecer e apoiar as ações que\n\nvisam o êxito acadêmico.\ng) Programa Bolsa Permanência\nConcessão de auxílio financeiro a estudantes matriculados em instituições\nfederais de ensino superior com carga horária igual ou superior a cinco horas diárias"
+ },
+ {
+  "id": 43,
+  "titulo": "Seção 12 - Apoio Ao Discente (cont.)",
+  "secao": "corpo",
+  "texto": "acadêmico.\ng) Programa Bolsa Permanência\nConcessão de auxílio financeiro a estudantes matriculados em instituições\nfederais de ensino superior com carga horária igual ou superior a cinco horas diárias\ne em situação de vulnerabilidade socioeconômica, além de estudantes indígenas e\nquilombolas.\nh) Núcleo de Atendimento às Pessoas com Necessidades Educacionais Específicas\nNo Campus Ananindeua, o Núcleo de Atendimento às Pessoas com\nNecessidades Educacionais Específicas (NAPNE) tem por finalidade atender\nestudantes com necessidades educacionais específicas, visando condições\napropriadas para o acesso, permanência e êxito no percurso formativo.\ni) Comissão de Permanência e Êxito\nTrabalhando no sentido preventivo da evasão e reprovação escolar a Comissão\nde Permanência e Êxito trabalha junto com o Setor Pedagógico exercendo papel muito\nimportante frente ao problema, especialmente por ser a instância formal criada com\neste objetivo. A ela também é atribuída a mobilização do coletivo de profissionais dos\ndiferentes setores da instituição, oportunizando colocar em pauta a temática e propor\nsoluções.\nDesta forma, tem papel estratégico na mediação entre as diferentes instâncias\neducacionais, exercendo funções de articulação, formação e transformação. Promove\numa formação continuada com os docentes, ajudando na reflexão das práticas"
+ },
+ {
+  "id": 44,
+  "titulo": "Seção 12 - Apoio Ao Discente (cont.)",
+  "secao": "corpo",
+  "texto": "na mediação entre as diferentes instâncias\neducacionais, exercendo funções de articulação, formação e transformação. Promove\numa formação continuada com os docentes, ajudando na reflexão das práticas\ndidáticas e processos avaliativos, oferecendo, ainda, suporte para que os estudantes\naprendam da melhor maneira possível."
+ },
+ {
+  "id": 45,
+  "titulo": "Seção 13 - Acessibilidade",
+  "secao": "corpo",
+  "texto": "Ao assumir o compromisso com a educação pública de qualidade, o Campus\n\nAnanindeua, na condição de ofertante do curso de Bacharelado em Ciência da\nComputação não poderia deixar de reafirmar seu engajamento nas políticas de\ninclusão social e a responsabilidade com a permanência e êxito dos educandos,\nespecialmente em atenção ao Decreto nº 5.296/2004 e a Lei nº 13.146/2015.\nNesse sentido, o Campus dispõe de atendimento prioritário às pessoas com\ndeficiência em suas dependências, bem como de estrutura arquitetônica adaptada\n(banheiros, rampas, elevador, piso tátil, vagas de garagem) para receber pessoas\ntanto da comunidade em geral quanto pessoas ou estudantes que possuam alguma\ndeficiência ou mobilidade reduzida.\nNo processo pedagógico, reconhecemos a necessidade de uma política\ninstitucional de formação continuada do corpo docente que garanta a aprendizagem\nde práticas, métodos, recursos, processos avaliativos e das próprias deficiências de\nmodo a se alinhar com o trabalho realizado pelo Núcleo de Atendimento às Pessoas\ncom Necessidades Específicas (NAPNE).\nPor se tratar de um Campus novo, o NAPNE ainda não dispõe de um espaço\nespecífico para atendimento, nem recursos de tecnologias assistiva que apoiem os\n(as) estudantes, mas os dirigentes do Campus têm trabalhado para sanar essas\npendências inclusive com o apoio na criação do Núcleo extensionista de Tecnologias\nAssistivas."
+ },
+ {
+  "id": 46,
+  "titulo": "Seção 13 - Acessibilidade (cont.)",
+  "secao": "corpo",
+  "texto": "gias assistiva que apoiem os\n(as) estudantes, mas os dirigentes do Campus têm trabalhado para sanar essas\npendências inclusive com o apoio na criação do Núcleo extensionista de Tecnologias\nAssistivas.\nHá, no entanto, uma Técnica Interprete de Libras, que vem trabalhando tanto no\nsentido da comunicação no ambiente escolar, quanto na promoção e capacitação de\nservidores, discentes e comunidade externa ao Campus na Língua Brasileira de Sinais\n(LIBRAS), além de sempre estar presente nas semanas de planejamento pedagógico\ncom falas sobre o processo formativo das pessoas com necessidades específicas e a\nadaptação de recursos pedagógicos e a didática docente para atendimento desse\npúblico."
+ },
+ {
+  "id": 47,
+  "titulo": "Seção 14 - Avaliação Do Processo Ensino E Aprendizagem",
+  "secao": "corpo",
+  "texto": "Com base no Capítulo VIII do Regulamento Didático do IFPA, a avaliação da\naprendizagem no percurso formativo do curso BCC será processual, contínua e\ncumulativa, medida por instrumentos quantitativos e qualitativos, devendo o (a)\ndocente observar e considerar os aspectos qualitativos em relação aos quantitativos.\n\nNo curso, propomos que a avaliação discente seja um momento de\nautorreflexão, no qual o (a) professor (a) também examine a sua prática e que o (a)\ndiscente se perceba nesse processo como um (a) agente com capacidade de dialogar\nsobre os momentos, as formas e os processos avaliativos.\nOutra medida que propomos como garantia de equilíbrio no processo de\naprendizagem é a recuperação paralela, a qual deve ocorrer simultaneamente ao\nlongo do percurso educativo de modo que conforme for sendo observada e\nidentificada as dificuldades no cotidiano da sala de aula, outras estratégias\npedagógicas e de ensino sejam planejadas e implementadas pelo (a) professor (a) a\nfim de ir corrigindo as deficiências de aprendizagem constatadas no período letivo.\nSistematicamente, haverá duas avaliações bimestrais (BI) por se tratar de um\ncurso com regime letivo semestral, perfazendo quatro avaliações no ano, mais a prova\nfinal em cada bimestral caso o (a) estudante apresente desempenho acadêmico\ninsatisfatório na média das avaliações bimestrais."
+ },
+ {
+  "id": 48,
+  "titulo": "Seção 14 - Avaliação Do Processo Ensino E Aprendizagem (cont.)",
+  "secao": "corpo",
+  "texto": "egime letivo semestral, perfazendo quatro avaliações no ano, mais a prova\nfinal em cada bimestral caso o (a) estudante apresente desempenho acadêmico\ninsatisfatório na média das avaliações bimestrais.\nO desempenho acadêmico no curso BCC será mensurado por meio de nota de\n0 (zero) a 10 (dez). Além disso, é obrigatória a frequência às aulas e demais atividades\nacadêmicas, sendo exigida a frequência mínima de 75% (setenta e cinco por cento)\ndo total de horas letivas e 100% (cem por cento) de cumprimento das componentes\ncurriculares para a integralização do curso.\nSerá considerado aprovado (a) na componente curricular, ou após a Prova\nFinal, quando for o caso, o (a) estudante que obtiver Média Final maior ou igual a 7,00\n(sete), vide cálculo abaixo, e reprovado (a) o (a) estudante que não realizar a (s)\natividade (s) de verificação da aprendizagem, sendo registrada a nota 0 (zero) ou\nquando o (a) estudante não alcançar a média bimestral, mesmo após a Prova Final.\nA fórmula utilizada parar mensurar resultados é a seguinte:\nMS = 1ª BI + 2ª BI > 7,0\nLegenda:\nMS = Média Semestral\n1ª BI = 1ª Bimestral (Verificação da Aprendizagem)\n2ª BI = 2ª Bimestral (Verificação da Aprendizagem)\nO (a) estudante será aprovado (a) na disciplina por média semestral, se obtiver\n\nmédia semestral maior ou igual a sete (> 7,0), caso a média semestral seja menor que"
+ },
+ {
+  "id": 49,
+  "titulo": "Seção 14 - Avaliação Do Processo Ensino E Aprendizagem (cont.)",
+  "secao": "corpo",
+  "texto": "tral (Verificação da Aprendizagem)\nO (a) estudante será aprovado (a) na disciplina por média semestral, se obtiver\n\nmédia semestral maior ou igual a sete (> 7,0), caso a média semestral seja menor que\nsete (<7,0), o (a) discente deverá realizar prova final.\nO (a) estudante será aprovado (a) com Avaliação Final se obtiver média final\nmaior ou igual a sete (> 7,0) e o resultado das avaliações serão mensurados da\nseguinte forma:\nMF = MS + NAF > 7,0\nLegenda:\nMF = Média Final\nMS = Média Semestral\nNAF = Nota da Avaliação Final\nO (a) estudante reprovado (a) em até 2 (dois) componentes curriculares no\nsemestre, poderá dar prosseguimento aos estudos, obrigando-se a cursar as\ncomponentes, em regime de dependência, em turmas e horários diferenciados do que\nestá matriculado. Porém, se ficar reprovado em até 3 (três) ou mais componentes\nficará automaticamente reprovado (a) no período letivo, devendo cursar no período\nletivo seguinte apenas as componentes em que ficou reprovado (a).\nOs casos sobre revisão de avaliação, falta no período avaliativo, necessidade de\nse ausentar das aulas, entre outros, recomendamos consultar o Regulamento Didático\ndo IFPA."
+ },
+ {
+  "id": 50,
+  "titulo": "Seção 15 - Tecnologias De Informação E Comunicação(Tic) No Processo",
+  "secao": "corpo",
+  "texto": "DE ENSINO-APRENDIZAGEM\nNo cotidiano, as tecnologias facilitam a interação com as informações e a\ncomunicação, já no contexto escolar, elas servem tanto para interagir com as\ninformações e comunicação quanto mediar o processo ensino aprendizagem por meio\nde novas práticas pedagógicas. (LOBO; MAIA, 2015)\nTecnologias da Informação e Comunicação ou simplesmente TIC são um\nconjunto de recursos tecnológicos, utilizados de forma integrada, com um objetivo\ncomum. Nesse sentido, o uso das TIC no curso BCC pretendem viabilizar a\nacessibilidade digital, comunicacional e a interatividade entre docentes e discentes,\n\nassegurando o acesso a materiais e recursos didáticos a qualquer hora e lugar, bem\ncomo propiciar experiências diferenciadas de aprendizagem baseadas em seu uso.\nSendo assim, para além da utilização da internet e da aula presencial, o (a)\ndocente poderá a partir de seu planejamento utilizar softwares, conteúdos on-line,\nChat, Fórum, Blog, Videoconferências, Audioconferência, Teleconferência, Redes\nSociais, App de mensagens, Podcast, Plataformas Digitais, Smartphone, o próprio\nSIGAA, Google For Education, entre tantos outros recursos tecnológicos que\ncontribuam para a promoção da interação e conectividade do (a) estudante, tornando\ndesse modo a aula e a relação ensino aprendizagem mais próxima da realidade"
+ },
+ {
+  "id": 51,
+  "titulo": "Seção 15 - Tecnologias De Informação E Comunicação(Tic) No Processo (cont.)",
+  "secao": "corpo",
+  "texto": "e tantos outros recursos tecnológicos que\ncontribuam para a promoção da interação e conectividade do (a) estudante, tornando\ndesse modo a aula e a relação ensino aprendizagem mais próxima da realidade\ntecnológica experimentada cotidianamente pelos pares, sobretudo, os (as) discentes."
+ },
+ {
+  "id": 52,
+  "titulo": "Seção 16 - Gestão Do Curso E Processos De Avaliação Interna E Externa",
+  "secao": "corpo",
+  "texto": "16.1 Núcleo Docente Estruturante (NDE)\nO Núcleo Docente Estruturante (NDE) do curso de Bacharelado em Ciência da\nComputação, por meio da Portaria nº 041/2021 GAB/DG – Campus Ananindeua/IFPA,\nconstitui-se de 7 (sete) docentes cuja atribuição do grupo é atuar no processo de\nconcepção, elaboração, consolidação e contínua atualização do projeto pedagógico\ndo curso.\nQuanto à composição do NDE do curso temos o seguinte: todos os membros\ntrabalham em regime de tempo integral e pertencem ao corpo docente do curso . Dos\n7 (sete) membros, 2 (dois) são doutores e 3 (três) mestres, atendendo, portanto, a\nrecomendação do art. 65 do Regulamento Didático do IFPA. Além das atribuições\nacima, o NDE também realizará com base no art. 65 do Regulamento Didático do\nIFPA:\n✔ estudos e a atualização periódica do PPC a partir da análise dos indicadores\nde qualidade da educação superior, aferidos a partir do Exame Nacional de\nDesempenho de Estudantes (ENADE);\n✔ revisão anual da Matriz Curricular a partir das diretrizes, conteúdos\nprogramáticos, habilidades e competências requeridas para o perfil profissional\ntrabalhado, em conformidade com as Diretrizes Curriculares Nacionais, a\n\nlegislação de regulamentação do exercício profissional, o Catálogo de Cursos\nSuperiores de Tecnologia e as normativas institucionais;\n✔ identificação de possíveis fragilidades no PPC na formação geral e/ou"
+ },
+ {
+  "id": 53,
+  "titulo": "Seção 16 - Gestão Do Curso E Processos De Avaliação Interna E Externa (cont.)",
+  "secao": "corpo",
+  "texto": "lação de regulamentação do exercício profissional, o Catálogo de Cursos\nSuperiores de Tecnologia e as normativas institucionais;\n✔ identificação de possíveis fragilidades no PPC na formação geral e/ou\nespecífica, e propor medidas corretivas;\n✔ contribuição para a consolidação do perfil profissional do egresso do curso;\n✔ indicação de formas de incentivo ao desenvolvimento de linhas de pesquisa e\nextensão, oriundas de necessidades do curso, de exigências do mercado de\ntrabalho e afinadas com as políticas públicas relativas à área de conhecimento\ndo curso;\n✔ zelar pela integração curricular interdisciplinar entre as diferentes atividades de\nensino constante no currículo;\n✔ zelar pelo cumprimento das Diretrizes Curriculares Nacionais.\n16.2 Coordenação do Curso\nDe acordo com a Resolução 212/2017 – CONSUP/IFPA a Coordenação do\nCurso é um órgão executivo que se destina ao planejamento, acompanhamento,\nregulação, supervisão e avaliação da eficiência educativa do processo pedagógico\ndesenvolvido no curso.\nNo curso de Bacharelado em Ciência da Computação do campus Ananindeua,\no (a) Coordenador (a) trabalha em regime de dedicação exclusiva e observará suas\natribuições descritas no art. 11 da Resolução 212/2017 – CONSUP/IFPA para\ncoordenar todas as atividades específicas de funcionamento do curso guiado por este\nPPC e por um Plano de Ação documentado, compartilhado e em permanente diálogo"
+ },
+ {
+  "id": 54,
+  "titulo": "Seção 16 - Gestão Do Curso E Processos De Avaliação Interna E Externa (cont.)",
+  "secao": "corpo",
+  "texto": "Resolução 212/2017 – CONSUP/IFPA para\ncoordenar todas as atividades específicas de funcionamento do curso guiado por este\nPPC e por um Plano de Ação documentado, compartilhado e em permanente diálogo\ncom docentes, discentes, Direção de Ensino e Equipe Pedagógica do campus.\nCom relação ao processo de acompanhamento e avaliação, a Coordenação do\nCurso com apoio da Comissão Própria de Avaliação (CPA) realizará anualmente com\nbase nos instrumentos de avaliação externa (INEP/ENADE) e interna, uma avaliação\ndo curso a fim gerar dados que subsidiem a reflexão e o (re) planejamento das ações\nbuscando a melhoria do curso.\nA cada ciclo de avaliação (anual), a Coordenação do Curso realizará uma\nassembleia com toda a comunidade acadêmica para compartilhar os dados e discutir\nos rumos do curso.\n\n16.3 Colegiado do Curso\nO Colegiado de Curso é um órgão consultivo e deliberativo que se destina à\navaliação da eficiência do processo pedagógico desenvolvido. Por se tratar de curso\nem processo de criação, ainda não há colegiado, mas tão logo inicie sua oferta esse\nserá constituído e representado por todos os segmentos da comunidade acadêmica,\nconforme orienta o Regulamento Didático\n.\nCom relação as competências, o Colegiado observará o Art. 369 do\nRegulamento Didático, reunindo-se ordinariamente em dois momentos, por período"
+ },
+ {
+  "id": 55,
+  "titulo": "Seção 16 - Gestão Do Curso E Processos De Avaliação Interna E Externa (cont.)",
+  "secao": "corpo",
+  "texto": "ade acadêmica,\nconforme orienta o Regulamento Didático\n.\nCom relação as competências, o Colegiado observará o Art. 369 do\nRegulamento Didático, reunindo-se ordinariamente em dois momentos, por período\nletivo, definido no Calendário Acadêmico e, extraordinariamente, quando um fato\nrelevante o requer.\n16.4 Processos de avaliação do curso\nConforme já mencionado nos itens 16.1 e 16.2 o curso de Bacharelado em\nCiência da Computação será periodicamente avaliado internamente e ao final de cada\nsemestre com apoio do NDE, Colegiado do Curso, Auxiliar Institucional e CPA a fim\nde garantir um processo contínuo de acompanhamento e (re) planejamento do\ntrabalho pedagógico do curso.\nNesse processo, serão avaliados, sobretudo, as disciplinas e atividades\nacadêmicas especificas; o corpo docente e técnico administrativo; os espaços\neducativos (sala de aula, biblioteca, laboratório, etc.); assim como a autoavaliação dos\n(as) estudantes.\nOs dados obtidos por meio dessas avaliações servirão de base para a\nconstrução de um Plano de Trabalho que garanta o aperfeiçoamento do percurso\nformativo com a reparação e/ou eliminação das inconsistências constatadas.\nQuanto à avaliação externa, esta será por meio do Exame Nacional de\nDesempenho dos Estudantes (ENADE). O exame é componente curricular obrigatório\npara os (as) estudantes dos cursos de graduação e condição imprescindível para a"
+ },
+ {
+  "id": 56,
+  "titulo": "Seção 16 - Gestão Do Curso E Processos De Avaliação Interna E Externa (cont.)",
+  "secao": "corpo",
+  "texto": "esta será por meio do Exame Nacional de\nDesempenho dos Estudantes (ENADE). O exame é componente curricular obrigatório\npara os (as) estudantes dos cursos de graduação e condição imprescindível para a\noutorga de grau e obtenção de diploma de modo que o mesmo se constitui do\n2 O Colegiado do Curso terá o Coordenador, como presidente, todos os docentes da área específica, e\nno mínimo, três docentes da área complementar, além de representantes da equipe pedagógica e do\ncorpo estudantil.\n\npreenchimento do questionário do estudante e prova sobresponsabilidade do Instituto\nNacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), autarquia\nvinculada ao Ministério da Educação (MEC)."
+ },
+ {
+  "id": 57,
+  "titulo": "Seção 17 - Corpo Profissional",
+  "secao": "corpo",
+  "texto": "17.1 Corpo Docente\nO corpo docente do curso de Bacharelado em Ciência da Computação é\ncomposto em sua grande maioria por mestres e doutores do quadro permanente da\nInstituição atendendo a recomendação da Lei de Diretrizes e Bases da Educação\nNacional nº 9394/96 conforme tabela 4, não excluindo a possibilidade de se trabalhar\nem rede com apoio de docentes de outros campi do IFPA e/ou mesmo colaboradores\n(docentes) de Instituições externas que venham contribuir/enriquecer o processo\nformativo dos estudantes\n\nTabela 4 - Corpo Docente do Curso\nNome CPF\nRegime\nde\nTrabalho\nGraduação Pós-Graduação Disciplinas\nDenis Carlos Lima Costa 393.620.272-91 40h Licenciatura em Ciências\ne Matemática Doutorado\n#Álgebra Com Programação Linear\n#Cálculo Diferencial E Computacional I\n#Cálculo Diferencial E Computacional II\n#Introdução Aos Processos Estocásticos\n#Ciência De Dados\n#Aplicações De Aprendizado De Máquina E Mineração\nDe Dados\nLair Aguiar de Meneses 685.261.302-00 D.E. Engenharia de\nTelecomunicações/Elétrica Mestrado #Lógica Digital# Introdução A Eletrônica Básica\nMessias de Nazaré\nGuimarães Ferreira\nJúnior 599.114.412-53 D.E. Licenciado em Física Doutorado\n#Física Fundamental I\n#Projeto Integrador I – Desafios Da Computação\n# Projeto Integrador II – Programação De Sistemas\n#Projeto Integrador III – Desenvolvimento De\nProgramas\n#Projeto Integrador IV - Desenvolvimento De Sistema\nWeb"
+ },
+ {
+  "id": 58,
+  "titulo": "Seção 17 - Corpo Profissional (cont.)",
+  "secao": "corpo",
+  "texto": "o Integrador I – Desafios Da Computação\n# Projeto Integrador II – Programação De Sistemas\n#Projeto Integrador III – Desenvolvimento De\nProgramas\n#Projeto Integrador IV - Desenvolvimento De Sistema\nWeb\n#Laboratório De Programação Para Sistemas\nEmbarcados\n#Projeto Integrador-Desenvolvimento De Sistema\nUbíquo\n#Projeto Integrador V - Desenvolvimento De Sistema\nInteligente\nAntônio Jorge Paraense\nda Paixão 384.406.604-72 40h Licenciatura em Filosofia Doutorado\n#Metodologia Científica\n# Desenvolvimento Regional E Transformações\nSocioculturais\n# Ciência, Tecnologia E Sociedade\nAdelmar Alves de Aviz\nJunior 396.913.812-49 D.E. Tecnólogo em Processamento de Dados Mestrado\n#Rede De Computadores I\n#Rede De Computadores II\n# Virtualização E Servidores De Aplicações\n# Internet Das Coisas\n#Segurança Da Informação\nBenedito de Jesus da\nSilva Rodrigues\n606.454.662-04 D.E. Engenharia Elétrica Especialização #Lógica Digital\n# Introdução A Eletrônica Básica\nGuilherme Damasceno 680.307.462-53 D.E. Bacharelado em Doutorado #Algorítmo E Codificação De Sistemas\n\nSilva Sistemas de Informação #Laboratório De Programação Orientada A Objetos\n# Computação Em Nuvem E Arquitetura Orientadas A\nServiços\n#Estrutura De Dados I\n#Estrutura De Dados II\nJosé de Sousa Ribeiro\nFilho\n001.312.892-25 D.E. Bacharelado em Ciência\nda Computação Mestrado\n#Laboratório De Programação Desktop\n#Laboratório De Programação – Web"
+ },
+ {
+  "id": 59,
+  "titulo": "Seção 17 - Corpo Profissional (cont.)",
+  "secao": "corpo",
+  "texto": "ra De Dados I\n#Estrutura De Dados II\nJosé de Sousa Ribeiro\nFilho\n001.312.892-25 D.E. Bacharelado em Ciência\nda Computação Mestrado\n#Laboratório De Programação Desktop\n#Laboratório De Programação – Web\n#Introdução Ao Desenvolvimento De Jogos Digitais\n#Inteligência Artificial I\n#Laboratório De Desenvolvimento De Jogos\n# Inteligência Artificial II\n#Aplicações De Aprendizado De Máquina E Mineração\nDe Dados\nLouise Cristhine Monteiro\nSilva da Silva 517.566.762-91 D.E.\nLicenciatura em\nMatemática Especialização\n#Métodos Matemáticos Elementares\n#Álgebra Com Programação Linear\n#Cálculo Diferencial E Computacional I\n#Cálculo Diferencial E Computacional II\nMara Líbia Viana de Lima 568.486.842-87 D.E. Engenharia Sanitarista Mestrado # TI Verde\nMarzane Pinto de Souza 399.501.072-53 D.E.\nBacharelado e\nLicenciatura Plena em\nCiências Sociais\nMestrado\n#Metodologia Científica\n# Redação Científica\n# Desenvolvimento Regional E Transformações\nSocioculturais\n#Empreendedorismo\n# Ciência, Tecnologia E Sociedade\nKamila Batista da Silva\nBarbosa 923.321.022-72 D.E.\nTecnologia em Análise e\nDesenvolvimento de\nSistemas Mestrado\n#Introdução À Computação\n#Laboratório De Programação – Web\n#Interface Homem- Computador\n#Sistemas Distribuídos\nJefferson Ramos de Lima D.E Licenciatura em Letras Mestrado #Inglês Instrumental\nPatrick Félix Almeida da\nSilva\n691.621.742-15 D.E. Tecnólogo em Informática Especialização"
+ },
+ {
+  "id": 60,
+  "titulo": "Seção 17 - Corpo Profissional (cont.)",
+  "secao": "corpo",
+  "texto": "tador\n#Sistemas Distribuídos\nJefferson Ramos de Lima D.E Licenciatura em Letras Mestrado #Inglês Instrumental\nPatrick Félix Almeida da\nSilva\n691.621.742-15 D.E. Tecnólogo em Informática Especialização\n#Sistemas Operacionais\n#Arquitetura E Organização De Computadores\n#Laboratório De Programação Para Dispositivos\nMóveis\n#Projeto Integrador I – Desafios Da Computação\n# Projeto Integrador II – Programação De Sistemas\n#Projeto Integrador III – Desenvolvimento De\nProgramas\n\n#Projeto Integrador IV - Desenvolvimento De Sistema\nWeb\n#Laboratório De Programação Para Sistemas\nEmbarcados\n#Projeto Integrador V - Desenvolvimento De Sistema\nUbíquo\n#Projeto Integrador VI - Desenvolvimento De Sistema\nInteligente\nPaulo André Ignácio\nPontes 710.698.602-04 D.E. Tecnólogo em Processamento de Dados Doutorado\n#Engenharia De Software I\n#Engenharia De Software II\n##Linguagens Formais, Autômatos E Compiladores\n#Introdução Ao Desenvolvimento De Jogos Digitais\n#Inteligência Artificial I\n#Laboratório De Desenvolvimento De Jogos\n# Técnicas De Desenvolvimento Ágil\n#Aplicações De Aprendizado De Máquina E Mineração\nDe Dados\nReno Silva Nooblath 697.402.082-15 D.E. Bacharelado em Ciência\nde Computação Especialização\n#Banco De Dados I\n#Banco De Dados II\n#Paradigmas Da Programação\n#Laboratório De Programação Científica\n#Programação Paralela\n#Estrutura De Dados I\n#Estrutura De Dados II\nThais do Socorro Pereira"
+ },
+ {
+  "id": 61,
+  "titulo": "Seção 17 - Corpo Profissional (cont.)",
+  "secao": "corpo",
+  "texto": "zação\n#Banco De Dados I\n#Banco De Dados II\n#Paradigmas Da Programação\n#Laboratório De Programação Científica\n#Programação Paralela\n#Estrutura De Dados I\n#Estrutura De Dados II\nThais do Socorro Pereira\nPompeu Sauma 741.222.072-15 D.E.\nLicenciatura em Letras\nhabilitação em Língua\nPortuguesa e Espanhola Doutorado #Metodologia Científica# Redação Científica\n\n17.2 Corpo Técnico Administrativo\nAbaixo, na tabela 5, encontra-se a descrição do corpo técnico administrativo\nem educação (pedagogo, psicólogo, assistente social, técnico em assuntos\neducacionais, laboratorista, bibliotecário, secretário acadêmico, etc) que prestarão\napoio direto ao curso.\nTabela 5 - Corpo Técnico\nNome Cargo/Função Regime\nde Trabalho Graduação Pós\u0002Graduação\nAltiere Costa de Souza Assistente Administrativo /\nDiretor Administrativo 40h Sistemas de Informação Especialização\nAna Carolina Farias Franco Psicóloga 40h Psicologia Doutorado\nCilicia Iris Sereni Ferreira Pedagoga 40h Licenciatura em\nPedagogia Mestrado\nEdison Garreta de Andrade Técnico em Assuntos\nEducacionais 40h Licenciatura em\nMatemática\nMestrado\nHellen Amélia da Silva Freitas Técnica em Enfermagem 30h Bacharelado em\nEnfermagem\nEspecialização\nJaciane de Jesus Gomes do\nNascimento Trad. Int. De libras 40h Licenciatura em Língua\nPortuguesa Especialização\nJosé Freitas da Silva Filho Técnico em Tecnologia"
+ },
+ {
+  "id": 62,
+  "titulo": "Seção 17 - Corpo Profissional (cont.)",
+  "secao": "corpo",
+  "texto": "acharelado em\nEnfermagem\nEspecialização\nJaciane de Jesus Gomes do\nNascimento Trad. Int. De libras 40h Licenciatura em Língua\nPortuguesa Especialização\nJosé Freitas da Silva Filho Técnico em Tecnologia\nda Informação 40h Sistemas de Informação Especialização\nSamara da Rocha Miranda Técnica em laboratório de\ninformática 40h Sistemas de Informação Especialização\nRenato Vieira da Assunção Bibliotecário 40 h Biblioteconomia Mestrado"
+ },
+ {
+  "id": 63,
+  "titulo": "Seção 18 - Infraestrutura",
+  "secao": "corpo",
+  "texto": "De modo geral, o Campus Ananindeua dispõe de infraestrutura adequada para\na oferta do Curso de Bacharelado em Ciência da Computação. As instalações do\nprédio estão estruturadas de modo a garantir a utilização dos espaços com segurança\ne autonomia, conforme já exposto no item 13 desse documento. Os laboratórios de\ninformática, biblioteca, banheiros, áreas de lazer e convivência e demais ambientes\npossuem sinalização e os equipamentos e mobiliários estão acessíveis a todos os\nestudantes e ao processo pedagógico.\n\n18.1 Espaço de trabalho para docentes em tempo integral\nPara os (as) docentes em tempo integral, além da sala dos (as) professores (as),\nhá salas disponíveis no prédio que podem ser solicitadas, com recursos de tecnologia\nde informação e comunicação para a realização de ações acadêmicas, como\nplanejamento didático-pedagógico, a guarda de material e de equipamentos pessoais\ne o atendimento aos discentes.\n18.2 Espaço de trabalho para o coordenador\nO Campus dispõe de sala exclusiva aos (as) coordenadores (as) dos cursos,\ncom mobiliários e recursos tecnológicos para o desempenho das atividades\nadministrativas e acadêmicas, bem como atendimento individual e/ou coletivo sendo,\nportanto, este o espaço de trabalho do Coordenador do Curso de Bacharelado em\nCiência da Computação do Campus Ananindeua.\n18.3 Sala de professores"
+ },
+ {
+  "id": 64,
+  "titulo": "Seção 18 - Infraestrutura (cont.)",
+  "secao": "corpo",
+  "texto": "bem como atendimento individual e/ou coletivo sendo,\nportanto, este o espaço de trabalho do Coordenador do Curso de Bacharelado em\nCiência da Computação do Campus Ananindeua.\n18.3 Sala de professores\nDo mesmo modo, há sala exclusiva para os (as) professores (as) com mobiliário\ne recursos tecnológicos disponíveis ao desempenho das atividades administrativas\u0002acadêmicas, bem como para guarda de material e equipamentos. Além dessa sala,\nhá o espaço de convivência no qual o (a) docente pode ter seu momento de descanso.\n18.4 Salas de aula\nPara o curso BCC, será utilizada, pelo menos, duas sala de aula, sendo que\ntodas as salas passam constantemente por manutenção e higienização, são amplas,\nclimatizadas e confortáveis, com mobiliário e recursos tecnológicos (computador,\nprojetor, quadro branco e de vidro, acesso à internet) disponíveis, sua estrutura\npermite o desenvolvimento de diversas estratégias de ensino que correspondem ao\nadequado funcionamento do curso.\n\n18.5 Biblioteca\nA Biblioteca do Campus possui estrutura ampla, com acervo bibliográfico\ninformatizado adequado ao funcionamento do curso, sala de estudos, computadores,\nacesso à internet e aos periódicos da CAPES.\nDentre os principais serviços disponibilizados pela Biblioteca estão: consulta e\nempréstimo de materiais bibliográficos, orientação quanto ao acesso aos portais de"
+ },
+ {
+  "id": 65,
+  "titulo": "Seção 18 - Infraestrutura (cont.)",
+  "secao": "corpo",
+  "texto": "internet e aos periódicos da CAPES.\nDentre os principais serviços disponibilizados pela Biblioteca estão: consulta e\nempréstimo de materiais bibliográficos, orientação quanto ao acesso aos portais de\npesquisa, utilização adequada do espaço e acervo. Tudo isso, sob orientação dos\nBibliotecários e Assistentes de Biblioteca qualificados para esse atendimento e\norientação.\nQuanto às ferramentas de acessibilidade, a Biblioteca dispõe de arquitetura\nadaptada, porém no que tange a instrumentos, utensílios e ferramentas de estudo o\ncampus está em fase de criação do Núcleo de Tecnologias Assistivas que dará o\nsuporte aos setores com o estudo técnico, orientação e aquisição de ferramentas\nadequadas ao atendimento das pessoas com deficiência, conforme já exposto no item\n13 deste documento.\n18.6 Acesso dos estudantes a equipamentos de informática\nPara os (as) estudantes do curso de Bacharelado em Ciência da Computação\nestão disponíveis, conforme dia e horários específicos, a utilização de 02 laboratórios\nde informática para pesquisa, aulas práticas, dentre outros processos pedagógicos\nrelacionados ao curso, todos equipados com recursos tecnológicos e acesso à\ninternet.\n18.7 Laboratórios\nQuanto aos laboratórios de informática do Campus Ananindeua, cada uma\ndessas instalações possui os equipamentos listados na Tabela 6 e 7.\n\nTabela 6 - Laboratório de Computação 01\nITEM EQUIPAMENTO QT."
+ },
+ {
+  "id": 66,
+  "titulo": "Seção 18 - Infraestrutura (cont.)",
+  "secao": "corpo",
+  "texto": "Quanto aos laboratórios de informática do Campus Ananindeua, cada uma\ndessas instalações possui os equipamentos listados na Tabela 6 e 7.\n\nTabela 6 - Laboratório de Computação 01\nITEM EQUIPAMENTO QT.\n01 CPU 40\n02 Monitor 40\n03 Mesa de apoio para professor 01\n04 Cadeira de apoio para professor 01\nTabela 7 - Laboratório de Computação 02\nITEM EQUIPAMENTO QT.\n01 CPU 20\n02 Monitor 20\n03 Mesa de apoio para professor 01\n04 Cadeira de apoio para professor 01"
+ },
+ {
+  "id": 67,
+  "titulo": "Seção 19 - Diplomação",
+  "secao": "corpo",
+  "texto": "A expedição do Diploma de Bacharel (a) em Ciência e Tecnologia ao (a) egresso\n(a) será efetivada, somente, mediante três condicionantes: a integralização curricular,\nconforme Art. 208 e § 3º do art. 370 do Regulamento Didático; a participação ou\ndispensa no Exame Nacional de Desempenho dos Estudantes (ENADE), conforme\nArt. 29 da Resolução nº 018/2013 – CONSUP de 09 de abril de 2013 e a Colação de\nGrau conforme Art. 2º da Resolução nº 018/2013 – CONSUP/IFPA.\nA integralização curricular no cumprimento das componentes curriculares\ndescritas na Matriz Curricular – itens 6 e 7, incluindo a carga horária das atividades\ncomplementares, da prática profissional e estágio curricular, assim como a defesa e\naprovação do Trabalho de Conclusão de Curso (TCC), definidos neste PPC.\nQuanto ao Exame Nacional de Desempenho dos Estudantes (ENADE), a\nparticipação do estudante é obrigatória e fica condicionada ao calendário de\navaliação trienal por área. Caso o ingresso ou a conclusão do curso não coincida com\no calendário do Exame, será registrado no histórico escolar a dispensa de realização\ndo ENADE em razão do calendário trienal.\nCom relação à participação do estudante na Colação de Grau, esta é\nobrigatória, momento pelo qual certifica a conclusão do curso de graduação e\n\nconfere grau ao (a) formando (a), Art. 2º da Resolução nº 018/2013 – CONSUP/IFPA."
+ },
+ {
+  "id": 68,
+  "titulo": "Seção 19 - Diplomação (cont.)",
+  "secao": "corpo",
+  "texto": "do estudante na Colação de Grau, esta é\nobrigatória, momento pelo qual certifica a conclusão do curso de graduação e\n\nconfere grau ao (a) formando (a), Art. 2º da Resolução nº 018/2013 – CONSUP/IFPA.\nPorém, somente poderá participar da Colação de Grau o (a) estudante que\nintegralizar todas as componentes curriculares e estiver na condição de regular em\nrelação ao ENADE, bem como não possuir pendências junto à Biblioteca e Secretaria\nAcadêmica do Campus, conforme Art. 3º da Resolução nº 018/2013 – CONSUP/IFPA.\nOrientações quanto à solicitação e documentação para emissão do Diploma\npodem ser consultadas no Capítulo I do Título X do Regulamento Didático ou\ndiretamente na Secretaria Acadêmica do Campus."
+ },
+ {
+  "id": 69,
+  "titulo": "Seção 20 - Referências",
+  "secao": "corpo",
+  "texto": "ABNT. Associação Brasileira de Normas Técnicas - NBR 14724: informação e\ndocumentação: trabalhos acadêmicos: apresentação. 3ª ed. Rio de Janeiro, 2011.\nBRASIL. Ministério da Educação Secretaria de Educação Superior. Referenciais\nOrientadores aos Bacharelados Interdisciplinares e Similares. Portaria SESu/MEC n°\n383, de 12 de abril de 2010.\nBRASIL - Resolução n° 02, do Conselho Nacional da Educação, de 18/06/2007.\nDisponível em: http://portal.mec.gov.br/cne/arquivos/pdf/2007/rces002_07.pdf.\nBRASIL - Resolução n° 11, do Conselho Nacional da Educação, de 11/11/2002.\nDisponível em: http://portal.mec.gov.br/cne/arquivos/pdf/CES112002.pdf.\nBRASIL. Lei nº 9.394/1996. Estabelece as diretrizes e bases da educação nacional.\nBrasília. Disponível em: http://www.planalto.gov.br/ccivil_03/leis/L9394.htm.\nBRASIL. Lei nº 11.645/2008. Estabelece a obrigatoriedade do estudo da história e\ncultura afro- brasileira e indígena. Brasília. Disponível em:\nhttp://www.planalto.gov.br/ccivil_03/_ato2007- 2010/2008/lei/l11645.htm.\nBRASIL. Lei nº 13.005/2014. Atualiza o Plano Nacional de Educação. Brasília.\nDisponível em: http://www2.camara.leg.br/legin/fed/lei/2014/lei-13005-25-junho-2014-\n778970- publicacaooriginal-144468-pl.html.\nBRASIL, Lei nº 13.146/2015. Institui a Lei Brasileira de Inclusão da Pessoa com\nDeficiência. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2015-"
+ },
+ {
+  "id": 70,
+  "titulo": "Seção 20 - Referências (cont.)",
+  "secao": "corpo",
+  "texto": "4-\n778970- publicacaooriginal-144468-pl.html.\nBRASIL, Lei nº 13.146/2015. Institui a Lei Brasileira de Inclusão da Pessoa com\nDeficiência. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2015-\n2018/2015/lei/l13146.htm.\nBRASIL – Portaria 4.059. Disponível em:\nhttp://portal.mec.gov.br/sesu/arquivos/pdf/nova/acs_portaria4059.pdf.\nBRASIL - Portal do MEC/ 2002. Disponível em:\nhttp://portal.mec.gov.br/cne/arquivos/pdf/CES112002.pdf.\nBRASIL. Lei nº. 5.154/2004, de 23 de julho de 2004. Regulamenta o § 2º do art. 36 e\nos arts. 39 a 41 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as\ndiretrizes e bases da educação nacional, e dá outras providências. Brasília, 2004.\nCNI, Confederação Nacional da Indústria. Mapa Estratégico da Indústria 2018 – 2022.\nDisponível em: http://www.portaldaindustria.com.br/cni/canais/mapa-estrategico-da\u0002industria/downloads/. 2018.\nFOLHA DE SÃO PAULO, Vivemos na Idade do Plástico.\nDisponível em: <http://www1.folha.uol.com.br/fsp/1996/5/17/folhinha/9.html>.\nGOVERNO DO ESTADO DO PARÁ, Economia. Disponível em:\n<http://www.pa.gov.br/O_Para/economia.asp>.\n\nIBGE – Instituto Brasileiro de Geografia e Estatística. Cidades: Ananindeua\nPanorama. 2017. Disponível em:\nhttps://cidades.ibge.gov.br/brasil/pa/ananindeua/panorama.\nINEP - INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS\nANÍSIO TEIXEIRA. Pisa no Brasil. Brasília, 2017a. Disponível em <"
+ },
+ {
+  "id": 71,
+  "titulo": "Seção 20 - Referências (cont.)",
+  "secao": "corpo",
+  "texto": "isponível em:\nhttps://cidades.ibge.gov.br/brasil/pa/ananindeua/panorama.\nINEP - INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS\nANÍSIO TEIXEIRA. Pisa no Brasil. Brasília, 2017a. Disponível em <\nhttp://portal.inep.gov.br/web/guest/pisa-no-brasil>.\nINEP - INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS\nANÍSIO TEIXEIRA. IDEB – Índice de desenvolvimento da educação básica. Brasília,\n2017b. Disponível em < http://ideb.inep.gov.br/>.\nINEP - INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS\nANÍSIO TEIXEIRA. Censoda educação básica. Brasília, 2017c.\nDisponível em < http://portal.inep.gov.br/web/guest/censo-escolar>.\nINEP - INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS\nANÍSIO TEIXEIRA. Censoda educação superior. Brasília, 2017d.\nDisponível em < http://portal.inep.gov.br/web/guest/censo-daeducacao\u0002superior>.\nINSTITUTO FEDERAL DO PARÁ – IFPA. Regulamento Didático – Pedagógico do\nEnsino no IFPA. Disponível em: http://www.ifpa.edu.br/documentos\u0002institucionais/proen-pro-reitoria-de- ensino/1557-regulamento-didatico-pedagogico\u0002do-ensino-no-ifpa/file. Acesso em 27.03.2016.\nINSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA - IBGE 2015. Disponível\nem: http://www.ibge.gov.br/home/estatistica/populacao/estimativa2015/.\nINSTITUTO FEDERAL DO PARÁ – IFPA. PDI - Plano de Desenvolvimento\nInstitucional, 2019-2023 do IFPA, Belém, 2019. Disponível em:"
+ },
+ {
+  "id": 72,
+  "titulo": "Seção 20 - Referências (cont.)",
+  "secao": "corpo",
+  "texto": "el\nem: http://www.ibge.gov.br/home/estatistica/populacao/estimativa2015/.\nINSTITUTO FEDERAL DO PARÁ – IFPA. PDI - Plano de Desenvolvimento\nInstitucional, 2019-2023 do IFPA, Belém, 2019. Disponível em:\nhttp://www.ifpa.edu.br/documentos- institucionais/dcom/pdi/1124-pdi-2014-2018-e\u0002res-189-2014-consup/file.\nINSTITUTO FEDERAL DO PARÁ – IFPA. Resolução nº 05/2019. Regulamenta os\nprocedimentos de elaboração e atualização de projeto Político Pedagógico – IFPA.\nDisponível em: http://proen.ifpa.edu.br/documentos-1/13-resolucoes-do\u0002consup/resolucao-do-consup/2019/2050-resolucao-n-005-2019-consup-ifpa\u0002procedimentos-a-serem-adotados-para-criacao-de-cursos-para-elaboracao-e\u0002atualizacao-de-projetos-pedagogicos-de-curso-e-para-extencao-de-curso-nos-niveis\u0002de-educacao-basica-e-profissional-e-de-graduacao/file.\nINSTITUTO FEDERAL DO PARÁ – IFPA. Instrução Normativa Nº 02/2015 – PROEN.\nDisponível em: http://proen.ifpa.edu.br/documentos-1/eventos-proen/capacitacao-de\u0002coordenadores-de-cursos-tecnicos-e-de-graduacao/legislacao-basica-cd/1364-anual\u0002de- normalizacao-tcc-instrucao-normativa-n-02-2015-proen/file .\nINSTITUTO FEDERAL DO PARÁ – IFPA. Resolução No 217/2014 – CONSUP, de 18\nde dezembro de 2015. Disponível em: http://ifpa.edu.br/documentos\ninstitucionais/dcom/2243- resolucao-n-199-2015-consup-de-14-dezembro-2015/file ."
+ },
+ {
+  "id": 73,
+  "titulo": "Seção 20 - Referências (cont.)",
+  "secao": "corpo",
+  "texto": "O PARÁ – IFPA. Resolução No 217/2014 – CONSUP, de 18\nde dezembro de 2015. Disponível em: http://ifpa.edu.br/documentos\ninstitucionais/dcom/2243- resolucao-n-199-2015-consup-de-14-dezembro-2015/file .\n\nKOHLHEPP, G. Conflitos de interesse no ordenamento territorial da Amazônia\nbrasileira. Estudos Avançados, v.16, n.45, pp.37-61, 2002.\nhttp://dx.doi.org/10.1590/S0103- 40142002000200004.\nMANUAL DE NORMALIZAÇÃO DOS TRABALHOS ACADÊMICOS DO IFPA 2015-\n2020 / Organizado por: Eliana Amoedo de Souza Brasil, Doris Campos Mendonça,\nAdélia de Moraes Pinto. Gisela Fernanda Monteiro Danin – Belém: IFPA/Comitê\nGestor do Sistema Integrado de Bibliotecas do IFPA, 2015.\nOCDE– ORGANIZAÇÃO PARA A COOPERAÇÃO E\nDESENVOLVIMENTO ECONÔMICO. Education at a glance. 2017a. Disponível em: <\nhttp://www.oecd- ilibrary.org/education/education-at-a-glance-2017_ eag-2017-en >.\nOCDE– ORGANIZAÇÃO PARA A COOPERAÇÃO E\nDESENVOLVIMENTO ECONÔMICO. Employment by job tenure. 2017b. Disponível\nem: < http://stats.oecd.org/ >.\nSILVEIRA, M. C. F e Bazzo W. Ciência, tecnologia e suas relações sociais: a\npercepção de geradores de tecnologia e suas implicações na educação tecnológica.\nCiência & Educação, v.5, n.3, pp.681-694, 2009. http://dx.doi.org/10.1590/S1516-\n73132009000300014.\nSUA PESQUISA.COM, Informações e dados do Pará, economia, geografia, dados"
+ },
+ {
+  "id": 74,
+  "titulo": "Seção 20 - Referências (cont.)",
+  "secao": "corpo",
+  "texto": "s na educação tecnológica.\nCiência & Educação, v.5, n.3, pp.681-694, 2009. http://dx.doi.org/10.1590/S1516-\n73132009000300014.\nSUA PESQUISA.COM, Informações e dados do Pará, economia, geografia, dados\nsociais, pontos turísticos e culturais, informações gerais, bandeira, capital, turismo.\nDisponível em: <http://www.suapesquisa.com/estadosbrasileiros/estado_para.htm"
+ },
+ {
+  "id": 75,
+  "titulo": "Ementa - METODOLOGIA CIENTÍFICA",
+  "secao": "ementa",
+  "texto": "Período: 1\n0 SEMESTRE\nDisciplina: METODOLOGIA CIENTÍFICA\nCarga Horária: 50 h/r\nEMENTA:\nDiretrizes para Realização de Seminário - texto roteiro didático. Orientação de\napresentação; esquemas de desenvolvimento. Diretrizes para Elaboração de\nMonografia Científica - etapas de elaboração. Levantamento de bibliografia.\nConstrução lógica detrabalho. redação de texto. Aspectos Técnicos Metodológicos -\napresentação técnica gráfica geral de trabalhos científicos. Técnica bibliográfica.\nFormas de Trabalhos Científicos - trabalho científico e monografias. Trabalhos\ndidáticos. Resumos de textos. Resenha bibliográfica.Metodologia via Internet -\npesquisa científica na Internet. Correio eletrônico.\nBIBLIOGRAFIA BÁSICA:\nCERVO, A. L e BERVIAN, P. Metodologia Científica. São Paulo: Prentice Hall, 2003,\n242p.\nCOZBY, P. C. Métodos de pesquisa em Ciências do Comportamento. São Paulo:\nAtlas, 2003, 454p.\nLAKATOS, E.M e MARCONI, M.A. Fundamentos de Metodologia Científica. São\nPaulo:Atlas, 1991, 270p.\nBIBLIOGRAFIA COMPLEMENTAR:\nBASTOS, C. Aprendendo a aprender: introdução à metodologia científica. Petrópolis:\nVozes,2002.\nCERVO, A. L; BERVIAN, P. A. Metodologia científica: para uso dos estudantes\nuniversitários. São Paulo: MacGraw Hill, 1996.\nGIL, A. C. Como elaborar projetos de pesquisa. São Paulo: Atlas, 1996.",
+  "disciplina": "METODOLOGIA CIENTÍFICA",
+  "carga_horaria": 50,
+  "periodo": 1
+ },
+ {
+  "id": 76,
+  "titulo": "Ementa - MÉTODOS MATEMÁTICOS ELEMENTARES",
+  "secao": "ementa",
+  "texto": "Período: 1\n0 SEMESTRE\nDisciplina: MÉTODOS MATEMÁTICOS ELEMENTARES\nCarga Horária: 66 h/r\nEMENTA:\nConjuntos. Funções Polinomiais do 1° e 2° graus. Funções Exponencial,Logarítmica,\nModular e Irracional. Funções Trigonométricas. Funções Hiperbólicas.Progressões\nAritmética e Geométrica. Introdução aos Números Complexos: operações naforma\nalgébrica e na forma polar. Introdução a Estudos de Sequência; Recursão.\nBIBLIOGRAFIA BÁSICA:\nALENCAR FILHO, Edgard de. Teoria elementar dos conjuntos. 16. ed. rev. e ampl.\nSãoPaulo Nobel, c1976.\nALENCAR FILHO, Edgard de. Relações e funções. São Paulo: Nobel, 1968.\nGIMENEZ, Carmem S. C.; STARKE, Rubens. Introdução ao cálculo. Florianópolis:\nUÊ:SC,2007.\nBIBLIOGRAFIA COMPLEMENTAR:\nCARNEIRO, Verá C. Funções elementares: 100 situações-problema de matemática.\nPortoAlegre: Ed. da Universidade/UFRGS, 1993 (Nova série livro-texto; 23).\nDOMINGUES, Hygino .H. Fundamentos de aritmética. Florianópolis: Ed. da UFSC,\n2009.\nHALMOS, Paul R. Teoria ingênua dos conjuntos. Rio de Janeiro: Ciência Moderna,\n2001.",
+  "disciplina": "MÉTODOS MATEMÁTICOS ELEMENTARES",
+  "carga_horaria": 66,
+  "periodo": 1
+ },
+ {
+  "id": 77,
+  "titulo": "Ementa - INTRODUÇÃO À COMPUTAÇÃO",
+  "secao": "ementa",
+  "texto": "Período: 1\n0 SEMESTRE\nDisciplina: INTRODUÇÃO À COMPUTAÇÃO\nCarga Horária: 66 h/r\nEMENTA:\nHistórico da Computação. Sistemas Computacionais. Representação daInformação.\nConceitos básicos de informática; Sistemas de Numeração; Conceitosrelacionados\nao hardware dos computadores; Conceitos de software dos computadores.\nSistemas de numeração. A importância do Desempenho. Lógica Digital. Memória.\nUnidadeCentral de Processamento. Sistemas de entrada e saída. Representação\nde Instruções. Execução de Programas. Organização e Arquitetura de\nComputadores. Linguagem deMáquina. Instalação de Periféricos e Softwares.\nBIBLIOGRAFIA BÁSICA:\nCARVALHO ACPLF de, Lorena AC. Introdução à computação - Hardware, software\ne dados.Edição: 1. LTC; 2016.\nFEDELI R, Polloni E, Peres F. Introdução à ciência da computação. Edição: 2.\nCengageLearning; 2009.\nSIPSER M. Introdução á teoria da computação. Edição: 1. São Paulo: Cengage\nLearning;2005.\nBIBLIOGRAFIA COMPLEMENTAR:\nMONTEIRO, M. A. Introdução à Organização de Computadores, Ed. LTC, 2001.\nGERSTING JL. Fundamentos matemáticos para a ciência da computação:\nMatemática Discretae Suas Aplicações. Edição: 7. LTC; 2016.\nNORTON, Peter. Introdução à Informática. São Paulo: Makron Books, 1999.",
+  "disciplina": "INTRODUÇÃO À COMPUTAÇÃO",
+  "carga_horaria": 66,
+  "periodo": 1
+ },
+ {
+  "id": 78,
+  "titulo": "Ementa - FÍSICA FUNDAMENTAL I",
+  "secao": "ementa",
+  "texto": "Período: 1\n0 SEMESTRE\nDisciplina: FÍSICA FUNDAMENTAL I\nCarga Horária: 66 h/r\nEMENTA:\nMovimento em uma dimensão. Movimentos bi e tridimensionais. Forças e leis de\nNewton. Dinâmica da Partícula. Trabalho e energia. Conservação da energia.\nSistemas departículas. Conservação do Momento Linear e Colisões. Cinemática\nrotacional. Dinâmica darotação. Momento angular e sua conservação. Equilíbrio de\ncorpos rígidos. Introdução a FísicaComputacional.\nBIBLIOGRAFIA BÁSICA:\nHALLIDAY E RESNICK. Fundamentos da Física 1. Livros Técnicos Científicos S.A. 8ª\nEdição, Rio de Janeiro, 2002.\nTIPLER, P. A. Física 1. 5ª Edição. Ed. Afiliada. Rio de Janeiro, 2005.\nALONSO, Marcelo, FINN, Edward J. Física: um curso universitário. 9. ed. São Paulo:\nEdgard Blucher, 2009. v.1.\nBIBLIOGRAFIA COMPLEMENTAR:\nNUSSENZVEIG, M. Curso de Física Básica 1. Edgard Blücher. São Paulo, 1981.\nZEMANSKY, S. Física 1. Livros Técnicos e Científicos S. A. 2ª Edição. Rio de\nJaneiro, 1980.\nNussenzveig, Moysés Herch. Curso de física básica 1. 4.ed.rev,2.reimp. São Paulo:\nEdgard Blücher, , 2012.",
+  "disciplina": "FÍSICA FUNDAMENTAL I",
+  "carga_horaria": 66,
+  "periodo": 1
+ },
+ {
+  "id": 79,
+  "titulo": "Ementa - LÓGICA DIGITAL",
+  "secao": "ementa",
+  "texto": "Período: 1\n0 SEMESTRE\nDisciplina: LÓGICA DIGITAL\nCarga Horária: 50 h/r\nEMENTA:\nIntrodução a Lógica Digital, Sistemas de numeração, Operações com números\nBinários, Portas Lógicas, Tabelas Verdade, Multiplexadores e Demultiplexadores,\nCodificadores e Decodificadores, Somadores e Subtratores, Flip Flop,\nRegistradores,Memória, Unidade Lógica e Aritmética.\nBIBLIOGRAFIA BÁSICA:\nTOCCI, R. J.; WIDMER, N. S. Sistemas Digitais: Princípios e Aplicações. Rio de\nJaneiro.\nGARCIA; P. A.; MARTINI, J. S. C.; Eletrônica digital: teoria e laboratório. 2. ed. São\nPaulo: Érica, 2010.\nHETEM JUNIOR.; A.; Eletrônica Básica para Computação. Rio de Janeiro: LTC,\n2009.\nBIBLIOGRAFIA COMPLEMENTAR:\nIDOETA, I. V.; CAPUANO, F. G. Elementos de Eletrônica Digital. São Paulo: Érica,\n2002.\nLOURENÇO DE, A. C.; CRUZ, E. C. A.; Circuitos Digitais. 9. ed. São Paulo: Érica,\n2007.\nPEDRONI, V.; Eletrônica Digital Moderna e VHDL. Rio de Janeiro: Elsevier, 2010.",
+  "disciplina": "LÓGICA DIGITAL",
+  "carga_horaria": 50,
+  "periodo": 1
+ },
+ {
+  "id": 80,
+  "titulo": "Ementa - ALGORÍTMO E CODIFICAÇÃO DE SISTEMAS",
+  "secao": "ementa",
+  "texto": "Período: 1\n0 SEMESTRE\nDisciplina: ALGORÍTMO E CODIFICAÇÃO DE SISTEMAS\nCarga Horária: 82 h/r\nEMENTA:\nConceitos básicos de programação: conceito de algoritmo; Representações de\nAlgoritmos; Conceito de programa; Pseudocódigo ou Linguagem de Programação;\nEtapas da construção de um programa. Estruturas de dados: constantes, variáveis\ne tipos de dados; Comandos de entrada e saída; Comandos de atribuição;\nExpressões lógicas e literais. Estruturas de controle dos comandos de um algoritmo:\nestruturas sequenciais; Estruturas condicionais; Estruturas de repetição; Estruturas\nmodulares (funções e procedimentos);Passagem de parâmetros (por valor e por\nreferência). Estruturas de dados complexas: vetores; Pesquisa; Matrizes.\nBIBLIOGRAFIA BÁSICA:\nAscencio, Ana Fernanda Gomes, e Edilene Aparecida Veneruchi de Campos.\nFundamentos da Programação de Computadores: Algoritmos, Pascal, C, C++ e Java.\nEdição: 3. Pearson Universidades, 2012.\nCormen, Thomas. Algoritmos: Teoria e Prática. Edição: 3. Rio de Janeiro: GEN LTC,\n2012.\nDonovan, Alan A. A., e Brian W. Kernighan. A Linguagem de Programação Go.\nEdição: 1. Novatec Editora, 2017.\nBIBLIOGRAFIA COMPLEMENTAR:\nBates, Bert, e Kathy Sierra. Use a Cabeça!: Java. Edição: 2. Rio de Janeiro: Alta Books,\n2007.\nDoxsey, Caleb. Introdução à Linguagem Go: Crie Programas Escaláveis e Confiáveis.\nNovatec Editora, 2016.",
+  "disciplina": "ALGORÍTMO E CODIFICAÇÃO DE SISTEMAS",
+  "carga_horaria": 82,
+  "periodo": 1
+ },
+ {
+  "id": 81,
+  "titulo": "Ementa - ALGORÍTMO E CODIFICAÇÃO DE SISTEMAS (cont.)",
+  "secao": "ementa",
+  "texto": "Bates, Bert, e Kathy Sierra. Use a Cabeça!: Java. Edição: 2. Rio de Janeiro: Alta Books,\n2007.\nDoxsey, Caleb. Introdução à Linguagem Go: Crie Programas Escaláveis e Confiáveis.\nNovatec Editora, 2016.\nFORBELLONE, A. L. & EBERSPÄCHER, H. F. Lógica de Programação – A\nConstrução de Algoritmos e Estruturas de Dados. 3ª Edição. São Paulo: Pearson,\n2005.",
+  "disciplina": "ALGORÍTMO E CODIFICAÇÃO DE SISTEMAS",
+  "carga_horaria": 82,
+  "periodo": 1
+ },
+ {
+  "id": 82,
+  "titulo": "Ementa - PROJETO INTEGRADOR I - DESAFIOS DA COMPUTAÇÃO",
+  "secao": "ementa",
+  "texto": "Período: 1\n0 SEMESTRE\nDisciplina: PROJETO INTEGRADOR I - DESAFIOS DA COMPUTAÇÃO\nCarga Horária: 13 h/r\nEMENTA:\nPromover aos acadêmicos do curso de Bacharelado em Ciência da Computação, a\npossibilidade de desenvolver na prática os conceitos teóricos oferecidos nas\ndisciplinas por intermédio da implementação de seminário temático envolvendo as\ndisciplinas do semestrefrente aos desafios da computação. Fundamentos e aspectos\nmetodológicos iniciais para realização de trabalhos científicos e profissionais. Abordar\na adoção de políticas educacionais e estratégias pedagógicas de valorização da\ndiversidade, a fim de superar a desigualdade das Relações Etnicorraciais presente na\nSociedade brasileira.\nBIBLIOGRAFIA BÁSICA:\nEleutério, Pedro Monteiro Silva da, e Marcio Pereira Machado. Desvendando a\nComputaçãoForense. Edição: 1. Novatec Editora, 2019.\nJr, Arlindo Philippi, org. Práticas da interdisciplinaridade no ensino e pesquisa.\nEdição: 1.Barueri: Editora Manole, 2014.\nFernandes, Frederico. Oralidade E Literatura. Práticas Culturais, Históricas E Da Voz –\nVolume 2. Edição: 1a. Londrina, PR: EDUEL, 2007.\nBIBLIOGRAFIA COMPLEMENTAR:\nGois, Siane, e Telma Ferraz Leal. A oralidade na escola - A investigação do trabalho\ndocentecomo foco de reflexão. Edição: 1. Autêntica, 2012.\nKopec, David. Problemas Clássicos De Ciência Da Computação Com Python.\nNovatec, 2019.",
+  "disciplina": "PROJETO INTEGRADOR I - DESAFIOS DA COMPUTAÇÃO",
+  "carga_horaria": 13,
+  "periodo": 1
+ },
+ {
+  "id": 83,
+  "titulo": "Ementa - PROJETO INTEGRADOR I - DESAFIOS DA COMPUTAÇÃO (cont.)",
+  "secao": "ementa",
+  "texto": "Leal. A oralidade na escola - A investigação do trabalho\ndocentecomo foco de reflexão. Edição: 1. Autêntica, 2012.\nKopec, David. Problemas Clássicos De Ciência Da Computação Com Python.\nNovatec, 2019.\nSOUZA, Dalva Inês de. et. al. Manual de orientações para projetos de pesquisa –\nNovo Hamburgo: FESLSVC, 2013.\n\nComponentes Curriculares do 2º Semestre",
+  "disciplina": "PROJETO INTEGRADOR I - DESAFIOS DA COMPUTAÇÃO",
+  "carga_horaria": 13,
+  "periodo": 1
+ },
+ {
+  "id": 84,
+  "titulo": "Ementa - ÁLGEBRA COM PROGRAMAÇÃO LINEAR",
+  "secao": "ementa",
+  "texto": "Período: 2\n0 SEMESTRE\nDisciplina: ÁLGEBRA COM PROGRAMAÇÃO LINEAR\nCarga Horária: 50 h/r\nEMENTA:\nMatrizes: Definição e operações. Problemas com matrizes. Determinantes:Definição.\nPropriedades. Cofator. Teorema de Laplace; Sistemas lineares. Definição.\nResolução pelo Método da Eliminação, Crammer e Gauss-Jordam. Tipos de sistemas\nlineares; Espaço Vetorial: Definição e propriedades. Sub-espaço. Sub-espaço\nGerado.Dependência e Independência Linear. Base e Dimensão de um Espaço\nVetorial. Matriz Mudança de Base. Transformação Linear: Definição e Propriedades.\nNúcleo, Imagem e o Teorema do Núcleo e da Imagem de uma Transformação Linear.\nAlgoritmo de Gauss-Jordan. Algoritmo Simplex. Problema geral de programação\nlinear. Dualidade e condições de otimalidade. Análise de sensibilidade e análise\nparamétrica. Detalhes de implementação. Algoritmos de pontos interiores. Aplicação\nde modelos computacionais.\nBIBLIOGRAFIA BÁSICA:\nANDRADE, E. Introdução à Pesquisa Operacional: Métodos e Modelos para Análise\nde Decisões 4ª Edição; Rio de Janeiro: LTC, 2014.\nGOLDBARG, M. C.; LUNA, H. P. L. Otimização Combinatória e Programação Linear\n2ª Edição (rev. e atual.); Rio de Janeiro: Campus, 2005.\nHILLIER, F; LIEBERMAN, G. Introdução à Pesquisa Operacional 9ª Edição; Porto\nAlegre:McGraw-Hill, 2013.\nBIBLIOGRAFIA COMPLEMENTAR:\nBOLDRINI, José Luíz. Álgebra Linear, Editora Harper & Roow do Brasil- 1978-SP.",
+  "disciplina": "ÁLGEBRA COM PROGRAMAÇÃO LINEAR",
+  "carga_horaria": 50,
+  "periodo": 2
+ },
+ {
+  "id": 85,
+  "titulo": "Ementa - ÁLGEBRA COM PROGRAMAÇÃO LINEAR (cont.)",
+  "secao": "ementa",
+  "texto": "F; LIEBERMAN, G. Introdução à Pesquisa Operacional 9ª Edição; Porto\nAlegre:McGraw-Hill, 2013.\nBIBLIOGRAFIA COMPLEMENTAR:\nBOLDRINI, José Luíz. Álgebra Linear, Editora Harper & Roow do Brasil- 1978-SP.\nCALLIOLI, Carlos Alberto. Álgebra Linear e Aplicações; Editora Atual-SP.\nLEON, Steven J. Álgebra Linear com Aplicações. 8ª Edição. Editora LTC, 2010.",
+  "disciplina": "ÁLGEBRA COM PROGRAMAÇÃO LINEAR",
+  "carga_horaria": 50,
+  "periodo": 2
+ },
+ {
+  "id": 86,
+  "titulo": "Ementa - CÁLCULO DIFERENCIAL E COMPUTACIONAL I",
+  "secao": "ementa",
+  "texto": "Período: 2\n0 SEMESTRE\nDisciplina: CÁLCULO DIFERENCIAL E COMPUTACIONAL I\nCarga Horária: 66 h/r\nEMENTA:\nLimite e Continuidade de Funções: Propriedades de Limites, limites laterais,\npropriedades de funções contínuas, limites envolvendo infinito, assíntotas.\nImplementação deLimites em Modelos Computacionais nas Linguagens PYTHON e\nMATLAB. Derivadas: Coeficientes angulares, derivadas de funções elementares,\nregras de derivação, Teorema doValor Intermediário e valor médio. Derivadas de\nordem superior, Máximo e Mínimo, extremosabsolutos. Implementação de Derivadas\nem Modelos Computacionais nas Linguagens PYTHON e MATLAB. Integral: A\nIntegral Definida, O Teorema Fundamental do Cálculo, Aplicações de Integrais,\ntécnicas de Integração. Implementação de Integrais em Modelos Computacionais nas\nLinguagens PYTHON e MATLAB.\nBIBLIOGRAFIA BÁSICA:\nCHAPRA, Steven C. Métodos Numéricos Aplicados com MATLAB para Engenheiros\neCientistas. Tradução: Rafael Silva Alípio. Revisão técnica: Antonio Pertence Junior.\n3ª ed. Porto Alegre: AMGH. McGraw Hill – Bookman, 2013.\nDEMIDOVITCH, Boris: Problemas e exercícios de análise matemática. Ed. Mir.\nMoscou.\nGRANVILLE, W. A. Elementos de cálculos diferencial e integral.\nBIBLIOGRAFIA COMPLEMENTAR:\nAVILA, G., Cálculo das Funções de uma Variável. Rio de Janeiro: LTC, 2003.\nBOULOS, P., Cálculo Diferencial e Integral – Volume 1. Makron Books, 1999.",
+  "disciplina": "CÁLCULO DIFERENCIAL E COMPUTACIONAL I",
+  "carga_horaria": 66,
+  "periodo": 2
+ },
+ {
+  "id": 87,
+  "titulo": "Ementa - CÁLCULO DIFERENCIAL E COMPUTACIONAL I (cont.)",
+  "secao": "ementa",
+  "texto": "diferencial e integral.\nBIBLIOGRAFIA COMPLEMENTAR:\nAVILA, G., Cálculo das Funções de uma Variável. Rio de Janeiro: LTC, 2003.\nBOULOS, P., Cálculo Diferencial e Integral – Volume 1. Makron Books, 1999.\nCHAPMAN, Stephen J. Programação em MATLAB para Engenheiros. Tradução e\nrevisão: Flávio Soares Corrêa da Silva. 2ª Ed. São Paulo. Cengage Learning. 2010.",
+  "disciplina": "CÁLCULO DIFERENCIAL E COMPUTACIONAL I",
+  "carga_horaria": 66,
+  "periodo": 2
+ },
+ {
+  "id": 88,
+  "titulo": "Ementa - SISTEMAS OPERACIONAIS",
+  "secao": "ementa",
+  "texto": "Período: 2\n0 SEMESTRE\nDisciplina: SISTEMAS OPERACIONAIS\nCarga Horária: 50 h/r\nEMENTA:\nSistema Operacional Monousuário e Multiusuário, Conceitos Básicos, Gerência de\nMemória, Gerência de Processador, Gerência de Dispositivos, Gerência de Arquivo,\nKernel,Sistemas Operacionais de Redes.\nBIBLIOGRAFIA BÁSICA:\nMACHADO, Francis B. & MAIA, Luiz Paulo. Arquitetura de Sistemas Operacionais.\n2ªEdição. Editora LTC.\nSILBERSCHATZ, Abraham & GALVIN, Peter & GANE, Greg. Sistemas\nOperacionais:Conceitos e Aplicações. Editora Campus.\nTANENBAUM, Andrew S. & WOODHULL, Albert S. Sistemas Operacionais. Editora\nPrentice-Hall do Brasil.\nBIBLIOGRAFIA COMPLEMENTAR:\nGALEN, Grimes. Aprenda em 24 Horas Upgrade e Manutenção de PCs. Editora\nCampus.\nTANENBAUM, Andrew S. Redes de Computadores. Editora Campus.\nTORRE, Gabriel. Hardware Curso Completo. Editora Axcel Books.",
+  "disciplina": "SISTEMAS OPERACIONAIS",
+  "carga_horaria": 50,
+  "periodo": 2
+ },
+ {
+  "id": 89,
+  "titulo": "Ementa - LABORATÓRIO DE PROGRAMAÇÃO ORIENTADA A OBJETOS",
+  "secao": "ementa",
+  "texto": "Período: 2\n0 SEMESTRE\nDisciplina: LABORATÓRIO DE PROGRAMAÇÃO ORIENTADA A OBJETOS\nCarga Horária: 83 h/r\nEMENTA:\nIntrodução ao Java; Tipos primitivos e seus operadores; Estruturas de controle;\nIntrodução àorientação a objetos; Definição de classes e manipulação de objetos;\nEncapsulamento Modificadores de acesso; Componentes de software Javabeans;\nArrays; Herança; Polimorfismo Amarração estática e dinâmica; Exceções e\nasserções; Classes abstratas e interfaces; Padrões de projeto; Frameworks;\nColeções; Entrada e saída; Serialização de objetos e persistência; Metaclasses;\nInterfaces Gráficas.\nBIBLIOGRAFIA BÁSICA:\nDEITEL, P. & DEITEL, H. Java: Como Programar. 10ª ed. São Paulo: Pearson\nPrentice Hall, 2016.\nASCENCIO, A. F. G. & CAMPOS, E. A. V. Fundamentos da Programação de\nComputadores - Algoritmos, Pascal, C, C++ e Java. 3ª ed. São Paulo: Pearson\nPrentice Hall,2012.\nZIVIANI, N. Projeto de Algoritmos com Implementações em Java e C++. São Paulo:\nCengage, 2007.\nBIBLIOGRAFIA COMPLEMENTAR:\nBARNES, D.J.& KÖLLING, M. Programação Orientada a Objetos com Java - Uma\nIntroduçãoPrática Usando o BlueJ. 4ª ed. São Paulo: Pearson Prentice Hall, 2009.\nGOODRICH, M.T. & TAMASSIA, R. Estruturas de Dados e Algoritmos em Java. 5ª\ned. Porto Alegre: Bookman, 2013.\nMANZANO, J. & OLIVEIRA, J. Algoritmos - Lógica Para Desenvolvimento de\nProgramação de Computadores. São Paulo: Érica, 2016.",
+  "disciplina": "LABORATÓRIO DE PROGRAMAÇÃO ORIENTADA A OBJETOS",
+  "carga_horaria": 83,
+  "periodo": 2
+ },
+ {
+  "id": 90,
+  "titulo": "Ementa - ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES",
+  "secao": "ementa",
+  "texto": "Período: 2\n0 SEMESTRE\nDisciplina: ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES\nCarga Horária: 50 h/r\nEMENTA:\nMáquina Multinível, Memória Interna, Memória Externa, Barramento do Sistema,\nEntrada e Saída, Estrutura e Funcionamento da CPU, Escalonamento de Processos,\nComputadores com um Conjunto Reduzido de Instruções.\nBIBLIOGRAFIA BÁSICA:\nTanenbaum AS, Austin T. Organização Estruturada de Computadores. Edição: 6.\nPearson;2015.\nStallings W. Arquitetura e Organização de Computadores. Edição: 10. Pearson\nUniversidades; 2017.\nHennessy J. Organização e projeto de computadores: a Interface Hardware/software.\nEdição: 5. GEN LTC; 2017.\nBIBLIOGRAFIA COMPLEMENTAR:\nMonteiro. Introdução à Organização de Computadores. Edição: 5. Rio de Janeiro: LTC;\n2007.\nHennessy J. Arquitetura de Computadores - Uma Abordagem Quantitativa. Edição:\n6. GENLTC; 2019.\nOrganização e Projeto de Computadores: A Interface Hardware/Software. David A.\nPatterson e John L. Hennessy. Editora Campus. ISBN: 8535215212, 2005.",
+  "disciplina": "ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES",
+  "carga_horaria": 50,
+  "periodo": 2
+ },
+ {
+  "id": 91,
+  "titulo": "Ementa - INGLÊS INSTRUMENTAL",
+  "secao": "ementa",
+  "texto": "Período: 2\n0 SEMESTRE\nDisciplina: INGLÊS INSTRUMENTAL\nCarga Horária: 60 h/r\nEMENTA:\nConsiderações gerais sobre Inglês Instrumental e estratégias de leitura. Leitura e\ninterpretação de textos de gêneros diversos em Inglês, voltados para a área em\nestudo, visando o desenvolvimento de estratégias globais de leitura e de análise\nlinguística.\nBIBLIOGRAFIA BÁSICA:\nBOECKNER , Keih & Brown , P. Chales. Oxford English for Computing. Oxford :\nOxfordUniversity press ,1996.\nCRUMLISH , Christin . O dicionário da Internet : um guia indispensável para os\ninternautas.Rio de Janeiro : Campus, 2020.\nDEMETRIADES , Dinos . Information Techcnology Workshop. Oxford University\npress-ELT,2013.\nBIBLIOGRAFIA COMPLEMENTAR:\nWHITE, Lindsay. Engeneering Workshop . Oxford University press- ELT, 2003.\nCRUZ, D., SILVA, V. ROSAS, M. Inglês. Com textos para informática. SãoPaulo: Disal,\n2013.(para informática).\nGlendinng, Eric H; Glendinning, Norman. Oxford English for Electrical Mechanical\nEngineering. New York: Oxford University Press, 2008. (para fabricação mecânica).",
+  "disciplina": "INGLÊS INSTRUMENTAL",
+  "carga_horaria": 60,
+  "periodo": 2
+ },
+ {
+  "id": 92,
+  "titulo": "Ementa - PROJETO INTEGRADOR II – PROGRAMAÇÃO DE SISTEMAS",
+  "secao": "ementa",
+  "texto": "Período: 2\n0 SEMESTRE\nDisciplina: PROJETO INTEGRADOR II – PROGRAMAÇÃO DE SISTEMAS\nCarga Horária: 13 h/r\nEMENTA:\nPromover aos acadêmicos do curso de Bacharelado em Ciência da Computação,a\npossibilidade de desenvolver na prática os conceitos teóricos oferecidos nas\ndisciplinas porintermédio da implementação de seminário temático envolvendo as\ndisciplinas do semestrefrente ao assunto programação de sistemas. Fundamentos e\naspectos metodológicos iniciais para realização de trabalhos científicos e\nprofissionais. Abordar a adoção de políticas educacionais e estratégias pedagógicas\nde valorização da diversidade, a fim de superar a desigualdade das Relações\nEtnicorraciais presente na Sociedade brasileira.\nBIBLIOGRAFIA BÁSICA:\nEleutério, Pedro Monteiro Silva da, e Marcio Pereira Machado. Desvendando a\nComputaçãoForense. Edição: 1. Novatec Editora, 2019.\nJr, Arlindo Philippi, org. Práticas da interdisciplinaridade no ensino e pesquisa.\nEdição: 1.Barueri: Editora Manole, 2014.\nFernandes, Frederico. Oralidade E Literatura. Práticas Culturais, Históricas E Da Voz -\nVolume2. Edição: 1a. Londrina, PR: EDUEL, 2007.\nBIBLIOGRAFIA COMPLEMENTAR:\nGois, Siane, e Telma Ferraz Leal. A oralidade na escola - A investigação do trabalho\ndocentecomo foco de reflexão. Edição: 1. Autêntica, 2012.\nKopec, David. Problemas Clássicos De Ciência Da Computação Com Python.\nNovatec, 2019.",
+  "disciplina": "PROJETO INTEGRADOR II – PROGRAMAÇÃO DE SISTEMAS",
+  "carga_horaria": 13,
+  "periodo": 2
+ },
+ {
+  "id": 93,
+  "titulo": "Ementa - PROJETO INTEGRADOR II – PROGRAMAÇÃO DE SISTEMAS (cont.)",
+  "secao": "ementa",
+  "texto": "Leal. A oralidade na escola - A investigação do trabalho\ndocentecomo foco de reflexão. Edição: 1. Autêntica, 2012.\nKopec, David. Problemas Clássicos De Ciência Da Computação Com Python.\nNovatec, 2019.\nSOUZA, Dalva Inês de. et. al. Manual de orientações para projetos de pesquisa –\nNovo Hamburgo: FESLSVC, 2013.\n\nComponentes Curriculares do 3º Semestre",
+  "disciplina": "PROJETO INTEGRADOR II – PROGRAMAÇÃO DE SISTEMAS",
+  "carga_horaria": 13,
+  "periodo": 2
+ },
+ {
+  "id": 94,
+  "titulo": "Ementa - CÁLCULO DIFERENCIAL E COMPUTACIONAL II",
+  "secao": "ementa",
+  "texto": "Período: 3\n0 SEMESTRE\nDisciplina: CÁLCULO DIFERENCIAL E COMPUTACIONAL II\nCarga Horária: 66 h/r\nEMENTA:\nFunções de várias variáveis. Limite e continuidade, Implementação de Funções e\nLimites de várias variáveis em Modelos Computacionais nas Linguagens PYTHON e\nMATLAB. Derivadas Parciais: Regra da cadeia, Derivadas direcionais e vetor\ngradiente, Retasnormais e plano tangente, extremo de funções de várias variáveis,\nmultiplicadores de Lagrange. Integrais Múltiplas, Implementação de Derivadas\nParciais em Modelos Computacionais nas Linguagens PYTHON e MATLAB. Integrais\nDuplas sobre Retângulos, Integrais Iteradas, Integrais Duplas sobre Regiões Gerais,\nIntegrais Duplas em Coordenadas Polares, Integrais Triplas em coordenadas\ncartesianas, Integrais Triplas em Coordenadas Cilíndricas e Esféricas,\nImplementação de Integrais Múltiplas em Modelos Computacionais nas Linguagens\nPYTHON e MATLAB.\nBIBLIOGRAFIA BÁSICA:\nCHAPRA, Steven C. Métodos Numéricos Aplicados com MATLAB para Engenheiros\neCientistas. Tradução: Rafael Silva Alípio. Revisão técnica: Antonio Pertence Junior.\n3ª ed. Porto Alegre: AMGH. McGraw Hill – Bookman, 2013.\nDEMIDOVITCH, Boris: Problemas e exercícios de análise matemática. Ed. Mir.\nMoscou. FLEMMING, DIVA MARÍLIA E GONÇALVES, MIRIAN BUSS - Cálculo B 6ª\nEDIÇÃO – Ed.Pearson Education, 2007.\nSwokowski, E.; Cálculo com Geometria Analítica, vols 1 e 2 – Ed. Makron",
+  "disciplina": "CÁLCULO DIFERENCIAL E COMPUTACIONAL II",
+  "carga_horaria": 66,
+  "periodo": 3
+ },
+ {
+  "id": 95,
+  "titulo": "Ementa - CÁLCULO DIFERENCIAL E COMPUTACIONAL II (cont.)",
+  "secao": "ementa",
+  "texto": "matemática. Ed. Mir.\nMoscou. FLEMMING, DIVA MARÍLIA E GONÇALVES, MIRIAN BUSS - Cálculo B 6ª\nEDIÇÃO – Ed.Pearson Education, 2007.\nSwokowski, E.; Cálculo com Geometria Analítica, vols 1 e 2 – Ed. Makron\nBIBLIOGRAFIA COMPLEMENTAR:\nANTON, H. Cálculo: um novo horizonte. São Paulo: Bookman, 2000. Vol. 1 e Vol. 2.\n● BOULOS, P., Cálculo Diferencial e Integral – Volumes 1 e 2. Makron Books, 1999.\n●\nCHAPMAN, Stephen J. Programação em MATLAB para Engenheiros. Tradução e\nrevisão:Flávio Soares Corrêa da Silva. 2ª Ed. São Paulo. Cengage Learning. 2010.",
+  "disciplina": "CÁLCULO DIFERENCIAL E COMPUTACIONAL II",
+  "carga_horaria": 66,
+  "periodo": 3
+ },
+ {
+  "id": 96,
+  "titulo": "Ementa - REDAÇÃO CIENTÍFICA",
+  "secao": "ementa",
+  "texto": "Período: 3\n0 SEMESTRE\nDisciplina: REDAÇÃO CIENTÍFICA\nCarga Horária: 33 h/r\nEMENTA:\nRevisão dos princípios que organizam a escrita e a produção do resumo, da\nresenha, do artigo científico, da monografia e do papper considerando as\ncaracterísticas, a forma de argumentação, a estética e os recursos formais utilizados\nnesses gêneros.Ferramentas Digitais de apoio à escrita de artigos.\nBIBLIOGRAFIA BÁSICA:\nASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6022: informação\ne documentação: artigo em publicação periódica técnica e/ou científica:\napresentação. 2. ed.Rio de Janeiro, 2018.\nASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS (ABNT). NBR 6028:\nInformação e documentação: resumo: apresentação. Rio de Janeiro, dez. 2003. 2p.\nSCHEIBEL, Maria Fani; VAISZ, Marinice Langaro. Artigo científico: percorrendo\ncaminhospara sua elaboração. Canoas: Editora da Ulbra, 2006.\nBIBLIOGRAFIA COMPLEMENTAR:\n● MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de\nMetodologia Científica - 7ª ed. São Paulo: Atlas. 2010.ZEMANSKY, S. Física 2.\nLivrosTécnicos e Científicos S. A. 2ª Edição. Rio de Janeiro, 1980.\n●\n● MEDEIROS, João Bosco. Redação científica: a prática de fichamento, resumos,\nresenhas. São Paulo: Atlas, 2009.\n●\n● PRESTES, Maria Lúcia de Mesquita. A Pesquisa e a construção do conhecimento\ncientífico: do planejamento ao texto. São Paulo: Respel, 2008.",
+  "disciplina": "REDAÇÃO CIENTÍFICA",
+  "carga_horaria": 33,
+  "periodo": 3
+ },
+ {
+  "id": 97,
+  "titulo": "Ementa - DESENVOLVIMENTO REGIONAL E TRANSFORMAÇÕES SOCIOCULTURAIS",
+  "secao": "ementa",
+  "texto": "Período: 3\n0 SEMESTRE\nDisciplina: DESENVOLVIMENTO REGIONAL E TRANSFORMAÇÕES\nSOCIOCULTURAIS\nCarga Horária: 50 h/r\nEMENTA:\nO Desenvolvimento Regional a partir das interfaces com a questão cultural.\nDesenvolvimento tecnológico, desenvolvimento social e desenvolvimento regional.\nSociedade tecnológica e suas implicações. O visual da tecnologia. As noções de risco\ne de impacto tecnológico. Modernidade, globalização e as implicações culturais e\nsociais. Modelos de produção e modelos de sociedade. Desafios contemporâneos.\nInfluências da ciência e da tecnologia na organização social.\nBIBLIOGRAFIA BÁSICA:\nCANCLINI, N. Consumidores e cidadãos: conflitos multiculturais da globalização. Rio\nde Janeiro: Editora UFRJ, 2001.\nHALL, Stuart, Da diáspora: identidades e mediações culturais. Belo Horizonte: UFMG;\nBrasília: UNESCO, 2003.\nHERMET, Guy. Cultura e desenvolvimento. Petrópolis: Vozes, 2002.\nBIBLIOGRAFIA COMPLEMENTAR:\nBHABHA, H. O local da cultura. Belo Horizonte: UFMG, 2001.\nORTIZ, Renato. Mundialização e cultura. São Paulo: Brasiliense, 1994.\n● TAYLOR, Charles. Multiculturalismo. Lisboa: Instituto Piaget, 1994.",
+  "disciplina": "DESENVOLVIMENTO REGIONAL E TRANSFORMAÇÕES SOCIOCULTURAIS",
+  "carga_horaria": 50,
+  "periodo": 3
+ },
+ {
+  "id": 98,
+  "titulo": "Ementa - LABORATÓRIO DE PROGRAMAÇÃO DESKTOP",
+  "secao": "ementa",
+  "texto": "Período: 3\n0 SEMESTRE\nDisciplina: LABORATÓRIO DE PROGRAMAÇÃO DESKTOP\nCarga Horária: 66 h/r\nEMENTA:\nPreparação de Ambiente de desenvolvimento, Frameworks de desenvolvimento de\nsoftware Desktop; Ferramentas de Desenvolvimento Rápido de Aplicativos;\nPersistência de dados em arquivos e bancos de dados; Tópicos de desenvolvimento\nde Software Desktop conforme o framework de desenvolvimento adotado.\nDesenvolvimento de um programa comas funcionalidades Create (Criação), Read\n(Consulta), Update (Atualização) e Delete (Destruição) - CRUD.\nBIBLIOGRAFIA BÁSICA:\nMenezes NNC. Introdução à Programação com Python: Algoritmos e Lógica de\nProgramação Para Iniciantes. Edição: 3. Novatec Editora; 2019.\nRamalho L. Python Fluente: Programação Clara, Concisa e Eficaz. Edição: 1. Novatec\nEditora; 2015.\nMatthes E. Curso Intensivo de Python: Uma Introdução Prática e Baseada em\nProjetos àProgramação. Novatec. Editora; 2016.\nBIBLIOGRAFIA COMPLEMENTAR:\nAnanda OA. Python GUI: Develop Cross Platform Desktop Applications using Python,\nQt andPyQt5. 104 p.\nMartelli A, Ravenscroft A, Holden S. Python in a Nutshell: A Desktop Quick\nReference.Edição: 3. O’Reilly Media; 2017. 772 p.\nFitzpatrick M. Create GUI Applications with Python & Qt5. 792 p.",
+  "disciplina": "LABORATÓRIO DE PROGRAMAÇÃO DESKTOP",
+  "carga_horaria": 66,
+  "periodo": 3
+ },
+ {
+  "id": 99,
+  "titulo": "Ementa - BANCO DE DADOS I",
+  "secao": "ementa",
+  "texto": "Período: 3\n0 SEMESTRE\nDisciplina: BANCO DE DADOS I\nCarga Horária: 66 h/r\nEMENTA:\nBanco de Dados (BD). Sistema de Gerência de BD: funcionalidades, módulos\nprincipais, categorias de usuários, dicionário de dados. Linguagens SQL: DDL, DML,\nrestrições de integridade, visões, autorização de acesso. Modelagem de dados: etapas\ndo projetode um BD relacional, modelo Entidade-Relacionamento (ER), mapeamento\nER-relacional.\nBIBLIOGRAFIA BÁSICA:\nSILBERCHARTZ, Abraham. KORTH, Henry F. SUDARCHAN, S. Sistema de Banco\ndeDados. 6ª edição. Editora Campus. São Paulo. 2012\nDATE Christopher J. Introdução a Sistemas de Bancos de Dados, Editora Elsevier.\nSão Paulo.2004 .\nHEUSER, Carlos A. Projeto de Bancos de Dados, Editora Bookman. São Paulo 2009.\nBIBLIOGRAFIA COMPLEMENTAR:\nNUSSENZVEIG, M. Curso de Física Básica 1. Edgard Blücher. São Paulo, 1981.\nZEMANSKY, S. Física 1. Livros Técnicos e Científicos S.A. 2ª Edição. Rio de Janeiro,\n1980.\nElmasri, R.; Navathe, S. B. Sistemas De Banco De Dados: Fundamentos E\nAplicações; São Paulo: Pearson Education, 2011.",
+  "disciplina": "BANCO DE DADOS I",
+  "carga_horaria": 66,
+  "periodo": 3
+ },
+ {
+  "id": 100,
+  "titulo": "Ementa - ESTRUTURA DE DADOS I",
+  "secao": "ementa",
+  "texto": "Período: 3\n0 SEMESTRE\nDisciplina: ESTRUTURA DE DADOS I\nCarga Horária: 50 h/r\nEMENTA:\nTipos Abstrato de Dados: conceitos, operações, representações, manipulação em\nListaSimplesmente Encadeada; Lista duplamente encadeada; Pilhas; Fila; Deque;\nRepresentações e manipulação. Alocação dinâmica e ponteiros; Arquivos; Introdução\nà notação assintótica; Algoritmo de ordenação. Estruturas de representação de\ngrafos. Estruturas para representação de árvores e suasaplicações.\nBIBLIOGRAFIA BÁSICA:\nGOODRICH, Michael T. TAMASSIA, Roberto. Estruturas de Dados & Algoritmos em\nJava.5ª Ed. São Paulo. Editora Campus 2013.\nDROZDEK, Adam Estrutura de Dados e Algoritmos Em C++ - Tradução da 4ª Edição\nNorte-Americana. São Paulo . CENGAGE - CTP NACIONA. 2016\nBACKES, André. Estrutura de Dados Descomplicada - Em Linguagem C. São Paulo.\nLTCExatas Didático 2016.\nBIBLIOGRAFIA COMPLEMENTAR:\nJUNIOR, Dilermando P. NAKAMATI, Gilberto S. BIANCHI, Francisco. Estrutura de\nDadose Técnicas de Programação. São Paulo. Editora Campus. 2014.\nRODRIGUES, Pimenta. Programação Em C++ - Algoritmos e Estrutura de Dados - 3ª\nEd. SãoPaulo Editora FCA. 2012.\nPUGA, S.& RISSETTI, G. Lógica de Programação e Estruturas de Dados em Java.\n2ª. Edição. São Paulo: Pearson Prentice Hall, 2009.",
+  "disciplina": "ESTRUTURA DE DADOS I",
+  "carga_horaria": 50,
+  "periodo": 3
+ },
+ {
+  "id": 101,
+  "titulo": "Ementa - INTRODUÇÃO A ELETRÔNICA BÁSICA",
+  "secao": "ementa",
+  "texto": "Período: 3\n0 SEMESTRE\nDisciplina: INTRODUÇÃO A ELETRÔNICA BÁSICA\nCarga Horária: 50 h/r\nEMENTA:\nIntrodução à eletrônica; amplificadores operacionais; diodos; o transistor de junção\nbipolar; transistores de efeito de campo; componentes optoeletrônicos; Construção\nde Circuitos Simples.\nBIBLIOGRAFIA BÁSICA:\nRAZAVI, Behzad. Fundamentos de microeletrônica. LTC. 2013.\nPEDRONI, Volnei A. Eletrônica Digital Moderna e VHDL. Ed. Elsevier. 2011\nO’MALLEY, John. Análise de circuitos. Bookman. 2014.\nBIBLIOGRAFIA COMPLEMENTAR:\nTOCCI, Ronald J. Sistemas Digitais: Princípios e Aplicações. 10ª Ed. Pearson. São\nPaulo,2007.\nTANENBAUM, A. S. Organização estruturada de computadores. 6. ed. Prentice/Hall do\nBrasil,2013.\nSMITH, Kenneth C; SENDRA, Adel S. Microeletrônica. 5. ed. São Paulo : Prentice Hall\nBrasil, 2007.",
+  "disciplina": "INTRODUÇÃO A ELETRÔNICA BÁSICA",
+  "carga_horaria": 50,
+  "periodo": 3
+ },
+ {
+  "id": 102,
+  "titulo": "Ementa - PROJETO INTEGRADOR III - DESENVOLVIMENTO DE PROGRAMA",
+  "secao": "ementa",
+  "texto": "Período: 3\n0 SEMESTRE\nDisciplina: PROJETO INTEGRADOR III - DESENVOLVIMENTO DE PROGRAMA\nCarga Horária: 13 h/r\nEMENTA:\nPromover aos acadêmicos do curso de Bacharelado em Ciência da Computação, a\npossibilidade de desenvolver na prática os conceitos teóricos oferecidos nas\ndisciplinas porintermédio da implementação de projeto temático envolvendo as\ndisciplinas do semestre frente ao assunto desenvolvimento de programa de\ncomputador..\nBIBLIOGRAFIA BÁSICA:\nJr, Arlindo Philippi, org. Práticas da interdisciplinaridade no ensino e pesquisa. Edição:\n1. Barueri: Editora Manole, 2014.\nBender, Willian N., Maria da Graça Souza Horn, e Fernando de Siqueira Rodrigues.\nAprendizagem Baseada em Projetos: Educação Diferenciada para o Século XXI.\nEdição: 1. Penso, 2014.\nKerzner, Harold. Gestão de Projetos: As Melhores Práticas. Edição: 4. Bookman,\n2020.\nBIBLIOGRAFIA COMPLEMENTAR:\nKerzner, Harold R., Fábio Giordani, e Christiane de Brito Andrei. Gestão de\nProjetos: AsMelhores Práticas. Edição: 3. Bookman, 2016.\nFernandes, João M., e Ricardo J. Machado. Requisitos em Projetos de Software\ne deSistemas de Informação. Edição: 1a. Novatec Editora, 2017.\nDebastiani, Carlos Alberto. Definindo Escopo em Projetos de Software. Novatec\nEditora, 2015.\n\nComponentes Curriculares do 4º Semestre",
+  "disciplina": "PROJETO INTEGRADOR III - DESENVOLVIMENTO DE PROGRAMA",
+  "carga_horaria": 13,
+  "periodo": 3
+ },
+ {
+  "id": 103,
+  "titulo": "Ementa - BANCO DE DADOS II",
+  "secao": "ementa",
+  "texto": "Período: 4\n0 SEMESTRE\nDisciplina: BANCO DE DADOS II\nCarga Horária: 66 h/r\nEMENTA:\nProjeto de banco de dados. Implementação de SGBDs. Bando de dados distribuídos.\nArmazenamento de dados. Estruturas de índices. Processamento e otimização de\nconsultas. Processamento de transações. Controle de concorrência. Recuperação.\nData warehousing e data mining. Distribuição de dados. Backup. Teoria da\nNormalização: objetivo, dependênciasfuncionais, formas normais. álgebra relacional,\ncálculo relacional.\nBIBLIOGRAFIA BÁSICA:\nSILBERCHARTZ, Abraham. KORTH, Henry F. SUDARCHAN, S. Sistema de Banco\ndeDados. 6ª edição. Editora Campus. São Paulo. 2012\nDATE Christopher J. Introdução a Sistemas de Bancos de Dados, Editora Elsevier.\nSão Paulo.2004 .\nHEUSER, Carlos A. Projeto de Bancos de Dados, Editora Bookman. São Paulo 2009.\nBIBLIOGRAFIA COMPLEMENTAR:\nDATE Christopher J. SQL e Teoria Relacional, de Editora Novatec. São Paulo. 2005.\nSHAMKANT B. Navathe. ELMASRI Ramez. Sistemas de Bancos de Dados Editora\nPerson Brasil (2002)\nElmasri, R.; Navathe, S. B. Sistemas De Banco De Dados: Fundamentos E\nAplicações; São Paulo: Pearson Education, 2011.",
+  "disciplina": "BANCO DE DADOS II",
+  "carga_horaria": 66,
+  "periodo": 4
+ },
+ {
+  "id": 104,
+  "titulo": "Ementa - LABORATÓRIO DE PROGRAMAÇÃO - WEB",
+  "secao": "ementa",
+  "texto": "Período: 4\n0 SEMESTRE\nDisciplina: LABORATÓRIO DE PROGRAMAÇÃO - WEB\nCarga Horária: 66 h/r\nEMENTA:\nConhecer Linguagens de Programação para desenvolvimento de aplicações web;\nConstruir web sites dinâmicos baseados em novas tecnologias e com acesso a\nbanco de dados; Compreender os métodos e técnicas de desenvolvimento de\naplicações avançadaspara web; Identificar soluções na otimização e melhoria do\ndesempenho de web sites;Compreender o funcionamento básico de um servidor\nde Internet. Introdução ao Universo Web. Fundamentos de HTML (Conceitos\nBásicos, Listas, Imagens; Navegação; Tabela, Formulário; Divisão, Frames e\nIframes; Divisão); CSS Prática de Layout com HTML e CSSPacote Servidor HTTP\n(Server; Banco de Dados; Ambiente Web BD) Modelo Conceitual Usode SQL e PHP.\nConstruindo uma Aplicação do Zero.\nBIBLIOGRAFIA BÁSICA:\nBREITMAN, K. Web Semântica – A Internet do Futuro. Rio de Janeiro: Grupo Gen\n– LTC,2010.\nMANINO, M. V. Projeto, Desenvolvimento de Aplicações e Administração de Banco de\nDados. 3.ed. Porto Alegre: Grupo A – Bookman, 2007.\nMITCHELL, R. Web Scraping com Python: Coletando Mais Dados da web Moderna.\nEdição:2 ed. [s.l.] Novatec Editora, 2019.\nBIBLIOGRAFIA COMPLEMENTAR:\nMANZANO, J. & OLIVEIRA, J. Algoritmos - Lógica Para Desenvolvimento de\nprogramação deComputadores. 28. ed. Érica / Saraiva, 2016.",
+  "disciplina": "LABORATÓRIO DE PROGRAMAÇÃO - WEB",
+  "carga_horaria": 66,
+  "periodo": 4
+ },
+ {
+  "id": 105,
+  "titulo": "Ementa - LABORATÓRIO DE PROGRAMAÇÃO - WEB (cont.)",
+  "secao": "ementa",
+  "texto": "Edição:2 ed. [s.l.] Novatec Editora, 2019.\nBIBLIOGRAFIA COMPLEMENTAR:\nMANZANO, J. & OLIVEIRA, J. Algoritmos - Lógica Para Desenvolvimento de\nprogramação deComputadores. 28. ed. Érica / Saraiva, 2016.\nDEITEL, P.J., DEITEL, H.M. AJAX, Rich Internet Applications e Desenvolvimento\nWeb paraProgramadores. Pearson, 2008.\nFERREIRA, E., EIS, D. HTML5 e CSS3 com Farinha e Pimenta. Tableless, 2012.",
+  "disciplina": "LABORATÓRIO DE PROGRAMAÇÃO - WEB",
+  "carga_horaria": 66,
+  "periodo": 4
+ },
+ {
+  "id": 106,
+  "titulo": "Ementa - INTERFACE HOMEM-COMPUTADOR",
+  "secao": "ementa",
+  "texto": "Período: 4\n0 SEMESTRE\nDisciplina: INTERFACE HOMEM-COMPUTADOR\nCarga Horária: 33 h/r\nEMENTA:\nIntrodução a Interfaces Homem-Computador (IHC). Ergonomia aplicada à\ninformática. Usabilidade e os Critérios Ergonômicos de Usabilidade. Comunicação\nusuário-sistema. Comunicação projetista usuário. Engenharia cognitiva e semiótica\nde sistemas interativos. Estilos e paradigmas de interação: interfaces gráficas;\nmanipulação direta, ícones e linguagens visuais. Modelagem de interfaces:\ncenarização; modelos de tarefas; modelos deusuário. Projeto de Interfaces Homem\u0002Computador: storyboarding e prototipação de interfaces; ferramentas de apoio a\nconstrução de interfaces.Recomendações de Acessibilidade, Acessibilidade:\ninterfaces para dispositivos móveis, Navegabilidade. Avaliaçãode Interfaces Homem\u0002Computador.\nBIBLIOGRAFIA BÁSICA:\nJENNIFER PREECE & YVONNE ROGERS & HELEN SHARP. Design de Interação:\nAlém dainteração homem-computador. John Wiley e Sons. São Paulo - SP. 1ª Edição.\nEditora Erica, 2005. (6 livros).\nBARBOSA, S. D. J; DA SILVA, B. S. Interação humano-computador. Rio de Janeiro:\nCampus,2010.\nPREECE, J.; ROGERS, Y.; SHARP, H. POSSAMAI, V. Design de Interação: além da\ninteraçãohomem-computador. Porto Alegre: Bookman, 2005.\nBIBLIOGRAFIA COMPLEMENTAR:\nSIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação\nHumano-Computador, 1a. Edição, Editora Campus, 2010.",
+  "disciplina": "INTERFACE HOMEM-COMPUTADOR",
+  "carga_horaria": 33,
+  "periodo": 4
+ },
+ {
+  "id": 107,
+  "titulo": "Ementa - INTERFACE HOMEM-COMPUTADOR (cont.)",
+  "secao": "ementa",
+  "texto": "nteraçãohomem-computador. Porto Alegre: Bookman, 2005.\nBIBLIOGRAFIA COMPLEMENTAR:\nSIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação\nHumano-Computador, 1a. Edição, Editora Campus, 2010.\nNIELSEN, Jakob; LORANGER, Hoa. Usabilidade na web. Rio de Janeiro: Elsevier,\nCampus,2007.\nBEN SHNEIDERMAN, CATHERINE PLAISANT, Designing the User Interface,\nEdiçãoInternacional, 1a Edição, 2010.",
+  "disciplina": "INTERFACE HOMEM-COMPUTADOR",
+  "carga_horaria": 33,
+  "periodo": 4
+ },
+ {
+  "id": 108,
+  "titulo": "Ementa - ESTRUTURA DE DADOS II",
+  "secao": "ementa",
+  "texto": "Período: 4\n0 SEMESTRE\nDisciplina: ESTRUTURA DE DADOS II\nCarga Horária: 50 h/r\nEMENTA:\nAlgoritmos Recursivos; Algoritmos de Ordenação; Listas Lineares; Árvores;Hashing;\nLista de Prioridades; Processamento de Cadeias; Árvores Digitais; Compactação de\nDados; Grafos.Complexidade algorítmica. Ordenação.\nBIBLIOGRAFIA BÁSICA:\nZiviani N. Projeto de algoritmos com implementação em java e c++. Edição: 1. São\nPaulo:Cengage Learning; 2006.\nCormen T. Algoritmos: Teoria e Prática. Edição: 3. Rio de Janeiro: GEN LTC; 2012.\nBACKES A. Estrutura de dados descomplicada - em linguagem C. Edição: 1. GEN LTC;\n2016.\nBIBLIOGRAFIA COMPLEMENTAR:\nCeles W. Introdução a estruturas de dados: com Técnicas de Programação em C.\nEdição: 2.GEN LTC; 2016.\nPUGA, S.& RISSETTI, G. Lógica de Programação e Estruturas de Dados em Java.\n2ª. Edição. São Paulo: Pearson Prentice Hall, 2009.\nKOFFMAN, E. B. WOLFGANG, P. A. T. Objetos, Abstração, Estruturas de Dados e\nProjeto Usando Java. Rio de Janeiro: LTC, 2008.",
+  "disciplina": "ESTRUTURA DE DADOS II",
+  "carga_horaria": 50,
+  "periodo": 4
+ },
+ {
+  "id": 109,
+  "titulo": "Ementa - ENGENHARIA DE SOFTWARE I",
+  "secao": "ementa",
+  "texto": "Período: 4\n0 SEMESTRE\nDisciplina: ENGENHARIA DE SOFTWARE I\nCarga Horária: 33 h/r\nEMENTA:\nFundamentos da Engenharia de Software. Modelos de Ciclo de Vida do software.\nEngenharia de Requisitos. Arquitetura de Software. Métodos e ferramentas para\nmodelagem de software. Frameworks - Processo e Gerenciamento. Melhoria do\nProcesso de Software.Implementação de projeto prático usando tecnologia orientada\na objetos.\nBIBLIOGRAFIA BÁSICA:\nSOMMERVILLE, I. Engenharia de Software. 9ª ed. São Paulo: Pearson Prentice Hall,\n2011.\nPRESSMAN, R. S. Engenharia de Software – Uma Abordagem Profissional. 8. ed.\nPortoAlegre: Bookman, 2016.\nBOOCH, G.; RUMBAUGH, J. & JACOBSON, I. UML – Guia do Usuário. 2ª ed. Rio de\nJaneiro:Elsevier, 2006.\nBIBLIOGRAFIA COMPLEMENTAR:\nNUSSENZVEIG, M. Curso de Física Básica 1. Edgard Blücher. São Paulo, 1981.\nZEMANSKY, S. Física 1. Livros Técnicos e Científicos S. A. 2ª Edição. Rio de Janeiro,\n1980.\nLARMAN, C. Utilizando UML e Padrões - Um Guia para a Análise e Projeto Orientados\na Objetos e ao Desenvolvimento Iterativo. 3ª edição. Porto Alegre:Bookman, 2007.",
+  "disciplina": "ENGENHARIA DE SOFTWARE I",
+  "carga_horaria": 33,
+  "periodo": 4
+ },
+ {
+  "id": 110,
+  "titulo": "Ementa - REDE DE COMPUTADORES I",
+  "secao": "ementa",
+  "texto": "Período: 4\n0 SEMESTRE\nDisciplina: REDE DE COMPUTADORES I\nCarga Horária: 50 h/r\nEMENTA:\nIntrodução às redes de computadores. Tecnologias de interconexão de equipamentos\nmicroprocessados. Principais Arquiteturas e Padrões de Redes. Principais\nprotocolos de transporte e aplicação. Introdução aos Sistemas Operacionais de Rede.\nInstalação, Configuração e Utilização de Softwares de Redes.Introdução.\nTecnologia de comunicação de dados. Modelos de referência: modelo OSI e\narquitetura TCP/IP. Camadafísica: transmissão de dados, meios físicos. Camada de\nenlace: redes locais e redes e longa distância. Camada de rede: protocolo IP,\ninterconexão de redes e algoritmos de roteamento.Camada de transporte: protocolo\nTCP, interface de sockets. Camada de aplicação: correioeletrônico, gerenciamento,\nserviço de nomes, servidores Web. Desenvolvimento deaplicações Cliente-Servidor\nem rede.\nBIBLIOGRAFIA BÁSICA:\nTanenbaum AS, Wetherall D. Redes de Computadores. Edição: 5. São Paulo:\nPearsonUniversidades; 2011.\nKurose J, Ross K. Redes de Computadores e a Internet: Uma Abordagem Top-Down.\nEdição: 6. São Paulo: Pearson Universidades; 2013.\nComer DE, Lima JV de, Roesler V. Redes de Computadores e Internet. Edição: 6.\nBookman;2016.\nBIBLIOGRAFIA COMPLEMENTAR:\nCabral A de L, Seraggi MR. Redes de computadores: Teoria e prática. Edição: 1.\nSenac SãoPaulo; 2017.",
+  "disciplina": "REDE DE COMPUTADORES I",
+  "carga_horaria": 50,
+  "periodo": 4
+ },
+ {
+  "id": 111,
+  "titulo": "Ementa - REDE DE COMPUTADORES I (cont.)",
+  "secao": "ementa",
+  "texto": "e, Roesler V. Redes de Computadores e Internet. Edição: 6.\nBookman;2016.\nBIBLIOGRAFIA COMPLEMENTAR:\nCabral A de L, Seraggi MR. Redes de computadores: Teoria e prática. Edição: 1.\nSenac SãoPaulo; 2017.\nFilho JEM. Análise de Tráfego em Redes TCP/IP. Edição: 1\na\n. Novatec; 2013.\nCARISSIMI, A. S.; ROCHOL, J. & GRANVILLE, L. Z. Redes de Computadores – Série\nLivros Didáticos Informática UFRGS – Número 20. Porto Alegre: Bookman, 2009.",
+  "disciplina": "REDE DE COMPUTADORES I",
+  "carga_horaria": 50,
+  "periodo": 4
+ },
+ {
+  "id": 112,
+  "titulo": "Ementa - INTRODUÇÃO AO DESENVOLVIMENTO DE JOGOS DIGITAIS",
+  "secao": "ementa",
+  "texto": "Período: 4\n0 SEMESTRE\nDisciplina: INTRODUÇÃO AO DESENVOLVIMENTO DE JOGOS DIGITAIS\nCarga Horária: 30 h/r\nEMENTA:\nTópicos introdutórios ao desenvolvimento de jogos. Teoria Geral de Jogos.\nLinguagens e arquitetura de jogos. Fundamentos de programação aplicados ao\ndesenvolvimento de jogos. tópicos avançados em desenvolvimento de jogos, tais\ncomo detecção de colisão e inteligência artificial.\nBIBLIOGRAFIA BÁSICA:\nROGERS, S. Level Up! The Guide to Great Video Game Design. John Wiley & Sons,\n2010.\nMCSHAFFRY, M., GRAHAM, D. Game Coding Complete. Cengage Learning PTR,\n2012. David H. Eberly. 3D Game Engine Architecture. Magic Software, INC, 2004.\nCHANDLER, H. M. Manual de Produção de Jogos Digitais. Bookman, 2012 Rabin,\nSteve. Introdução Ao Desenvolvimento De Games - Vol. 1 SANTAELLA, L.; FEITOZA,\nM. Mapa do Jogo. Cengage Learning, 2009 - 1. ed\nBIBLIOGRAFIA COMPLEMENTAR:\nHARRIS, B. J. A Guerra dos Consoles. Sega, Nintendo e a batalha que definiu uma\ngeração.Intrinseca, 2015\nHUIZINGA, J. Homo Ludens. Perspectiva, 2008. HOCKING, J. Unity in Action.\nManning Publications, 2015\nGreen, D. Procedural Content Generation for C++ Game Development. Packt\nPublishing,2016",
+  "disciplina": "INTRODUÇÃO AO DESENVOLVIMENTO DE JOGOS DIGITAIS",
+  "carga_horaria": 30,
+  "periodo": 4
+ },
+ {
+  "id": 113,
+  "titulo": "Ementa - PARADIGMAS DA PROGRAMAÇÃO",
+  "secao": "ementa",
+  "texto": "Período: 4\n0 SEMESTRE\nDisciplina: PARADIGMAS DA PROGRAMAÇÃO\nCarga Horária: 50 h/r\nEMENTA:\nCaracterização e classificações dos paradigmas. Problemas tratáveis pelos\nparadigmas. Definição e caracterização dos principais paradigmas declarativos e\nimperativos. Programação em Lógica. Programação Funcional. Prática de\nprogramação com os principaisparadigmas apresentados.\nBIBLIOGRAFIA BÁSICA:\nSebesta, Robert W. Conceitos de linguagens de programação. Edição: 9. Bookman,\n2011.\nBloch, Joshua, e Cibelle Roberta Marques Ravaglia. Java Efetivo: as Melhores\nPráticas Paraa Plataforma Java. Editora Alta Books, 2019.\nJunior, José Augusto N. G. Manzano e Roberto Affonso da Costa. Java 8.\nProgramação de Computadores: Guia prático de introdução, orientação e\ndesenvolvimento. Edição: 1. EditoraÉrica, 2014.\nBIBLIOGRAFIA COMPLEMENTAR:\nDonovan, Alan A. A., e Brian W. Kernighan. A Linguagem de Programação Go.\nEdição: 1. Novatec Editora, 2017.\nCarvalho, Thiago Leite e. Orientação a Objetos: Aprenda seus conceitos e suas\naplicabilidades de forma efetiva. Casa do Código, 2016.\nAguilar, Luis Joyanes, Maria Cibele Alonso, Marinês Pereira Felice, e Flávio Soares\nCorrêa da Silva. Programação em C++: Algoritmos, Estruturas de Dados e Objetos.\nEdição: 2. São Paulo: AMGH, 2007.",
+  "disciplina": "PARADIGMAS DA PROGRAMAÇÃO",
+  "carga_horaria": 50,
+  "periodo": 4
+ },
+ {
+  "id": 114,
+  "titulo": "Ementa - PROJETO INTEGRADOR IV – DESENVOLVIMENTO DE SISTEMA WEB",
+  "secao": "ementa",
+  "texto": "Período: 4\n0 SEMESTRE\nDisciplina: PROJETO INTEGRADOR IV – DESENVOLVIMENTO DE SISTEMA WEB\nCarga Horária: 13 h/r\nEMENTA:\nPromover aos acadêmicos do curso de Bacharelado em Ciência da Computação,a\npossibilidade de desenvolver na prática os conceitos teóricos oferecidos nas\ndisciplinas porintermédio da implementação de projeto temático envolvendo as\ndisciplinas do semestrefrente ao assunto desenvolvimento de sistema web.\nBIBLIOGRAFIA BÁSICA:\nJr, Arlindo Philippi, org. Práticas da interdisciplinaridade no ensino e pesquisa.\nEdição: 1.Barueri: Editora Manole, 2014.\nBender, Willian N., Maria da Graça Souza Horn, e Fernando de Siqueira Rodrigues.\nAprendizagem Baseada em Projetos: Educação Diferenciada para o Século XXI.\nEdição: 1. Penso, 2014.\nSilva, Alexandre Batista da, Elisa Alcantara, e Luisa Angélica Paschoeto Guimarães.\nA multidisciplinaridade da docência. Brasil Multicultural, 2017.\nBIBLIOGRAFIA COMPLEMENTAR:\nKerzner, Harold R., Fábio Giordani, e Christiane de Brito Andrei. Gestão de Projetos:\nAs Melhores Práticas. Edição: 3. Bookman, 2016.\nFernandes, João M., e Ricardo J. Machado. Requisitos em Projetos de Software e de\nSistemas de Informação. Edição: 1a. Novatec Editora, 2017.\nDebastiani, Carlos Alberto. Definindo Escopo em Projetos de Software. Novatec\nEditora, 2015.\n\nComponentes Curriculares do 5º Semestre",
+  "disciplina": "PROJETO INTEGRADOR IV – DESENVOLVIMENTO DE SISTEMA WEB",
+  "carga_horaria": 13,
+  "periodo": 4
+ },
+ {
+  "id": 115,
+  "titulo": "Ementa - INTRODUÇÃO AOS PROCESSOS ESTOCÁSTICOS",
+  "secao": "ementa",
+  "texto": "Período: 5\n0 SEMESTRE\nDisciplina: INTRODUÇÃO AOS PROCESSOS ESTOCÁSTICOS\nCarga Horária: 50 h/r\nEMENTA:\nEstudo de estatística descritiva; probabilidade; amostragem; estimação; teste de\nhipótese; análise de variância; análise de regressão e correlação;estatística não\nparamétrica; análise de dados categóricos. Variáveis aleatórias. Princípios de\nortogonalidade. Sequências de variáveis aleatórias. Tipos de convergência. Leis dos\ngrandesnúmeros. Processos estocásticos. Estacionaridade. Densidade espectral.\nErgodicidade. Sistemas lineares em ambiente estocástico no domínio do tempo e no\ndomínio de frequência (casos discretos e casos contínuos). Processos gaussianos.\nIntrodução aos processos deMarkov e Poisson.\nBIBLIOGRAFIA BÁSICA:\nALENCAR, M. S. de. Probabilidade e Processos Estocásticos. 1ª Edição. Érica, 2009.\nBUSSAB, Wilton O.; MORETTIN, Pedro A. Estatística Básica. Saraiva, 3 ed. São\nPaulo, 2010.\nCOSTA NETTO, P. L. de O. Estatística, 2. ed., Editora Edgard Blücher.\nBIBLIOGRAFIA COMPLEMENTAR:\nHINES, W. W., MONTGOMERY, D. C., GOLDSMAN; BORROR, D. M.\nProbabilidade e Estatística na Engenharia, 4. ed. LTC, 2006.\nMORETTIN, Luiz Gonzaga, Estatística Básica-Probabilidade e inferência, São Paulo,\nPearsonPrentice Hall ,2010.\nROSS, S. Probabilidade, Um Curso Moderno com Aplicações. 8ª Edição. Bookman,\n2010.VIEIRA, S. Estatística Básica. São Paulo, Cengage Learning, 2012.",
+  "disciplina": "INTRODUÇÃO AOS PROCESSOS ESTOCÁSTICOS",
+  "carga_horaria": 50,
+  "periodo": 5
+ },
+ {
+  "id": 116,
+  "titulo": "Ementa - LABORATÓRIO DE PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS",
+  "secao": "ementa",
+  "texto": "Período: 5\n0 SEMESTRE\nDisciplina: LABORATÓRIO DE PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS\nCarga Horária: 83 h/r\nEMENTA:\nConceitos e paradigmas de programação para dispositivos móveis; Utilização de uma\nlinguagem de programação para o desenvolvimento de aplicações com formulários\ne interfaces interativas em dispositivos móveis; Utilização de uma linguagem de\nprogramação para o desenvolvimento de aplicações, em dispositivos móveis, que\npermitam armazenamento de dados e comunicação remota com outros dispositivos.\nUtilização de umalinguagem de programação para o desenvolvimento de aplicações\nbaixo nível utilizandobibliotecas de manipulação gráfica; Criando um app completo;\nBIBLIOGRAFIA BÁSICA:\nFRANK ZAMETTI. Flutter na Prática. Melhore seu Desenvolvimento Mobile com o\nSDKOpen Source mais recente do Google 1ª Edição, Rio de Janeiro. Novatec, 2019.\nLECHETA R., RICARDO. Android Essencial. 1ª Edição, São Paulo. Novatec, 2016.\nGRIFFITHS, DAWN. Use a Cabeça! Desenvolvendo para Android. Rio de Janeiro.\nAltaBooks 2016.\nBIBLIOGRAFIA COMPLEMENTAR:\nFILHO, LUIZ CARLOS QUIRINO. Desenvolvendo seu Primeiro Aplicativo\nAndroid, 2ªEdição, São Paulo. Novatec, 2017.\nMEDNIEKS, Zigurd; et al. Programando o Android. 2. ed. São Paulo: Novatec, 2012.\nABLESON, W. Frank; et al. Android em ação. 3. ed. Rio de Janeiro: Elsevier, 2012.",
+  "disciplina": "LABORATÓRIO DE PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS",
+  "carga_horaria": 83,
+  "periodo": 5
+ },
+ {
+  "id": 117,
+  "titulo": "Ementa - LABORATÓRIO DE PROGRAMAÇÃO PARA SISTEMAS EMBARCADOS",
+  "secao": "ementa",
+  "texto": "Período: 5\n0 SEMESTRE\nDisciplina: LABORATÓRIO DE PROGRAMAÇÃO PARA SISTEMAS\nEMBARCADOS\nCarga Horária: 66 h/r\nEMENTA:\nIntrodução e histórico. Aplicações de sistemas embarcados. Microcontroladores.\nSistemas de memória. Interfaces de comunicação. Simulação de sistemas\nembarcados;Sensores e atuadores. Dispositivos de entrada e saída. Construção de\nProjeto de Sistema Embarcado;\nBIBLIOGRAFIA BÁSICA:\nAlmeida R de. Programação de sistemas embarcados. Edição: 1. GEN LTC; 2016.\nAndrade AS de O e FS de. Sistemas embarcados: Hardware e Firmware na prática.\nEdição: 2. São Paulo: Editora Érica; 2009.\nCulkin J, Hagan E. Aprenda Eletrônica com Arduino. Edição: 1. Novatec Editora; 2018.\nBIBLIOGRAFIA COMPLEMENTAR:\nMonk S, Laschuk A. Programação com Arduino: Começando com Sketches.\nEdição: 2.Bookman; 2017.\nMcRoberts M. Arduino Básico. Edição: 2. Novatec Editora; 2015.\nDe Oliveira, A. S.; de Andrade, F. S. Sistemas Embarcados: Hardware e Firmware na\nprática. Editora Érica, 2006.",
+  "disciplina": "LABORATÓRIO DE PROGRAMAÇÃO PARA SISTEMAS EMBARCADOS",
+  "carga_horaria": 66,
+  "periodo": 5
+ },
+ {
+  "id": 118,
+  "titulo": "Ementa - REDE DE COMPUTADORES II",
+  "secao": "ementa",
+  "texto": "Período: 5\n0 SEMESTRE\nDisciplina: REDE DE COMPUTADORES II\nCarga Horária: 66 h/r\nEMENTA:\nModelo TCP/IP, Arquitetura, Protocolos e Serviços, Camada de Interface, Rede,\nTransporte e Aplicação, Segurança de Redes e gerenciamento de Redes. Redes\nde altavelocidade. Algoritmo de roteamento.\nBIBLIOGRAFIA BÁSICA:\nTanenbaum AS, Wetherall D. Redes de Computadores. Edição: 5. São Paulo:\nPearsonUniversidades; 2011.\nKurose J, Ross K. Redes de Computadores e a Internet: Uma Abordagem Top-Down.\nEdição: 6. São Paulo: Pearson Universidades; 2013.\nComer DE, Lima JV de, Roesler V. Redes de Computadores e Internet. Edição: 6.\nBookman;2016.\nBIBLIOGRAFIA COMPLEMENTAR:\nCabral A de L, Seraggi MR. Redes de computadores: Teoria e prática. Edição: 1.\nSenac SãoPaulo; 2017.\nFilho JEM. Análise de Tráfego em Redes TCP/IP. Edição: 1\na\n. Novatec; 2013.\nSTALLINGS, W. Criptografia e Segurança de Redes. 4ª. Edição. São Paulo: Pearson\nPrentice Hall, 2008.",
+  "disciplina": "REDE DE COMPUTADORES II",
+  "carga_horaria": 66,
+  "periodo": 5
+ },
+ {
+  "id": 119,
+  "titulo": "Ementa - SISTEMAS DISTRIBUÍDOS",
+  "secao": "ementa",
+  "texto": "Período: 5\n0 SEMESTRE\nDisciplina: SISTEMAS DISTRIBUÍDOS\nCarga Horária: 50 h/r\nEMENTA:\nSistemas Operacionais Distribuídos; Comunicação nos Sistemas Distribuídos;\nSincronização em Sistemas Distribuídos; Processos e Processadores em\nSistemasDistribuídos; Sistemas de Arquivamento Distribuídos.\nBIBLIOGRAFIA BÁSICA:\nTanenbaum AS. Sistemas distribuídos: princípios e paradigmas, 2ed. Edição: 2.\nPearson;2015.\nRibeiro U. Sistemas Distribuídos. Desenvolvendo Aplicações de Alta Performance no\nLinux.Novaterra; 2014.\nCardoso J. Programação de Sistemas Distribuídos em Java. Edição: 1\na\n. FCA; 2008.\nBIBLIOGRAFIA COMPLEMENTAR:\nCoulouris G, Dollimore J, Kindberg T, Blair G. Sistemas Distribuídos: Conceitos e\nProjeto.Edição: 5. Bookman; 2013.\nAUDY, J. & PRIKLADNICKI, R. Desenvolvimento Distribuído de Software. Rio de\nJaneiro: Elsevier, 2007.\nDEITEL, P. & DEITEL, H. Java: Como Programar. 8ª. Edição. São Paulo: Pearson,\n2010.",
+  "disciplina": "SISTEMAS DISTRIBUÍDOS",
+  "carga_horaria": 50,
+  "periodo": 5
+ },
+ {
+  "id": 120,
+  "titulo": "Ementa - ENGENHARIA DE SOFTWARE II",
+  "secao": "ementa",
+  "texto": "Período: 5\n0 SEMESTRE\nDisciplina: ENGENHARIA DE SOFTWARE II\nCarga Horária: 50 h/r\nEMENTA:\nProcesso, Atividade, Tarefa e Nota. Processo de Software. Frameworks deProcesso.\nModelos de Melhoria do Processo de Software. Implementação de projeto prático\nusando a modelagem de processo.\nBIBLIOGRAFIA BÁSICA:\nSOMMERVILLE, I. Engenharia de Software. 9ª ed. São Paulo: Pearson Prentice Hall,\n2011.\nPRESSMAN, R. S. Engenharia de Software – Uma Abordagem Profissional. 8. ed.\nPortoAlegre: Bookman, 2016.\nBEZERRA, E. Princípios de Análise e Projeto de Sistemas com UML. 3ª ed. Rio de\nJaneiro:Elsevier, 2015.\nBIBLIOGRAFIA COMPLEMENTAR:\nDEBASTIANI, C. A. Definindo Escopo em Projetos de Software. São Paulo: Novatec,\n2015.\nFERNANDES, J. M. & MACHADO, R. J. Requisitos em Projetos de Software e de\nSistemasde Informação. São Paulo: Novatec, 2017.\nBOOCH, G.; RUMBAUGH, J. & JACOBSON, I. UML – Guia do Usuário. 2ª ed. Rio de\nJaneiro:Elsevier, 2006.",
+  "disciplina": "ENGENHARIA DE SOFTWARE II",
+  "carga_horaria": 50,
+  "periodo": 5
+ },
+ {
+  "id": 121,
+  "titulo": "Ementa - PROJETO INTEGRADOR V – DESENVOLVIMENTO DE SISTEMA UBÍQUO",
+  "secao": "ementa",
+  "texto": "Período: 5\n0 SEMESTRE\nDisciplina: PROJETO INTEGRADOR V – DESENVOLVIMENTO DE SISTEMA\nUBÍQUO\nCarga Horária: 13 h/r\nEMENTA:\nPromover aos acadêmicos do curso de Bacharelado em Ciência da Computação,a\npossibilidade de desenvolver na prática os conceitos teóricos oferecidos nas\ndisciplinas porintermédio da implementação de projeto temático envolvendo as\ndisciplinas do semestrefrente ao assunto desenvolvimento de sistema ubíquo.\nBIBLIOGRAFIA BÁSICA:\nJr, Arlindo Philippi, org. Práticas da interdisciplinaridade no ensino e pesquisa. Edição:\n1. Barueri: Editora Manole, 2014.\nBender, Willian N., Maria da Graça Souza Horn, e Fernando de Siqueira Rodrigues.\nAprendizagem Baseada em Projetos: Educação Diferenciada para o Século XXI.\nEdição: 1. Penso, 2014.\nSilva, Alexandre Batista da, Elisa Alcantara, e Luisa Angélica Paschoeto Guimarães.\nA multidisciplinaridade da docência. Brasil Multicultural, 2017.\nBIBLIOGRAFIA COMPLEMENTAR:\nKerzner, Harold R., Fábio Giordani, e Christiane de Brito Andrei. Gestão de Projetos:\nAs Melhores Práticas. Edição: 3. Bookman, 2016.\nFernandes, João M., e Ricardo J. Machado. Requisitos em Projetos de Software e de\nSistemas de Informação. Edição: 1a. Novatec Editora, 2017.\nDebastiani, Carlos Alberto. Definindo Escopo em Projetos de Software. Novatec\nEditora, 2015.\n\nComponentes Curriculares do 6º Semestre",
+  "disciplina": "PROJETO INTEGRADOR V – DESENVOLVIMENTO DE SISTEMA UBÍQUO",
+  "carga_horaria": 13,
+  "periodo": 5
+ },
+ {
+  "id": 122,
+  "titulo": "Ementa - INTELIGÊNCIA ARTIFICIAL I",
+  "secao": "ementa",
+  "texto": "Período: 6\n0 SEMESTRE\nDisciplina: INTELIGÊNCIA ARTIFICIAL I\nCarga Horária: 66 h/r\nEMENTA:\nIntrodução a Inteligência Artificial, Resolução de problemas por busca,Algoritmos\nde busca básicos, Algoritmos de busca heurísticos, Aprendizado de máquina,\nClassificação Linear, Gradiente descendente Estocástico, Generalização\nCaracterísticas, Redes Neurais (Redes Neurais Artificiais. Redes de Funções de Base\nRadial ), Satisfação de Restrições, Redes bayesianas, Deep-learning. Algoritmos\nevolucionários.\nBIBLIOGRAFIA BÁSICA:\nCarvalho A. Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina.\nEdição: 1.Rio de Janeiro: LTC; 2011.\nCALDEIRA, A. M.; MACHADO, M. A. S.; SOUZA, R. C.; TANSCHEIT, R.\nInteligência Computacional: Aplicada à Administração, Economia e Engenharia em\nMATLAB. São Paulo:Thomson, 2007.\nHAYKIN, S. Neural Networks and Learning Machines - 3ª ed. Copyright © 2009 by\nPearsonEducation.\nBIBLIOGRAFIA COMPLEMENTAR:\nLinden, R., Algoritmos Genéticos - Uma importante ferramenta da Inteligência\nComputacional,Brasport Livros e Multimídia Ltda, 2006.\nRUSSEL, S. e NORVIG, P. Inteligência Artificial. 2 ed. Rio de Janeiro: Campus, 2004.\nCOPPIN, B. Inteligência Artificial. Rio de Janeiro: LTC, 2010.",
+  "disciplina": "INTELIGÊNCIA ARTIFICIAL I",
+  "carga_horaria": 66,
+  "periodo": 6
+ },
+ {
+  "id": 123,
+  "titulo": "Ementa - LABORATÓRIO DE PROGRAMAÇÃO CIENTÍFICA",
+  "secao": "ementa",
+  "texto": "Período: 6\n0 SEMESTRE\nDisciplina: LABORATÓRIO DE PROGRAMAÇÃO CIENTÍFICA\nCarga Horária: 83 h/r\nEMENTA:\nNoções de sistemas de computação. Formulação de algoritmos e sua\nrepresentação. Noções sobre linguagem de programação e programas.\nPYTHON e MATLAB para Programação Científica; Implementação prática de\nalgoritmos em uma linguagem de programação. Linguagens de Programação\nEstruturadas; Ambientes de Desenvolvimento De Programas Genéricos; Programas\nEnvolvendo Processos de Repetição E Seleção; Problemas Envolvendo Variáveis\nEstruturadas Unidimensionais Homogêneas; Subsdivisão de Problemas e\nSubprogramação; Problemas Envolvendo Variáveis Estruturadas Multidimensionais\nHomogêneas; Problemas e Métodos Envolvendo Variáveis Estruturadas\nHeterogêneas; Programação Utilizando Ambientes de Simulação Matemática;\nUtilização do PYTHON e seus packages;Utilização do MATLAB e sua toolbox.\nBIBLIOGRAFIA BÁSICA:\nCHAPRA, Steven C. Métodos Numéricos Aplicados com MATLAB para Engenheiros\ne Cientistas. Tradução: Rafael Silva Alípio. Revisão técnica: Antonio Pertence Junior.\n3ª ed. Porto Alegre: AMGH. McGraw Hill – Bookman, 2013.\nCOSTA, Denis C. L., COSTA, Heictor A. de O., NEVES, Lucas P. Métodos\nMatemáticos Aplicados nas Engenharias via Sistemas Computacionais. Coleção I –\nSINEPEM 2019. Copyright @ 2019 by SINEPEM 1ª edição. Belém – Pará – Brasil.",
+  "disciplina": "LABORATÓRIO DE PROGRAMAÇÃO CIENTÍFICA",
+  "carga_horaria": 83,
+  "periodo": 6
+ },
+ {
+  "id": 124,
+  "titulo": "Ementa - LABORATÓRIO DE PROGRAMAÇÃO CIENTÍFICA (cont.)",
+  "secao": "ementa",
+  "texto": "TA, Heictor A. de O., NEVES, Lucas P. Métodos\nMatemáticos Aplicados nas Engenharias via Sistemas Computacionais. Coleção I –\nSINEPEM 2019. Copyright @ 2019 by SINEPEM 1ª edição. Belém – Pará – Brasil.\nASCENCIO, A. F. G. & CAMPOS, E. A. V. Fundamentos da Programação de\nComputadores – Algoritmos, Pascal, C, C++ e Java. 2ª. Edição. São Paulo: Pearson,\n2008.\nBIBLIOGRAFIA COMPLEMENTAR:\nCLARO, Vergílio Torezan Silingardi Del. Métodos Numéricos Para Engenharia – Uma\nIntrodução ao MATLAB. Uberlândia – MG. Editora Composer. 2015.\nRAMALHO, Luciano. Fluent Python. All rights reserved. March 2015: First Edition.\nO’Reillybook. Copyright © 2014.\nLOPES, A.& GARCIA, G. Introdução à Programação – 500 Algoritmos Resolvidos. Rio\nde Janeiro: Campus, 2002.",
+  "disciplina": "LABORATÓRIO DE PROGRAMAÇÃO CIENTÍFICA",
+  "carga_horaria": 83,
+  "periodo": 6
+ },
+ {
+  "id": 125,
+  "titulo": "Ementa - LABORATÓRIO DE DESENVOLVIMENTO DE JOGOS",
+  "secao": "ementa",
+  "texto": "Período: 6\n0 SEMESTRE\nDisciplina: LABORATÓRIO DE DESENVOLVIMENTO DE JOGOS\nCarga Horária: 66 h/r\nEMENTA:\nConceitos básicos de jogos digitais. Interface gráfica com usuário em jogos.Princípios\nde animação e sonorização. Detecção de colisão. Introdução a IA e física em jogos.\nExperiência de usuário. Frameworks e engines. Protótipos.\nBIBLIOGRAFIA BÁSICA:\nPaul Craven. Program Arcade Games with Python and Pygame. CreateSpace\nIndependentPublishing Platform. 2013\nAl Sweigart. Invent Your Own Computer Games with Python. Albert\\Sweigart; 2 edition\n(May1, 2010). 2010\nAl Sweigart. Making Games with Python. Autor: Al Sweigart. CreateSpace\nIndependentPublishing Platform (January 12, 2012). 2012\nBIBLIOGRAFIA COMPLEMENTAR:\nBruno Feijó, Esteban Clua, Flávio S. Correa da Silva. Introdução à Ciência da\nComputação com Jogos. Aprendendo a Programar com Entretenimento. Campus\nElsevier . 2009\nDesenvolvimento de Games - Tradução da 2ª Edição Norte-americanaAutor: Novak,\nJeannie Rabin, Steve. Introdução Ao Desenvolvimento De Games - Vol. 1 NFGMan.\nCharacter design for mobile devices. Rotovision, 2006.\nSalen, K. Zimmerman, E. Regras do jogo: fundamentos do design de jogos. Blucher,\n2012.Hamer, C. Creating mobile games: using Java ME platform to put the fun into\nyour mobile device and cell phone. Apress, 2007.",
+  "disciplina": "LABORATÓRIO DE DESENVOLVIMENTO DE JOGOS",
+  "carga_horaria": 66,
+  "periodo": 6
+ },
+ {
+  "id": 126,
+  "titulo": "Ementa - CIÊNCIA DE DADOS",
+  "secao": "ementa",
+  "texto": "Período: 6\n0 SEMESTRE\nDisciplina: CIÊNCIA DE DADOS\nCarga Horária: 50 h/r\nEMENTA:\nIntrodução a Ciência de Dados; Idéias básicas, motivações e aplicações; Estruturasde\nsumarização: medidas de posição, dispersão, agrupamento de dados;\nRepresentaçãotabular e gráfica; Distribuições de probabilidade univariadas: normal,\nbinomial, poisson;Distribuições de estatísticas: conceitos básicos, amostragem,\ndistribuições amostrais; Inferência estatística e testes de hipóteses; Intervalos de\nconfiança e testes de hipóteses paramédia populacional; Intervalos de confiança e\ntestes de hipóteses para proporção populacional; Dados estruturados e não\nestruturados; Problemas típicos presentes em basesde dados estruturados; Python\npara tratamento e transformação dos dados; Aprendizado deMáquina; Treinando e\nTestando Modelos Computacionais na Prática;\nBIBLIOGRAFIA BÁSICA:\nCarvalho A. Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina.\nEdição: 1.Rio de Janeiro: LTC; 2011.\nGrus J. Data Science do Zero: Primeiras Regras com o Python. Edição: 1. S.l.:\nEditora AltaBooks; 2016.\nMcKinney W. Python Para Análise de Dados: Tratamento de Dados com Pandas,\nNumPy eIPython. Edição: 1. Novatec Editora; 2018.\nBIBLIOGRAFIA COMPLEMENTAR:\nAmaral F. Introdução à Ciência de Dados: Mineração de dados e big data. Alta Books;\n2018.376 p.",
+  "disciplina": "CIÊNCIA DE DADOS",
+  "carga_horaria": 50,
+  "periodo": 6
+ },
+ {
+  "id": 127,
+  "titulo": "Ementa - CIÊNCIA DE DADOS (cont.)",
+  "secao": "ementa",
+  "texto": "amento de Dados com Pandas,\nNumPy eIPython. Edição: 1. Novatec Editora; 2018.\nBIBLIOGRAFIA COMPLEMENTAR:\nAmaral F. Introdução à Ciência de Dados: Mineração de dados e big data. Alta Books;\n2018.376 p.\nFERRARI LNDCSDG. Introdução a mineração de dados. Edição: 1. SARAIVA; 2017.\n652 p. Ljubljana BL University of. Data Mining [Internet]. [citado 21 de julho de 2020].\nDisponível em:https://orange.biolab.si/\nMachine Learning and RapidMiner Tutorials | RapidMiner Academy [Internet]. [citado\n21 dejulho de 2020]. Disponível em: https://academy.rapidminer.com/",
+  "disciplina": "CIÊNCIA DE DADOS",
+  "carga_horaria": 50,
+  "periodo": 6
+ },
+ {
+  "id": 128,
+  "titulo": "Ementa - LINGUAGENS FORMAIS, AUTÔMATOSE COMPILADORES",
+  "secao": "ementa",
+  "texto": "Período: 6\n0 SEMESTRE\nDisciplina: LINGUAGENS FORMAIS, AUTÔMATOSE COMPILADORES\nCarga Horária: 66 h/r\nEMENTA:\nTeoria de conjuntos. Produto cartesiano, relações entreconjuntos, funções, relações\nde equivalência. Conjuntos enumeráveis e não enumeráveis.Definições recursivas.\nIndução matemática e diagonalização. Tipos de formalismos: grafosdirecionados e\nlambda-cálculo. Linguagens regulares: Definição de strings e linguagens.\nEspecificação finita de linguagens. Conjuntos e expressões regulares. Gramáticas\ne linguagens livres de contexto: Definições de linguagens livres de contexto.\nDerivação. Gramáticas regulares. Exemplos de gramáticas e linguagens:\nJAVA/PYTHON/GO e expressões aritméticas. Estratégias de derivação:\nambiguidade, derivações mais à esquerdae mais à direita, grafos de gramáticas,\nderivadores top-down, derivadores bottom-up. Formasnormais: Definição de formas\nnormais e esquemas de restrição em gramáticas. Eliminaçãode: produções lambda,\nproduções em cadeia, símbolos redundantes, recursão à esquerda. Forma normal\nde Chomsky e de Greibach Autômatos e linguagens: Máquinas de estados finitos.\nAutômato finito determinista e não-determinista. Remoção de não-determinismo: fecho\nlambda. Minimização de autômatos finitos deterministas. Autômatos finitos e\nconjuntos regulares. O lema do bombeamento para linguagens regulares. Autômatos",
+  "disciplina": "LINGUAGENS FORMAIS, AUTÔMATOSE COMPILADORES",
+  "carga_horaria": 66,
+  "periodo": 6
+ },
+ {
+  "id": 129,
+  "titulo": "Ementa - LINGUAGENS FORMAIS, AUTÔMATOSE COMPILADORES (cont.)",
+  "secao": "ementa",
+  "texto": "rminista. Remoção de não-determinismo: fecho\nlambda. Minimização de autômatos finitos deterministas. Autômatos finitos e\nconjuntos regulares. O lema do bombeamento para linguagens regulares. Autômatos\ncom pilha e linguagens livres de contexto: Definições de autômato com pilha.\nAutômatos com pilha e linguagens livres de contexto.\nBIBLIOGRAFIA BÁSICA:\nGarcia, Alex. Linguagens Regulares e Livres de Contexto, 2019.\nSilva, Luiz Ricardo Mantovani da Linguagens Formais e Autômatos: SÉRIE\nAPONTAMENTOS, 2019.\nNeto, João José. Introdução à compilação. Edição: 1. Elsevier, 2016.\nBIBLIOGRAFIA COMPLEMENTAR:\nSebesta, Robert W. Conceitos de linguagens de programação. Edição: 9. Bookman,\n2011.\nBloch, Joshua, e Cibelle Roberta Marques Ravaglia. Java Efetivo: as Melhores\nPráticas Paraa Plataforma Java. Editora Alta Books, 2019.\nZiviani, Nivio. Projeto de algoritmos com implementação em java e c++. Edição: 1. São\nPaulo:Cengage Learning, 2006.",
+  "disciplina": "LINGUAGENS FORMAIS, AUTÔMATOSE COMPILADORES",
+  "carga_horaria": 66,
+  "periodo": 6
+ },
+ {
+  "id": 130,
+  "titulo": "Ementa - PROGRAMAÇÃO PARALELA",
+  "secao": "ementa",
+  "texto": "Período: 6\n0 SEMESTRE\nDisciplina: PROGRAMAÇÃO PARALELA\nCarga Horária: 50 h/r\nEMENTA:\nModelos de computação paralela. Expressão e extração do paralelismo.\nSincronização e comunicação: métodos e primitivas. Programação concorrente e\ndistribuída: linguagens e algoritmos. Problemas clássicos de programação paralela.\nPrincípios deimplementação.\nBIBLIOGRAFIA BÁSICA:\nKirk D, Hwu W-M. Programando Para Processadores Paralelos. Edição: 1a. Elsevier;\n2010.\nBack M. Programando Multitarefa na prática: Utilizando a linguagem C/C++,\nfreeRTOS e Arduino. 182 p.\nKumar, V.; Karypis, G.; Gupta, A.; Grama, A. Introduction to parallel computing.\n2ª ed.Pearson, 2003.\nBIBLIOGRAFIA COMPLEMENTAR:\nTuomanen DB. Hands-On GPU Programming with Python and CUDA. Packt\nPublishing;2018.\nSharma B, Han J. Learn CUDA Programming. Packt Publishing; 2019\nHERLIHY, Maurice; SHAVIT, Nir. The art of multiprocessor programming. 1. ed.\nBurlington: Elsevier Morgan Kaufmann, 2008.",
+  "disciplina": "PROGRAMAÇÃO PARALELA",
+  "carga_horaria": 50,
+  "periodo": 6
+ },
+ {
+  "id": 131,
+  "titulo": "Ementa - PROJETO INTEGRADOR VI – DESENVOLVIMENTO DE SISTEMA INTELIGENTE",
+  "secao": "ementa",
+  "texto": "Período: 6\n0 SEMESTRE\nDisciplina: PROJETO INTEGRADOR VI – DESENVOLVIMENTO DE SISTEMA\nINTELIGENTE\nCarga Horária: 13 h/r\nEMENTA:\nPromover aos acadêmicos do curso de Bacharelado em Ciência da Computação,a\npossibilidade de desenvolver na prática os conceitos teóricos oferecidos nas\ndisciplinas porintermédio da implementação de projeto temático envolvendo as\ndisciplinas do semestrefrente ao assunto desenvolvimento de sistema inteligente.\nBIBLIOGRAFIA BÁSICA:\nJr, Arlindo Philippi, org. Práticas da interdisciplinaridade no ensino e pesquisa.\nEdição: 1.Barueri: Editora Manole, 2014.\nBender, Willian N., Maria da Graça Souza Horn, e Fernando de Siqueira Rodrigues.\nAprendizagem Baseada em Projetos: Educação Diferenciada para o Século XXI.\nEdição: 1. Penso, 2014.\nSilva, Alexandre Batista da, Elisa Alcantara, e Luisa Angélica Paschoeto Guimarães.\nA multidisciplinaridade da docência. Brasil Multicultural, 2017..\nBIBLIOGRAFIA COMPLEMENTAR:\nKerzner, Harold R., Fábio Giordani, e Christiane de Brito Andrei. Gestão de Projetos:\nAs Melhores Práticas. Edição: 3. Bookman, 2016.\nFernandes, João M., e Ricardo J. Machado. Requisitos em Projetos de Software e de\nSistemas de Informação. Edição: 1a. Novatec Editora, 2017.\nDebastiani, Carlos Alberto. Definindo Escopo em Projetos de Software. Novatec\nEditora, 2015.\n\nComponentes Curriculares do 7º Semestre",
+  "disciplina": "PROJETO INTEGRADOR VI – DESENVOLVIMENTO DE SISTEMA INTELIGENTE",
+  "carga_horaria": 13,
+  "periodo": 6
+ },
+ {
+  "id": 132,
+  "titulo": "Ementa - VIRTUALIZAÇÃO E SERVIDORES DE APLICAÇÕES",
+  "secao": "ementa",
+  "texto": "Período: 7\n0 SEMESTRE\nDisciplina: VIRTUALIZAÇÃO E SERVIDORES DE APLICAÇÕES\nCarga Horária: 66 h/r\nEMENTA:\nAborda a implementação em software sob tecnologia que permite a execução de\nvários sistemas operacionais diferentes dentro de um único servidor físico\ndenominado dehospedeiro, essas máquinas virtuais (VMs) podem executar um\nconjunto de aplicaçõesdiferentes de forma remota, reduzindo os custos de\ninfraestrutura de TI, gerando maiseficiência e agilidade nos Data centers.\nBIBLIOGRAFIA BÁSICA:\nSIQUEIRA, Ethevaldo. Para Compreender o Mundo Digital. São Paulo: Editora Globo.\n2008.\nLAUREANO, Marcos. Máquinas virtuais e Emuladores. Ed. 1. São Paulo : Novatec,\n2006.\nKELBLEY, John, STERLING, Mike, STEWART Allen. Windows Server 2008 Hyper-V,\nInsider’sGuide to Microsoft’s Hypervisor. Indianapolis, Indiana 2009: Wiley Publishing\nBIBLIOGRAFIA COMPLEMENTAR:\nCHARLIE, Russel, ZACKER, Craig. Introducing Windows Server 2008 R2. Rdemond\nWashington 2010: Microsoft Press Virtualização para facilitar o gerenciamento. Next\nGeneration Center, [2010] Disponível em:\nhttp://www.nextgenerationcenter.com/modules.php?id=777>. Acesso em: 1 jun. 2015\nVMWARE. Conceitos básicos de Virtualização. [2010]. Disponível em:\nhttp://www.vmware.com\nCloud Computing: Principles and Paradigms. Rajkumar Buyya, James Broberg,\nAndrzej M. Goscinski. Wiley Series on Parallel and Distributed Computing. ISBN-10",
+  "disciplina": "VIRTUALIZAÇÃO E SERVIDORES DE APLICAÇÕES",
+  "carga_horaria": 66,
+  "periodo": 7
+ },
+ {
+  "id": 133,
+  "titulo": "Ementa - VIRTUALIZAÇÃO E SERVIDORES DE APLICAÇÕES (cont.)",
+  "secao": "ementa",
+  "texto": "[2010]. Disponível em:\nhttp://www.vmware.com\nCloud Computing: Principles and Paradigms. Rajkumar Buyya, James Broberg,\nAndrzej M. Goscinski. Wiley Series on Parallel and Distributed Computing. ISBN-10\n0470887990, 2011.",
+  "disciplina": "VIRTUALIZAÇÃO E SERVIDORES DE APLICAÇÕES",
+  "carga_horaria": 66,
+  "periodo": 7
+ },
+ {
+  "id": 134,
+  "titulo": "Ementa - TÉCNICAS DE DESENVOLVIMENTO ÁGIL",
+  "secao": "ementa",
+  "texto": "Período: 7\n0 SEMESTRE\nDisciplina: TÉCNICAS DE DESENVOLVIMENTO ÁGIL\nCarga Horária: 50 h/r\nEMENTA:\nMétodos Tradicionais e Métodos Ágeis de Desenvolvimento de Software. Manifesto\nÁgil. Técnicas Ágeis: Estórias dos Usuários; Casos de Uso; Boas práticas; Integração\nContínua; Kanban. Modelagem Ágil. Métodos Ágeis: Scrum, XP, FDD, Crystal, Lean,\nDSDM,Agile Unified Process (AUP), Framework de Práticas Ágeis. Métodos Ágeis e\nUsabilidade.\nBIBLIOGRAFIA BÁSICA:\nPrikladnicki R, Will R, Milani F. Métodos Ágeis para Desenvolvimento de Software.\nEdição: 1. Bookman; 2014.\nDuarte L. Scrum e Métodos Ágeis: Um Guia Prático. Edição: 1. LuizTools; 2016. 167\np.\nPressman RS, Maxim BR, Arakaki R, Arakaki J, Andrade RM de. Engenharia de\nSoftware:Uma Abordagem Profissional. Edição: 8. AMGH; 2016.\nBIBLIOGRAFIA COMPLEMENTAR:\nLemay M. Agile Para Todos: Criando Empresas Rápidas, Flexíveis e com Foco no\nCliente.Edição: 1. Novatec Editora; 2019.\nKnapp J, Zeratsky J, Kowitz B, Gottlieb A. Sprint. O Método Usado no Google Para\nTestar eAplicar Novas Ideias em Apenas Cinco Dias. Edição: 1\na\n. Intrínseca; 2017.\nAmbler, S. Agile Modeling. John Wiley & Sons, 2002.",
+  "disciplina": "TÉCNICAS DE DESENVOLVIMENTO ÁGIL",
+  "carga_horaria": 50,
+  "periodo": 7
+ },
+ {
+  "id": 135,
+  "titulo": "Ementa - EMPREENDEDORISMO",
+  "secao": "ementa",
+  "texto": "Período: 7\n0 SEMESTRE\nDisciplina: EMPREENDEDORISMO\nCarga Horária: 50 h/r\nEMENTA:\nEstilos e práticas de liderança. Trabalho em equipe. Teorias da Motivação.Tomada\nde decisão. Negociação. Empreendedorismo e iniciativa. Administração de conflitos.\nAtitudes e resultados. Negociação. Comunicação verbal e não verbal.\nBIBLIOGRAFIA BÁSICA:\nCHIAVENATO, Idalberto. Gerenciando com as Pessoas: transformando o executivo\nem um excelente gestor de pessoas. Rio de Janeiro: Elsevier, 005.\nMAXIMIANO, A. C. A. Administração para empreendedores: fundamentos da criação\ne da gestão de novos negócios. São Paulo: Prentice-Hall, 2006.\nDORNELAS, J. C. A. Empreendedorismo corporativo. 2ª ed. Rio de Janeiro: Elsevier,\n2008.\nBIBLIOGRAFIA COMPLEMENTAR:\nDRUCKER, P.F; Inovação e espírito empreendedor: prática e princípios. São Paulo:\nPioneira Thomson Learning, 2003.\nRODRIGUEZ, M. R. Y., Liderança e Motivação. Coleção: Harvard Business Review.\nRio de Janeiro: Campus, 2004.\nDORNELAS, J. C. A. Empreendedorismo: transformando ideias em negócios. 5ª ed.\nRio de Janeiro: Empreende/LTC, 2014.",
+  "disciplina": "EMPREENDEDORISMO",
+  "carga_horaria": 50,
+  "periodo": 7
+ },
+ {
+  "id": 136,
+  "titulo": "Ementa - INTELIGÊNCIA ARTIFICIAL II",
+  "secao": "ementa",
+  "texto": "Período: 7\n0 SEMESTRE\nDisciplina: INTELIGÊNCIA ARTIFICIAL II\nCarga Horária: 66 h/r\nEMENTA:\nTécnicas de Preparação de Dados; Tipos de Problemas Computacionais; Pré\u0002Processamento de Dados; Modelos Computacionais Preditivos; Métodos\nProbabilísticos;Métodos Baseados em Procura; Métodos Baseados em Otimização;\nModelos MúltiplosPreditivos; Avaliação de Modelos Preditivos; Modelos Descritivos;\nBIBLIOGRAFIA BÁSICA:\nCarvalho, André. Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina.\nEdição: 1. Rio de Janeiro: LTC, 2011.\nLee, Kai-Fu, e Marcelo Barbão. Inteligência artificial. Organizado por 0. Globo Livros,\n2019.Norvig, Peter. Inteligência artificial. Edição: 3a. GEN LTC, 2013.\nGéron, Aurélien. Mãos à Obra: Aprendizado de Máquina com Scikit-Learn &\nTensorFlow.Edição: 1aa. Editora Alta Books, 2019.\nBIBLIOGRAFIA COMPLEMENTAR:\nEscovedo, Tatiana, e Adriano Koshiyama. Introdução a Data Science: Algoritmos de\nMachineLearning e métodos de análise. Casa do Código, 2020.\nDomingos, Pedro. O Algoritmo Mestre: Como a Busca Pelo Algoritmo de Machine\nLearningDefinitivo Recriará Nosso Mundo. Edição: 1a. Novatec Editora, 2017.\nRUSSEL, S. J.; NORVIG, P. Inteligência artificial. 2. ed.; Editora Campus, 2004.",
+  "disciplina": "INTELIGÊNCIA ARTIFICIAL II",
+  "carga_horaria": 66,
+  "periodo": 7
+ },
+ {
+  "id": 137,
+  "titulo": "Ementa - COMPUTAÇÃO EM NUVEM E ARQUITETURA ORIENTADAS A SERVIÇOS",
+  "secao": "ementa",
+  "texto": "Período: 7\n0 SEMESTRE\nDisciplina: COMPUTAÇÃO EM NUVEM E ARQUITETURA ORIENTADAS A SERVIÇOS\nCarga Horária: 50 h/r\nEMENTA:\nEscopo da computação em nuvem e arquiteturas orientadas a serviços: Contexto,\nmotivação, objetivos, conceitos e recursos necessários. Definições para\nComputação emNuvem: Abordagem geral de computação em nuvem e sua\naplicabilidade para o desenvolvimento de aplicações distribuídas. Vertentes de\ncomputação em nuvem: software,plataforma, infraestrutura como serviços, entre\noutras. Definições para ArquiteturasOrientadas a Serviços – SOA e Web Services:\nIntrodução ao modelo arquitetural, instalação, configuração e desenvolvimento de\naplicações orientadas a serviços. Implantação deaplicações na nuvem. Princípios\nGerais e tipos de Virtualização: Introdução, características etipos de virtualizadores,\nvantagens e desvantagens. Gerenciamento de Recursos na Nuvem: Desafios e\nsoluções que envolvem o escalonamento, provisionamento e migração de recursosna\nnuvem. Desenvolvimento e avaliação de desempenho de aplicações distribuídas\nnanuvem: Ferramentas, modelos e técnicas que permitem o desenvolvimento de\naplicações nanuvem. Avaliação de desempenho em um ambiente de nuvem.\nBIBLIOGRAFIA BÁSICA:\nTAURION, Cezar. Cloud Computing: computação em nuvem, transformando o\nmundo daTecnologia da Informação. Rio de Janeiro, RJ: Brasport, 2009.",
+  "disciplina": "COMPUTAÇÃO EM NUVEM E ARQUITETURA ORIENTADAS A SERVIÇOS",
+  "carga_horaria": 50,
+  "periodo": 7
+ },
+ {
+  "id": 138,
+  "titulo": "Ementa - COMPUTAÇÃO EM NUVEM E ARQUITETURA ORIENTADAS A SERVIÇOS (cont.)",
+  "secao": "ementa",
+  "texto": "de desempenho em um ambiente de nuvem.\nBIBLIOGRAFIA BÁSICA:\nTAURION, Cezar. Cloud Computing: computação em nuvem, transformando o\nmundo daTecnologia da Informação. Rio de Janeiro, RJ: Brasport, 2009.\nCOULOURIS, George F.; DOLLIMORE, Jean; KINDBERG, Tim. Sistemas\ndistribuídos:conceitos e projeto. 4. ed. Porto Alegre: Bookman, 2007.\nOZSU, M.Tamer. Principles of distributed database systems. 3nd. ed. New York:\nSpringer,2011.\nBIBLIOGRAFIA COMPLEMENTAR:\nJENNINGS, Roger. Cloud computing with the Windows Azure Platform. Indianapolis,\nIndiana:Wiley Pub., 2009.\nWHITE, Tom. Hadoop: the definitive guide. California: O´Reilly, 2009.\nJOSUTTIS, Nicolai M. SOA na prática: a arte da modelagem de sistemas distribuídos.\nRio deJaneiro, RJ: Alta Books, 2008.",
+  "disciplina": "COMPUTAÇÃO EM NUVEM E ARQUITETURA ORIENTADAS A SERVIÇOS",
+  "carga_horaria": 50,
+  "periodo": 7
+ },
+ {
+  "id": 139,
+  "titulo": "Ementa - TCC - I",
+  "secao": "ementa",
+  "texto": "Período: 7\n0 SEMESTRE\nDisciplina: TCC - I\nCarga Horária: 34 h/r\nEMENTA:\nDefinição do projeto com o orientador. Estudo do Pré-Projeto. Revisão bibliográfica\n(1ª parte). Desenvolvimento da metodologia de trabalho. Apresentação do Pré\u0002Projeto na forma escrita e oral, envolvendo: Introdução e objetivos. Revisão\nBibliografia. Metodologia Experimental. Resultados e Discussões. Conclusões.\nReferências Bibliográficas preliminares, seguindo normatização adotada pelo IFPA.\nEnsaios laboratoriais preliminares. Levantamento de custos e estudo de viabilidade\ndo projeto.\nBIBLIOGRAFIA BÁSICA:\nA bibliografia a ser consultada e utilizada será aquela recomendada pelo professor\u0002orientador do TCC, em conformidade com a linha de pesquisa desenvolvida no\ntrabalho.\nBIBLIOGRAFIA COMPLEMENTAR:\nA bibliografia a ser consultada e utilizada será aquela recomendada pelo professor\u0002orientador do TCC, em conformidade com a linha de pesquisa desenvolvida no\ntrabalho.\n\nComponentes Curriculares do 8º Semestre",
+  "disciplina": "TCC - I",
+  "carga_horaria": 34,
+  "periodo": 7
+ },
+ {
+  "id": 140,
+  "titulo": "Ementa - INTERNET DAS COISAS",
+  "secao": "ementa",
+  "texto": "Período: 8\n0 SEMESTRE\nDisciplina: INTERNET DAS COISAS\nCarga Horária: 50 h/r\nEMENTA:\nInternet das coisas: Redes de sensores sem fio; Protocolos de comunicação:\nZigbee, Bluetooth e IPv6; Computação em nuvens; Big Data; Arquiteturas;\nCenários e aplicações; Segurança para a Internet das coisas.\nBIBLIOGRAFIA BÁSICA:\nAngell, J. B., Barth, P. W., and Terry, S. C. (1983). Silicon micromechanical devices.\nScientific American, 248:44–55. [Ashton 2009] Ashton, K. (2009).\nThat ‘internet of things’ thing. RFiD Journal, 22(7):97–114. [Bagula and Erasmus 2015]\nBagula, B. and Erasmus, Z. (2015). Iot emulation with cooja. ICTPIoT Workshop.\nBarnaghi, P., Wang, W., Henson, C., and Taylor, K. (2012).\nBIBLIOGRAFIA COMPLEMENTAR:\nHARMAN, G. The Quadruple Objet. Zero Books, Winchester, UK, Washington, 2011.\nInternet das Coisas com ESP8266, Arduino e Raspberry Pi, Novatec Editora Ltda,\nSão Paulo,(2017).\nMAGRANI, Eduardo. A Internet das Coisas. Rio de Janeiro: FGV, 2018.",
+  "disciplina": "INTERNET DAS COISAS",
+  "carga_horaria": 50,
+  "periodo": 8
+ },
+ {
+  "id": 141,
+  "titulo": "Ementa - APLICAÇÃO DE APRENDIZADO DE MÁQUINA E MINERAÇÃO DE DADOS",
+  "secao": "ementa",
+  "texto": "Período: 8\n0 SEMESTRE\nDisciplina: APLICAÇÃO DE APRENDIZADO DE MÁQUINA E MINERAÇÃO DE\nDADOS\nCarga Horária: 66 h/r\nEMENTA:\nAprendizado supervisionado: algoritmos para classificação e regressão (percéptron,\nmodelos bayesianos, redes neurais, SVM, k-NN, árvores/florestas de decisão, etc.).\nGeneralização, medidas de erro, treinamento e teste, viés e variância, overfitting,\ntécnicas de regularização e algoritmos de validação. Aprendizado não\u0002supervisionado: algoritmos para agrupamento, detecção de anomalia, separação de\nsinais e estimação de densidade. Aprendizado por reforço: modelagem como\nprocesso de decisão de Markov e algoritmos de otimização de estratégia de\ndecisão. Redes neurais profundas e deep learning.\nBIBLIOGRAFIA BÁSICA:\nMARSLAND, S. Machine Learning – An Algorithmic Perspective. CRC Press, 2015.\nMÜLLER, A. C. & GUIDO, S. Introduction to Machine Learning with Python. O’Reilly\nMedia, 2017.\nGÉRON, A. Hands-On Machine Learning with Scikit-Learn and TensorFlow. O’Reilly\nMedia, 2017.\nBIBLIOGRAFIA COMPLEMENTAR:\nBISHOP, C. M. Pattern Recognition and Machine Learning. Springer, 2013.\nHASTIE, T., TIBSHIRANI, R. & FRIEDMAN J. The Elements of Statistical Learning.\nSpringer, 2016.\nABU-MOSTAFA, Y. S., MAGDON-ISMAIL, M. & LIN, H. Learning from Data.\nAMLbook, 2012.",
+  "disciplina": "APLICAÇÃO DE APRENDIZADO DE MÁQUINA E MINERAÇÃO DE DADOS",
+  "carga_horaria": 66,
+  "periodo": 8
+ },
+ {
+  "id": 142,
+  "titulo": "Ementa - SEGURANÇA DA INFORMAÇÃO",
+  "secao": "ementa",
+  "texto": "Período: 8\n0 SEMESTRE\nDisciplina: SEGURANÇA DA INFORMAÇÃO\nCarga Horária: 50 h/r\nEMENTA:\nPrincípios de segurança da informação. Leis, normas e padrões de segurança da\ninformação. Auditoria de Sistemas. Análise de riscos em sistemas de informação.\nConceitose tipos de ameaças, riscos e vulnerabilidades dos sistemas de informação.\nPlano de Contingência. Técnicas de avaliação de sistemas. Aspectos especiais:\nVírus, fraudes,criptografia e acesso não autorizado.\nBIBLIOGRAFIA BÁSICA:\nBaars H, Hintzbergen K, Hintzbergen J, Smulders A. Fundamentos de Segurança da\nInformação: com base na ISO 27001 e na ISO 27002. Edição: 1. BRASPORT; 2018.\n266 p.\nFontes E. Segurança da Informação: Gestão e Governança: Edição: 1. Edição do\nAutor; 2020.\nFilho SAT. Segurança da Informação Descomplicada. Clube de Autores; 2019.\nBIBLIOGRAFIA COMPLEMENTAR:\nSêmola M. Gestão da segurança da informação. Edição: 2. GEN LTC; 2013.\nFontes E. Segurança da Informação: Orientações Práticas. Edição: 1. Editora\nProfissional;2016. 285 p.\nBURNETT, S.; PAINE, S. Criptografia e Segurança: O Guia Oficial RSA. Rio de\nJaneiro: Campus, 2002.",
+  "disciplina": "SEGURANÇA DA INFORMAÇÃO",
+  "carga_horaria": 50,
+  "periodo": 8
+ },
+ {
+  "id": 143,
+  "titulo": "Ementa - TI VERDE",
+  "secao": "ementa",
+  "texto": "Período: 8\n0 SEMESTRE\nDisciplina: TI VERDE\nCarga Horária: 50 h/r\nEMENTA:\nConceituação de TI Verde; Padrões de Gestão Ambiental; Padrão de Gestão\nAmbiental ISO 14.000; Padrões Europeus; ROHS (Restriction of Hazardous\nSubstances); WEEE (Waste from Electrical and Electronic Equipment); Padrão\nAmericano – EPEAT (Electronic Product Environmental Assessment Tool);\nLegislações Brasileiras e InternacionaisPro TI Verde; Problema do Lixo Eletrônico\nno Brasil e no Mundo; Práticas de Reuso,Reciclagem e Descarte de Equipamentos\nEletro-Eletrônicos; Papel do Usuário, do Fabricantee do Vendedor; Estudos de Casos.\nBIBLIOGRAFIA BÁSICA:\nMedeiros J de, Baldin N. Ti verde educação ambiental e sustentabilidade no ensino\nprofissional e tecnológico. Edição: 1. CRV; 2020.\nFerreira CC. Introdução à Gestão Sustentável de TI: Estudo de Caso. 94 p.\nSantos MMD, Leme MO, Junior SLS. Indústria 4.0: Fundamentos, perspectivas e\naplicações.Edição: 1. Editora Érica; 2018.\nBIBLIOGRAFIA COMPLEMENTAR:\nSchwab K, Miranda DM. A Quarta Revolução Industrial. Edição: 1. Edipro; 2018.\nRogers DL, Serra AC da C. Transformação Digital: repensando o seu negócio para a\neradigital. Edição: 1. Autêntica Business; 2017.\nMANSUR, Ricardo. Governança de TI verde: o ouro verde da nova TI. Rio de Janeiro:\nCiência Moderna, 2011. 214 p.",
+  "disciplina": "TI VERDE",
+  "carga_horaria": 50,
+  "periodo": 8
+ },
+ {
+  "id": 144,
+  "titulo": "Ementa - CIÊNCIA, TECNOLOGIA E SOCIEDADE",
+  "secao": "ementa",
+  "texto": "Período: 8\n0 SEMESTRE\nDisciplina: CIÊNCIA, TECNOLOGIA E SOCIEDADE\nCarga Horária: 33 h/r\nEMENTA:\nPesquisa, ciência básica e tecnologia; Função social da ciência e tecnologia;\nImpactos do uso de tecnologia no mercado de trabalho.\nBIBLIOGRAFIA BÁSICA:\nAULER, Décio; SANTOS, Widson Luiz Pereira dos (Org.). Seminário Ibero-Americano\nCiência-Tecnologia-Sociedade no Ensino de Ciências: educação para uma nova\nordem socioambiental no contexto da crise global. Brasília: Universidade de Brasília,\n2010.\nBAZZO, Walter Antonio. Ciência, Tecnologia e Sociedade: e o contexto da educação\ntecnológica. Florianópolis: Editora UFSC, 2011.\nCASTELLS, Manuel. A sociedade em rede. 11. ed. São Paulo: Paz e Terra, 2008.\nBIBLIOGRAFIA COMPLEMENTAR:\nBAZZO, Walter Antonio; PEREIRA, Luiz Teixeira do Vale; LINSINGEN, Irlan von.\nEducação Tecnológica: Enfoques para o ensino de engenharia! 2ª edição.\nFlorianópolis: EdUFSC, 2009.\nBAZZO, Walter Antonio. Ponto de Ruptura Civilizatória: a Pertinência de uma\nEducação “Desobediente”. Revista CTS. V. 11, N. 33, p 73-91. setembro, 2016.\nKLÜVER, Lars; EINSIEDEL, Edna F. Participação pública em Ciência e Tecnologia:\ninfluenciarnas decisões e, sobretudo, manter a sociedade informada e engajada.\nHistória, Ciência, Saúde – Manguinhos, Rio de Janeiro, v.12, n. 2, maio/ago, 2005.",
+  "disciplina": "CIÊNCIA, TECNOLOGIA E SOCIEDADE",
+  "carga_horaria": 33,
+  "periodo": 8
+ },
+ {
+  "id": 145,
+  "titulo": "Ementa - TCC II",
+  "secao": "ementa",
+  "texto": "Período: 8º Semestre\nDisciplina: TCC II\nCarga Horária: 34 h/r\nEmenta:\nDefinição do projeto com o orientador. Revisão bibliográfica. Desenvolvimento da\nmetodologia de trabalho. Ensaios preliminares. Apresentação do trabalho a uma\nbanca (composta por três professores nomeados pelo colegiado do curso).\nDesenvolvimento experimental do projeto. Apresentação do projeto na forma escrita\ne oral, envolvendo: Introdução e objetivos. Revisão Bibliográfica. Metodologia\nExperimental. Resultados e Discussões. Conclusões. Referências Bibliográficas,\nseguindo normatização adotada pelo IFPA. Entrega de três vias do TCC impresso,\nencadernado e assinado pelos membros da banca e em meio magnético.\nBibliografia Básica:\nA bibliografia a ser consultada e utilizada será aquela recomendada pelo professor\norientador do TCC de acordo com a linha de pesquisa desenvolvida no trabalho.\nBibliografia Complementar:\nA bibliografia a ser consultada e utilizada será aquela recomendada pelo professor\norientador do TCC de acordo com a linha de pesquisa desenvolvida no trabalho.\n\nComponentes Curriculares Optativas I – a partir do 7º Semestre",
+  "disciplina": "TCC II",
+  "carga_horaria": 34,
+  "periodo": 8
+ },
+ {
+  "id": 146,
+  "titulo": "Ementa - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+  "secao": "ementa",
+  "texto": "Período: 7º SEMESTRE\nDisciplina: LÍNGUA BRASILEIRA DE SINAIS - LIBRAS\nCarga Horária: 50 h/r\nEMENTA:\nA partir da fundamentação teórica do conhecimento da língua de sinais, proporcionar aos alunos\no uso da mesma por meio dos sinais: Introdução: aspectos clínicos, educacionais e sócio\u0002antropológicos da Língua Brasileira de Sinais – Libras: características básicas da léxico, de\nmorfologia de sintaxe com apoio de recursos áudio-visuais; Noções de variação; Praticar Libras:\ndesenvolver a expressão visual espacial.\nBIBLIOGRAFIA BÁSICA:\nQUADROS, R. M. & KARNOPP, L. B. Língua de Sinais Brasileira: Estudos linguísticos. Porto\nAlegre, RS: Artmed., 2004.\nCAPOVILLA, F. C. & RAPHAEL, W. D. Enciclopédia da Língua de Sinais Brasileira: O mundo\ndo surdo em LIBRAS / educação. São Paulo: CNPq - Fundação Vitae - Fapesp - Capes: Editora\nda Universidade de São Paulo, Imprensa Oficial do Estado de São Paulo, 2004.\nDicionário enciclopédico ilustrado trilíngüe da Língua de Sinais Brasileira. Volume II: Sinais\nde M a Z. São Paulo, SP: Edusp, Fapesp, Fundação Vitae, Feneis, Brasil Telecom.\nBIBLIOGRAFIA COMPLEMENTAR:\nHONORA, Márcia. Livro Ilustrado de Língua Brasileira de Sinais – Desvendando a\ncomunicação usada pelas pessoas com surdez. Ed. Ciranda Cultural, 2010.\nALMEIDA, Elizabeth C. de. Atividades Ilustradas em Sinais de Libras.2ª edição. Editora\nRevinta, 2013.",
+  "disciplina": "LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+  "carga_horaria": 50,
+  "periodo": 7
+ },
+ {
+  "id": 147,
+  "titulo": "Ementa - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS (cont.)",
+  "secao": "ementa",
+  "texto": "de Sinais – Desvendando a\ncomunicação usada pelas pessoas com surdez. Ed. Ciranda Cultural, 2010.\nALMEIDA, Elizabeth C. de. Atividades Ilustradas em Sinais de Libras.2ª edição. Editora\nRevinta, 2013.\nFERNANDES, E. (Org.). Surdez e Bilinguismo. Porto Alegre: Mediação, 2005.",
+  "disciplina": "LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+  "carga_horaria": 50,
+  "periodo": 7
+ },
+ {
+  "id": 148,
+  "titulo": "Ementa - CÁLCULO DIFERENCIAL E COMPUTACIONAL III",
+  "secao": "ementa",
+  "texto": "Período: 7º SEMESTRE\nDisciplina: CÁLCULO DIFERENCIAL E COMPUTACIONAL III\nCarga Horária: 50 h/r\nEMENTA:\nIntrodução às equações diferenciais. Equações diferenciais de primeira ordem. Aplicações\nde equações diferenciais de primeira ordem. Equações diferenciais lineares de ordem\nsuperior. Aplicações de equações diferenciais de segunda ordem: modelos vibratórios.\nEquações diferenciais com coeficientes variáveis. Implementação de Equações\nDiferenciais mediante Modelos Computacionais nas Linguagens PYTHON e MATLAB.\nTransformada de Laplace; Sistema de Equações Diferenciais Lineares. Sistemas Planos\nAutônomos e Estabilidade; Implementação daTransformada de Laplace mediante Modelos\nComputacionais nas Linguagens PYTHON e MATLAB. Séries de Fourier. Problemas de\nValores de Contorno. Métododa Transformada Integral. Implementação das Séries de Fourier\nmediante Modelos Computacionais nas Linguagens PYTHON e MATLAB.\nBIBLIOGRAFIA BÁSICA:\nCHAPRA, Steven C. Métodos Numéricos Aplicados com MATLAB para Engenheiros e\nCientistas. Tradução: Rafael Silva Alípio. Revisão técnica: Antonio Pertence Junior.3ª ed.\nporto Alegre: AMGH. McGraw Hill – Bookman, 2013.\nLEITHOLD, L., O Cálculo com Geometria Analítica, Vol. 2. São Paulo: Harbra, 1994.\nMARCONDES, Guilherme A. Barucke. Matemática com PYTHON: Um Guia Prático. Novatec\nEditora. Edição do Kindle. 2018.",
+  "disciplina": "CÁLCULO DIFERENCIAL E COMPUTACIONAL III",
+  "carga_horaria": 50,
+  "periodo": 7
+ },
+ {
+  "id": 149,
+  "titulo": "Ementa - CÁLCULO DIFERENCIAL E COMPUTACIONAL III (cont.)",
+  "secao": "ementa",
+  "texto": "013.\nLEITHOLD, L., O Cálculo com Geometria Analítica, Vol. 2. São Paulo: Harbra, 1994.\nMARCONDES, Guilherme A. Barucke. Matemática com PYTHON: Um Guia Prático. Novatec\nEditora. Edição do Kindle. 2018.\nTHOMAS, G. B. Cálculo. São Paulo. Pearson. 2009. Vol. 2.\nBIBLIOGRAFIA COMPLEMENTAR:\nBOYCE, W. E. E DIPRIMA, R.C. Equações Diferenciais Elementares e Problemas deValores\nde Contorno. Rio de Janeiro. LTC. 2015.\nBOULOS, P., Cálculo Diferencial e Integral – Volume 2. Makron Books, 1999.\nCHAPMAN, Stephen J. Programação em MATLAB para Engenheiros. Tradução e\nrevisão: Flávio Soares Corrêa da Silva. 2ª Ed. São Paulo. Cengage Learning. 2010.",
+  "disciplina": "CÁLCULO DIFERENCIAL E COMPUTACIONAL III",
+  "carga_horaria": 50,
+  "periodo": 7
+ },
+ {
+  "id": 150,
+  "titulo": "Ementa - FÍSICA FUNDAMENTAL II",
+  "secao": "ementa",
+  "texto": "Período: 7º SEMESTRE\nDisciplina: FÍSICA FUNDAMENTAL II\nCarga Horária: 50 h/r\nEMENTA:\nEstática dos Fluídos e Dinâmica dos Fluídos; Temperatura; Teoria Cinética do\nGás Ideal. Introdução à Mecânica estatística. Calor e a Primeira Lei da\nTermodinâmica; A Entropia e a Segunda Lei da Termodinâmica; Oscilações\nMovimento Ondulatório; Ondas Sonoras.\nBIBLIOGRAFIA BÁSICA:\nHALLIDAY E RESNICK. Fundamentos da Física 2. Livros Técnicos Científicos\nS.A. 8ªEdição, Rio de Janeiro, 2002.\nTIPLER, P. A. Física 2. 5ª Edição. Ed. Afiliada. Rio de Janeiro, 2005.\nFEYNMAN, R.P.; LEIGHTON R.B.; SANDS M. The Feynman Lectures on\nPhysics, vol. 1. Ed. Addison-Wesley Publishing Company, 1966.\nBIBLIOGRAFIA COMPLEMENTAR:\nNUSSENZVEIG, M. Curso de Física Básica 2. Edgard Blücher. São Paulo, 1981.\nZEMANSKY, S. Física 2. Livros Técnicos e Científicos S.A. 2ª Edição. Rio de\nJaneiro,1980\nDE ALMEIDA, M. A. T. Introdução às Ciências Físicas 2. 1 ed. Rio de Janeiro:\nFundação CECIERJ, 2007. v 4",
+  "disciplina": "FÍSICA FUNDAMENTAL II",
+  "carga_horaria": 50,
+  "periodo": 7
+ },
+ {
+  "id": 151,
+  "titulo": "Ementa - ÁLGEBRA LINEAR",
+  "secao": "ementa",
+  "texto": "Período: 7º SEMESTRE\nDisciplina: ÁLGEBRA LINEAR\nCarga Horária: 50 h/r\nEMENTA:\nEspaços vetoriais. Transformações lineares. Produtos escalares. Auto\u0002valores e auto-vetores. Teorema Espectral.\nBIBLIOGRAFIA BÁSICA:\nBOLDRINI, J. L., COSTA, S. I. R., FIGUEIREDO, V. L., WETZLER, H. G.\nÁlgebra Linear. São Paulo: Harbra, 1980.\nCOELHO, F. U., LOURENÇO, M. L., Um curso de Álgebra Linear, Coleção\nEdusp – São Paulo, 2007.KOLMAN, B., HILL, D. R. Introdução à Álgebra\nLinear com Aplicações. Rio de Janeiro: LTC, 2006.\nLIMA, E. Álgebra Linear. Coleção Matemática Universitária. Rio de Janeiro:\nIMPA, 2001.\nBIBLIOGRAFIA COMPLEMENTAR:\nCARVALHO, J. Pitombeira - Introdução à Álgebra Linear.\nHOFFMAN, K., KUNZE, R. Álgebra Linear. Tradução de Adalberto P.\nBergamasco. São Paulo: Polígono S.A.,1970.\nLIMA, E. L. - Álgebra Linear - Projeto Euclides, IMPA -CNPq, 1996.",
+  "disciplina": "ÁLGEBRA LINEAR",
+  "carga_horaria": 50,
+  "periodo": 7
+ },
+ {
+  "id": 152,
+  "titulo": "Ementa - TÓPICOS AVANÇADOS EM COMPUTAÇÃO I",
+  "secao": "ementa",
+  "texto": "Período: 7º SEMESTRE -\nDisciplina: TÓPICOS AVANÇADOS EM COMPUTAÇÃO I\nCarga Horária: 50 h/r\nEMENTA: Disciplina de conteúdo livre sobre atualidades e tendências sobre a área de computação ater o programa adaptado às\nnecessidades específicas quando da oferta da disciplina. A temática central desta disciplina será a computação quanto tecnologia\ntransformadora da sociedade. Apresentar alguns tópicos que sejam considerados “Estado da Arte”, de tal forma que aproxime os\nalunos à Pesquisa e à Pós-Graduação na área de Computação\nBIBLIOGRAFIA BÁSICA:\nSociedade Brasileira de Computação. [citado 21 de julho de 2020]. Disponível em:https://www.sbc.org.br/\nPortal de Publicações e Conteúdo Digital da SBC [Internet]. [citado 21 de julho de 2020]. Disponível em:\nhttps://sol.sbc.org.br/index.php/indice\nSBPC – Sociedade Brasileira para o Progresso da Ciência [Internet]. [citado 21 de julho de 2020]. Disponível em:\nhttp://portal.sbpcnet.org.br/\nBIBLIOGRAFIA COMPLEMENTAR:\nMCTI [Internet]. [citado 21 de julho de 2020]. Disponível em: http://www.mctic.gov.br/portal\nCNPq - Portal CNPq [Internet]. [citado 21 de julho de 2020]. Disponível em:http://www.cnpq.br/\nCAPES – Portal Capes - https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br/index.php?\n\nComponentes Curriculares Optativas II – 8º Semestre",
+  "disciplina": "TÓPICOS AVANÇADOS EM COMPUTAÇÃO I",
+  "carga_horaria": 50,
+  "periodo": 7
+ },
+ {
+  "id": 153,
+  "titulo": "Ementa - INTRODUÇÃO À COMPUTAÇÃO EVOLUCIONÁRIA",
+  "secao": "ementa",
+  "texto": "Período: 8º SEMESTRE\nDisciplina: INTRODUÇÃO À COMPUTAÇÃO EVOLUCIONÁRIA\nCarga Horária: 50 h/r\nEMENTA:\nIntrodução à Computação Evolucionária: paradigmas, histórico e métodos de otimização.\nPrincípios de adaptação dos seres vivos. Problemas com localidade fraca. Algoritmos de\npopulações: estratégias evolutivas, algoritmo de SimulatedAnnealing, algoritmos genéticos,\nalgoritmos imunológicos, algoritmos de enxames, algoritmos de colônias de formigas,\nalgoritmos meméticos, algoritmos de evolução diferencial. Generalização de princípios e\noutros algoritmos. Otimização monoobjetivo versus multiobjetivo. Algoritmos evolutivos de\notimização multiobjetivo. Aplicações. Outras técnicas de Computação Evolucionária: Evolução\nDiferencial, Redes Neurais Artificiais, Árvorede Decisão.\nBIBLIOGRAFIA BÁSICA:\nA.E. EIBEN, J.E. SMITH, IntroductiontoEvolutionaryComputing (Natural Computing Series),\nSpringer 2008.\nBACK, Thomas. Evolutionaryalgorithms in theory and practice: evolution strategies\nevolutionary programming genetic algorithms. New York: Oxford University Press, 1996.\nGASPAR-CUNHA, António, TAKAHASHI, Ricardo H. C., ANTUNES, Carlos Henggeler.\nManual de Computação Evolutiva e Metaheurística, Imprensa da Universidade de\nCoimbra/Editora da Universidade Federal de Minas Gerais, 2013.\nMICHALEWICZ, Zbigniew. Geneticalgorithms + data systems = evolutionprograms. 3rd, rev.",
+  "disciplina": "INTRODUÇÃO À COMPUTAÇÃO EVOLUCIONÁRIA",
+  "carga_horaria": 50,
+  "periodo": 8
+ },
+ {
+  "id": 154,
+  "titulo": "Ementa - INTRODUÇÃO À COMPUTAÇÃO EVOLUCIONÁRIA (cont.)",
+  "secao": "ementa",
+  "texto": "tiva e Metaheurística, Imprensa da Universidade de\nCoimbra/Editora da Universidade Federal de Minas Gerais, 2013.\nMICHALEWICZ, Zbigniew. Geneticalgorithms + data systems = evolutionprograms. 3rd, rev.\nandextended ed.Berlin: Springer, c1996. 387 p.\nBIBLIOGRAFIA COMPLEMENTAR:\nKENNEDY, James F.; EBERHART, Russell C.; SHI, Yuhui. Swarmintelligence. San\nFrancisco: MorganKaufmann Publishers, c2001. xxvii, 512 p.\nGOLDBERG, David E. (David Edward). Geneticalgorithms in searchoptimizationand\nmachinelearning. Reading,Mass.: Addison-Wesley, c1989. xiii,412p.\nCOLEY, David A. Anintroductiontogeneticalgorithms for scientistsandengineers. Singapore;\nRiver Edge, NJ:World Scientific, c1999. xvi, 227 p.",
+  "disciplina": "INTRODUÇÃO À COMPUTAÇÃO EVOLUCIONÁRIA",
+  "carga_horaria": 50,
+  "periodo": 8
+ },
+ {
+  "id": 155,
+  "titulo": "Ementa - SISTEMA DE INFORMAÇÕES GEOGRÁFICAS",
+  "secao": "ementa",
+  "texto": "Período: 8º SEMESTRE\nDisciplina: SISTEMA DE INFORMAÇÕES GEOGRÁFICAS\nCarga Horária: 50 h/r\nEMENTA:\nO uso de computadores para a aquisição, armazenamento,\ngerenciamento, análise e exibição dedados espaciais (geográficos).\nBIBLIOGRAFIA BÁSICA:\nASSAD, E. D. e SANO, E. E. Sistema de Informações Geográficas:\nAplicações na Agricultura. EMBRAPA/CPAC,Brasília, 1998.\nCLARK, K.C. Analyticaland Computer Cartography. Prentice-Hall,\nEnlewood Cliffs, NJ, 1995.\nCROMLEY, R.G. Digital Cartography. Prentice-Hall, Enlewood Cliffs,\nNJ, 1992.\nBIBLIOGRAFIA COMPLEMENTAR:\nMASSER, I.; BLAKEMORE, M. Handeling Geographi calI nformation:\nMethodology and Potential Applications. Longman Scientific &\nTechnical, NY, 1994.\nMATHER, P.M. Computer Applications in Geography. Printed Wiley,\nNY, 1994.\nROSA, R. Introdução ao Sensoriamento Remoto. 5a. ed., Edufu,\nUberlândia, 2003.",
+  "disciplina": "SISTEMA DE INFORMAÇÕES GEOGRÁFICAS",
+  "carga_horaria": 50,
+  "periodo": 8
+ },
+ {
+  "id": 156,
+  "titulo": "Ementa - TÓPICOS AVANÇADOS EM COMPUTAÇÃO II",
+  "secao": "ementa",
+  "texto": "Período: 8º SEMESTRE\nDisciplina: TÓPICOS AVANÇADOS EM COMPUTAÇÃO II\nCarga Horária: 50 h/r\nEMENTA:\nDisciplina de conteúdo livre sobre atualidades e tendências sobre a área de\ncomputação ater o programa adaptado às necessidades específicas quando da oferta\nda disciplina. A temática central desta disciplina será a computação quanto tecnologia\ntransformadora da sociedade.\nBIBLIOGRAFIA BÁSICA:\nSociedade Brasileira de Computação. [citado 21 de julho de 2020]. Disponível em:\nhttps://www.sbc.org.br/\nPortal de Publicações e Conteúdo Digital da SBC [Internet]. [citado 21 de julho de\n2020].Disponível em: https://sol.sbc.org.br/index.php/indice\nSBPC – Sociedade Brasileira para o Progresso da Ciência [Internet]. [citado 21 de\njulho de2020]. Disponível em: http://portal.sbpcnet.org.br/\nBIBLIOGRAFIA COMPLEMENTAR:\nMCTI [Internet]. [citado 21 de julho de 2020]. Disponível em:\nhttp://www.mctic.gov.br/portal\nCNPq - Portal CNPq [Internet]. [citado 21 de julho de 2020]. Disponível em:\nhttp://www.cnpq.br/\nCAPES – Portal Capes - https://www-periodicos-capes-gov\u0002br.ezl.periodicos.capes.gov.br/index.php?\n\nMINISTÉRIO DA EDUCAÇÃO\nINSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO\nPARÁ\nSISTEMA INTEGRADO DE PATRIMÔNIO, ADMINISTRAÇÃO E\nCONTRATOS\nFOLHA DE ASSINATURAS\nEmitido em 2021\nANEXO Nº 1985/2021 - ANAN/DEPPI (11.15.02)\n(Nº do Protocolo: NÃO PROTOCOLADO)\n(Assinado digitalmente em 08/06/2021 08:43 )",
+  "disciplina": "TÓPICOS AVANÇADOS EM COMPUTAÇÃO II",
+  "carga_horaria": 50,
+  "periodo": 8
+ },
+ {
+  "id": 157,
+  "titulo": "Ementa - TÓPICOS AVANÇADOS EM COMPUTAÇÃO II (cont.)",
+  "secao": "ementa",
+  "texto": "DE PATRIMÔNIO, ADMINISTRAÇÃO E\nCONTRATOS\nFOLHA DE ASSINATURAS\nEmitido em 2021\nANEXO Nº 1985/2021 - ANAN/DEPPI (11.15.02)\n(Nº do Protocolo: NÃO PROTOCOLADO)\n(Assinado digitalmente em 08/06/2021 08:43 )\nKAMILA BATISTA DA SILVA BARBOSA MENEZES\nDIRETOR DE ENSINO\n1819666\nPara verificar a autenticidade deste documento entre em https://sipac.ifpa.edu.br/documentos/ informando seu\nnúmero: 1985, ano: 2021, tipo: ANEXO, data de emissão: 08/06/2021 e o código de verificação: 5d9caaef75",
+  "disciplina": "TÓPICOS AVANÇADOS EM COMPUTAÇÃO II",
+  "carga_horaria": 50,
+  "periodo": 8
+ }
+]
