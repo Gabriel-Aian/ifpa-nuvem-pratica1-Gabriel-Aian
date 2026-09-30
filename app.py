@@ -12,7 +12,7 @@ Variáveis de ambiente
   PORT                     porta injetada pelo PaaS (padrão 5000)
   MODO                     "mock" (padrão, sem custo/limite externo) ou "real" (ReAct + Gemini)
   GEMINI_API_KEY           chave da API (apenas no modo real; configurar no painel do PaaS)
-  GEMINI_MODEL             modelo barato do Gemini (padrão gemini-2.5-flash-lite)
+  GEMINI_MODEL             modelo barato do Gemini (padrão gemini-3.1-flash-lite)
   MAX_LLM_CONCORRENTES     chamadas simultâneas ao LLM por worker (padrão 3)
 """
 import datetime
