@@ -29,7 +29,6 @@ def predict_mock_ia():
     if not user_prompt:
         return jsonify({"erro": "Bad Request", "mensagem": "Prompt ausente"}), 400
 
-    # Mock Simulado: Na sexta-feira você integrará o seu Agente RAG Real aqui!
     resposta_simulada = f"[AGENTE IA MOCK] Processando busca semantica para o prompt: '{user_prompt}'"
 
     nova_transacao = {
