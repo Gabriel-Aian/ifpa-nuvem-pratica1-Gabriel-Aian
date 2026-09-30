@@ -1,0 +1,17 @@
+.git
+.gitignore
+.dockerignore
+.venv
+venv
+__pycache__
+*.pyc
+.env
+*.md
+Dockerfile
+locustfile.py
+requirements-locust.txt
+ingest_ppc.py
+ppc_raw.txt
+*.pdf
+resultados
+docs
